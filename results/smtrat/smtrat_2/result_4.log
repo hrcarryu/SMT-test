@@ -1,0 +1,27 @@
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MGC/mgc_02.smt2 : 1150 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 232827 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MGC/mgc_03.smt2 : 1800092 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MGC/mgc_04.smt2 : 158193 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 283672 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MGC/mgc_05.smt2 : 1800217 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 289780 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MGC/mgc_06.smt2 : 1800031 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 293936 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MGC/mgc_07.smt2 : 1800038 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 296900 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MGC/mgc_08.smt2 : 1800037 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 299392 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MGC/mgc_09.smt2 : 1800052 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 301599 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MGC/mgc_10.smt2 : 1800114 ms.

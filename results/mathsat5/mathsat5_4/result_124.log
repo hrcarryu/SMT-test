@@ -1,0 +1,183 @@
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 213842 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_2001TACAS-BallPodelskiRajamani.c_Iteration2_0.smt2 : 1800276 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_agroce_minmax.c_Iteration1_0.smt2 : 160 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_agroce_minmax.c_Iteration2_0.smt2 : 531 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 261833 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_agroce_minmax.c_Iteration2_1.smt2 : 1800212 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_BeyerHenzingerMajumdarRybalchenko-PLDI2007-Figure4.bpl_Iteration2_0.smt2 : 692 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 289688 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_BoolVsInt.c_Iteration3_0.smt2 : 1800139 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_BugFreshConstantInSSA.bpl_Iteration2_0.smt2 : 206 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 304679 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_BugHoareAnnotationWithMinimiation.bpl_Iteration1_0.smt2 : 1800105 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 319291 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_BugIntegerDivision01.c_Iteration2_0.smt2 : 1800133 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 327110 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_BugIsInductiveReturnGlobalVarRenaming.bpl_Iteration1_0.smt2 : 1800098 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_BugSubstitution.bpl_Iteration3_0.smt2 : 95 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 330003 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_bugtest1.bpl_Iteration2_0.smt2 : 1800129 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_bugtest1.bpl_Iteration2_1.smt2 : 72 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ConditionalExpression-SideEffects-Safe.c_Iteration1_0.smt2 : 2293 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_ConditionalExpression-SideEffects-Safe.c_Iteration1_1.smt2 : 1089 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_ConditionalExpression-SideEffects-Safe.c_Iteration1_2.smt2 : 457 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 333472 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_DivisibilityInterpolantRequired02-ForwardSuccess.bpl_Iteration1_0.smt2 : 1800127 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_doubleLoopUniformIterations.bpl_Iteration2_0.smt2 : 80 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_Elevator.bpl_Iteration1_0.smt2 : 2280 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_EuclideanIntegerDivision.bpl_Iteration4_0.smt2 : 355 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_GateControllerIncorrect1.bpl_Iteration1_0.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_GoannaDoubleFreeWithoutPointers.bpl_Iteration1_0.smt2 : 29062 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 336575 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_GoannaDoubleFreeWithoutPointers.bpl_Iteration1_1.smt2 : 1800233 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 339173 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_GoannaDoubleFreeWithoutPointers.c_Iteration2_0.smt2 : 1800209 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_GopanReps-CAV2006-Fig1.c_Iteration2_0.smt2 : 1368 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 341784 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_ImpulseTest.bpl_Iteration2_0.smt2 : 1800098 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_InvariantSynthesis_Disjunctive02.bpl_Iteration1_0.smt2 : 1563 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_LabelEncodingWithUnrolling.bpl_Iteration2_0.smt2 : 146 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_LexIndexValue-Pointer-Reduced.bpl_Iteration1_0.smt2 : 71 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ManyFactsAboutX.bpl_Iteration1_0.smt2 : 54 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ManyFactsAboutX.bpl_Iteration1_1.smt2 : 65 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_MonadicInvariant01.bpl_Iteration1_0.smt2 : 69 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 344276 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_NutzTransformation05.c_Iteration1_0.smt2 : 1800051 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_OrderDependentEquality.c_Iteration2_0.smt2 : 74 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_pcatest0.bpl_Iteration1_0.smt2 : 98 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_pcatest1.bpl_Iteration1_0.smt2 : 408 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_pcatest1.bpl_Iteration1_1.smt2 : 198 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 346661 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_PostfixIncrementDecrement.c_Iteration3_0.smt2 : 1800107 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 351138 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_PrefixIncrementDecrement.c_Iteration3_0.smt2 : 1800454 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_PrefixIncrementDecrement.c_Iteration3_1.smt2 : 162 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_s3_srvr_1b_true-unreach-call_false-termination.cil.c_Iteration1_0.smt2 : 1088 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 353376 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_SAS09.c_Iteration2_0.smt2 : 1800106 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 355541 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_SAS09.c_Iteration3_0.smt2 : 1800221 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_SAS09doubleLoop-incorrect.bpl_Iteration3_0.smt2 : 507 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_SAS09doubleLoop-incorrect.bpl_Iteration3_1.smt2 : 260 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 357788 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_ShortCircuit-SideEffect-DoStatement-Safe.c_Iteration2_0.smt2 : 1800142 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ShortCircuit-SideEffect-FunctionCallExpression-Safe.c_Iteration1_0.smt2 : 936 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ShortCircuit-SideEffect-SwitchStatement-Safe.c_Iteration1_0.smt2 : 1679 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ShortCircuit-SideEffect-SwitchStatement-Safe.c_Iteration1_1.smt2 : 167 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ShortCircuit-SideEffect-SwitchStatement-Unsafe.c_Iteration1_0.smt2 : 3431 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ShortCircuit-SideEffect-SwitchStatement-Unsafe.c_Iteration1_1.smt2 : 102 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ShortCircuit-SideEffect-SwitchStatement-Unsafe.c_Iteration1_2.smt2 : 127 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_StructPositiveSum-Safe.c_Iteration2_0.smt2 : 2361 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 359905 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_TestIntegerDivision01.c_Iteration3_0.smt2 : 1800177 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_TestIntegerDivision01.c_Iteration4_0.smt2 : 2284 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_TestSequentialComposition.bpl_Iteration3_0.smt2 : 64 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_TestSimultaneousAssignment.bpl_Iteration1_0.smt2 : 5104 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_threadpooling_out2.mover.bpl_Iteration2_0.smt2 : 3139 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 362063 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_threadpooling_out2.mover.bpl_Iteration2_1.smt2 : 1800231 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_threadpooling_out_Reals.bpl_Iteration1_0.smt2 : 4207 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 364264 Killed                  ./mathsat ../$1
+QF_NRA/UltimateAutomizer/InVarSynth_WaterTank2-NumberVariables.bpl_Iteration2_0.smt2 : 1800178 ms.

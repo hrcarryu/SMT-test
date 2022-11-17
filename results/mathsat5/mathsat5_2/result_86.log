@@ -1,0 +1,36 @@
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 93293 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0220.smt2 : 1800082 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0221.smt2 : 1083 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 106940 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0222.smt2 : 1800168 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0223.smt2 : 70 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0224.smt2 : 83 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 110071 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0225.smt2 : 1800067 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0226.smt2 : 75 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 112549 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0227.smt2 : 1800071 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 114753 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0230.smt2 : 1800606 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0231.smt2 : 429 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 116309 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0232.smt2 : 1800711 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/3/weak/exp-problem-10-3-weak-chunk-0233.smt2 : 47 ms.

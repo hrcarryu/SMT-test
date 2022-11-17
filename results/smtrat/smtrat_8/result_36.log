@@ -1,0 +1,600 @@
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 126563 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800106 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 170897 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800065 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 176397 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800057 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 179991 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800088 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 182897 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.6.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800196 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 184861 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.6.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800166 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 186402 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800295 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 188268 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800627 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 190295 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800047 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 192132 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1800037 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 193481 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800058 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 194885 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800049 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 196478 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/ATVA2013-diff42-int.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 1800044 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 197949 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/ATVA2013-diff42-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800029 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 199146 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-int.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800046 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 200998 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800187 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 202144 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-real.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 2033852 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 203378 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-real.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800356 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 204339 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/ATVA2013-zeno-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800030 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 206158 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800034 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 207299 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800126 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 208295 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800030 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 209185 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1800129 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 210228 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800026 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 211013 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800455 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 211820 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800455 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 212592 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800970 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 213347 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1800416 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 214230 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Boulder.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800044 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 214840 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Boulder.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800030 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 215510 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/bound-scaled200.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800032 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 216327 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800049 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 216893 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800231 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 217624 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800073 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 218445 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800067 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 219074 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800029 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 219674 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800068 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 220293 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800077 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 278610 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800033 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 282409 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1800036 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 283490 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800037 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 284346 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800031 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 284931 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800060 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 285438 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 1800032 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 286236 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800048 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 287062 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1800066 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 288090 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800052 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 288756 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800056 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 289396 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800064 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 289831 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 1800053 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 319611 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800063 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 322250 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 1800118 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 323909 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1800090 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 324546 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1800154 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 325026 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800125 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 325535 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800082 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 326014 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800176 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 326592 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800077 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 327063 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800048 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 327694 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1800061 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 328199 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800088 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 328589 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1805401 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 329312 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1800058 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 329725 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1800062 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 330372 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/ChenFlurMukhopadhyay-2012SAS-Fig1.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800097 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 331544 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/ChenFlurMukhopadhyay-2012SAS-Fig1.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800086 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 331897 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-lexTemplate.smt2 : 1800968 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 332302 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-nestedTemplate.smt2 : 1803924 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 332839 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-phaseTemplate.smt2 : 1800342 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 333178 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800217 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 333479 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-lexTemplate.smt2 : 1800212 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 333792 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-nestedTemplate.smt2 : 1800081 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 334114 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-phaseTemplate.smt2 : 1800138 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 334412 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800241 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 334725 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 1800561 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 335072 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-nestedTemplate.smt2 : 1800166 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 335362 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 1800343 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 335731 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 : 1800225 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 336003 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1800245 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 336263 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 : 1800181 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 336548 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800225 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 336812 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 : 1800521 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 337102 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800162 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 337353 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_affineTemplate.smt2 : 1800051 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 337617 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-lexTemplate.smt2 : 1800064 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 337873 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-nestedTemplate.smt2 : 1800072 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 338149 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-phaseTemplate.smt2 : 1800307 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 338407 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1800151 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 338684 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-lexTemplate.smt2 : 1800083 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 338926 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-nestedTemplate.smt2 : 1800597 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 339192 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-phaseTemplate.smt2 : 1800101 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 339437 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800301 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 367721 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-lexTemplate.smt2 : 1800135 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 369964 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-nestedTemplate.smt2 : 1800172 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 371608 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 1800230 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 372165 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1807500 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 372749 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_5-nestedTemplate.smt2 : 1800204 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 373080 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 1800146 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 373426 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_6-nestedTemplate.smt2 : 1800307 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 373758 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1800221 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 374110 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-nestedTemplate.smt2 : 1800241 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 374408 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1800119 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 374879 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_affineTemplate.smt2 : 1800071 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 375118 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800062 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 376294 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800054 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 376625 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1800057 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 377301 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800068 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 378304 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800136 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 378567 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1800043 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 379064 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800042 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 379304 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800056 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 379523 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/CopenhagenWithTmp.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800059 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 379792 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/CopenhagenWithTmp.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800037 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 380013 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/DecreasingInvariant.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800075 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 380256 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/DecreasingInvariant.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800107 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 380484 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800252 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 380733 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800836 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 380977 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1801691 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 381258 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Garmisch.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1801487 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 381493 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Garmisch.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800137 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 381724 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Gcd.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800488 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 381941 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800118 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 382186 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800124 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 382413 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1805634 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 382865 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800122 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 383090 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1855870 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 383347 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800082 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 383669 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Gothenburg.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800203 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 384067 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800019 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 384281 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800031 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 384518 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1800205 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 384747 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800020 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 384985 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800016 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 385204 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/IncreasingSI.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800067 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 385438 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Khartoum.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800085 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 385667 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Khartoum.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800065 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 385903 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800100 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 386129 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800062 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 386374 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800065 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 386592 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800051 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 387314 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1800086 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 387526 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Madrid.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800052 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 387912 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Madrid.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800061 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 388103 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800073 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 388324 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800072 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 388518 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800093 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 388740 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/MultiPhase1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800052 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 388937 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/MultiPhase1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800070 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 389147 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Mysore2.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800107 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 389351 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Mysore2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800156 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 389567 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Mysore.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800196 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 389763 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800184 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 389949 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1819025 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 390157 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800676 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 390374 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 2439121 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 390627 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/NoriSharma-2013FSE-Fig7.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 1800089 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 390790 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/NoriSharma-2013FSE-Fig7.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800060 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 391044 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/NoriSharma-2013FSE-Fig7.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1800083 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 391281 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Nyala-TwoLex.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800049 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 391492 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Nyala-TwoLex.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800039 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 391709 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Nyala-TwoLex.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800045 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 391909 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800052 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 392130 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800078 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 392326 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800109 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 392546 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800046 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 392768 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800064 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 393030 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1800060 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 393229 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800114 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 393443 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 1811152 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 393657 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800088 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 393872 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 1800048 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 394061 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1800038 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 394270 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1800051 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 394449 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/piecewise.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800046 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 394655 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Rotation02.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800059 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 394835 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/Rotation02.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800060 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 395044 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/SanDiego.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800079 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 395231 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/SantaBarbara01.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800177 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 395446 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/SantaBarbara01.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800082 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 395633 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/SantaBarbara01.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800047 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 395838 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/SantaBarbara02.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800238 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 396027 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/SantaBarbara02.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800135 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 396231 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/SantaBarbara02.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800115 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 396445 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800220 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 396658 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800076 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 396857 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 1800078 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 397080 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800103 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 397293 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1930508 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 397656 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800675 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 397867 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1916859 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 398235 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800112 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 398406 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800129 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 398613 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 1800132 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 398799 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 1800140 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 399189 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800180 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 399376 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1800199 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 399573 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800948 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 419254 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 3799720 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 425814 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportBooleans3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800257 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 431680 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDisjunction1.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800243 ms.

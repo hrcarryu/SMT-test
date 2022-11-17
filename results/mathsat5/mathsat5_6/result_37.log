@@ -1,0 +1,108 @@
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDisjunction4.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1279 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDisjunction4.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 71986 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 41381 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 196009 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 59411 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 395355 Killed                  ./mathsat ../$1
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1801651 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 12397 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 : 19804 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 28216 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 : 33992 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 73963 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/TelAviv-AmirMinimum.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 85864 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/TelAviv-AmirMinimum.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 352981 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Thun.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 2263 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Thun.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 26832 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/ThunPower2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 688 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/TwoPhase.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 901 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/TwoPhase.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 16092 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/Wellington.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 369 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/yPositive-MixedIntReal.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 4409 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/yPositive-MixedIntReal.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 82349 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 304970 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 399993 Killed                  ./mathsat ../$1
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800675 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 104013 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 402818 Killed                  ./mathsat ../$1
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800874 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 44835 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 66474 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 301808 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 407048 Killed                  ./mathsat ../$1
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800360 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 408468 Killed                  ./mathsat ../$1
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800373 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 161017 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 410691 Killed                  ./mathsat ../$1
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800505 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 413059 Killed                  ./mathsat ../$1
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800816 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 251777 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/ZenoWithoutDivision.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 528 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/ZenoWithoutDivision.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 515 ms.

@@ -1,0 +1,30 @@
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/problem/13/sqrt-problem-13-chunk-0013.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/problem/13/sqrt-problem-13-chunk-0015.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/problem/13/sqrt-problem-13-chunk-0016.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/problem/13/sqrt-problem-13-chunk-0018.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/problem/13/sqrt-problem-13-chunk-0019.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/problem/13/sqrt-problem-13-chunk-0021.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/problem/13/sqrt-problem-13-chunk-0022.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/problem/13/sqrt-problem-13-chunk-0023.smt2 : 35 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 60507 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/sqrt/problem/13/sqrt-problem-13-chunk-0024.smt2 : 1800079 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/problem/13/sqrt-problem-13-chunk-0025.smt2 : 31 ms.

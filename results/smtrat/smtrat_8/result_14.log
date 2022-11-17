@@ -1,0 +1,225 @@
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_AmerMathMonthly10347LHSa.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_AmerMathMonthly10347LHSb.smt2 : 4369 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 147806 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_AmerMathMonthly10347RHS.smt2 : 1800226 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_2_m1.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_3_m1.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_3_m2.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_4_m1.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_4_m2.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_4_m3.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_5_m1.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_5_m2.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_5_m3.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_5_m4.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_FibonacciPoly_a.smt2 : 36 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 172748 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_FibonacciPoly_b.smt2 : 1800045 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_KnoppSchur_a.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_KnoppSchur_b.smt2 : 879 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 177290 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinLHS.smt2 : 1803369 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinRHSa.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinRHSb.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinRHSc.smt2 : 68 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 181216 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinRHSm.smt2 : 1800459 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 183368 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Mitrinovic_7_31.smt2 : 1802488 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 185064 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Mitrinovic_7_32.smt2 : 1802192 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 186867 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Weierstrass_1_LHS.smt2 : 1800374 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Weierstrass_2_LHS.smt2 : 280 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex1c.smt2 : 229 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex1d.smt2 : 257 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex1e.smt2 : 281 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex1f.smt2 : 512 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex2c.smt2 : 248 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex2d.smt2 : 259 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3a.smt2 : 285 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3b.smt2 : 265 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3c.smt2 : 281 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3d.smt2 : 293 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3e.smt2 : 319 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3f.smt2 : 293 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4b.smt2 : 274 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4c.smt2 : 284 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4d.smt2 : 281 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4e.smt2 : 277 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4f.smt2 : 298 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4g.smt2 : 313 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4h.smt2 : 325 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4i.smt2 : 343 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4j.smt2 : 353 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_14a.smt2 : 481 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_14b.smt2 : 473 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_14c.smt2 : 141458 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_14d.smt2 : 287651 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 189638 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_14e.smt2 : 1800865 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 191499 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_15.smt2 : 1800134 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 192787 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_20.smt2 : 1800050 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 194120 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_3_27.smt2 : 1801014 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 195867 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_3_28.smt2 : 1800202 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_3_29.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_3_31.smt2 : 9867 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_14.smt2 : 34 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 197247 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_18.smt2 : 1800263 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_19.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_1.smt2 : 75741 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_22a.smt2 : 29 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 198637 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_22b.smt2 : 1800368 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 200026 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_23.smt2 : 1801127 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_29_1.smt2 : 62 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_29_2.smt2 : 296 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 201593 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_30_1.smt2 : 1800071 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 202737 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_30_2.smt2 : 1800121 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_3.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_4.smt2 : 42 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 203799 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_7_35.smt2 : 1800231 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_8_3.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_8_4.smt2 : 58 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_8_8.smt2 : 66 ms.

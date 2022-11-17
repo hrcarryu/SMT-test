@@ -1,0 +1,225 @@
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_AmerMathMonthly10347LHSa.smt2 : 29 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 243621 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_AmerMathMonthly10347LHSb.smt2 : 1800144 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 257251 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_AmerMathMonthly10347RHS.smt2 : 1800122 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 260862 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_2_m1.smt2 : 1800334 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_3_m1.smt2 : 79 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 263550 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_3_m2.smt2 : 1800173 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 265921 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_4_m1.smt2 : 1800093 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_4_m2.smt2 : 545 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 267419 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_4_m3.smt2 : 1800185 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_5_m1.smt2 : 102 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 268543 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_5_m2.smt2 : 1800184 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 269973 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_5_m3.smt2 : 1800128 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 271978 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_5_m4.smt2 : 1800091 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_FibonacciPoly_a.smt2 : 53 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 273063 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_FibonacciPoly_b.smt2 : 1800112 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_KnoppSchur_a.smt2 : 55 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 274305 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_KnoppSchur_b.smt2 : 1800148 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 275319 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinLHS.smt2 : 1800098 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 276309 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinRHSa.smt2 : 1800097 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 277239 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinRHSb.smt2 : 1800126 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 278470 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinRHSc.smt2 : 1800204 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 279183 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinRHSm.smt2 : 1800077 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 279970 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Mitrinovic_7_31.smt2 : 1800056 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 280718 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Mitrinovic_7_32.smt2 : 1800111 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 281481 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Weierstrass_1_LHS.smt2 : 1800080 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Weierstrass_2_LHS.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex1c.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex1d.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex1e.smt2 : 42 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 282175 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex1f.smt2 : 1800061 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex2c.smt2 : 40 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 282950 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex2d.smt2 : 1800063 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 283852 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3a.smt2 : 1800081 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 284407 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3b.smt2 : 1800102 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 285230 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3c.smt2 : 1800064 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 285845 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3d.smt2 : 1800066 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 286260 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3e.smt2 : 1800108 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 286953 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex3f.smt2 : 1800047 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4b.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4c.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4d.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4e.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4f.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4g.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4h.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4i.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC10_ex4j.smt2 : 44 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 287596 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_14a.smt2 : 1800120 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 288214 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_14b.smt2 : 1800405 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 288911 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_14c.smt2 : 1800182 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 289577 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_14d.smt2 : 1800374 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 290356 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_14e.smt2 : 1800220 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 290916 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_15.smt2 : 1800168 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 291314 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_JSC_SUMCracker_20.smt2 : 1800446 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 291760 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_3_27.smt2 : 1800118 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 292170 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_3_28.smt2 : 1800145 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 292605 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_3_29.smt2 : 1800061 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 292973 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_3_31.smt2 : 1800033 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 293347 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_14.smt2 : 1800080 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 293742 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_18.smt2 : 1800341 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_19.smt2 : 74 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 294091 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_1.smt2 : 1800227 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_22a.smt2 : 47 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 294470 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_22b.smt2 : 1800084 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 294960 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_23.smt2 : 1800242 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 295303 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_29_1.smt2 : 1800048 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 295633 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_29_2.smt2 : 1800073 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 295957 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_30_1.smt2 : 1800058 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 296293 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_30_2.smt2 : 1800084 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_3.smt2 : 270 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_4_4.smt2 : 487 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 296749 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_7_35.smt2 : 1800161 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 297089 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_8_3.smt2 : 1800079 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 297409 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_8_4.smt2 : 1800089 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 297725 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_Mitrinovic_8_8.smt2 : 1800301 ms.

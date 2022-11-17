@@ -1,0 +1,45 @@
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-lexTemplate.smt2 : 31884 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 69666 Killed                  ./mathsat ../$1
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800760 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_4-lexTemplate.smt2 : 52520 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 73573 Killed                  ./mathsat ../$1
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800982 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 16616 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_2-pieceTemplate.smt2 : 101966 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-lexTemplate.smt2 : 23306 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 936738 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_4-lexTemplate.smt2 : 61008 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 76233 Killed                  ./mathsat ../$1
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 : 1800653 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 : 20901 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/Toulouse-BranchesToLoop_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/Toulouse-BranchesToLoop_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 119 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/Toulouse-BranchesToLoop_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 264 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 78907 Killed                  ./mathsat ../$1
+QF_NRA/LassoRanker/SV-COMP/Urban_true-termination.c_Iteration1_Loop_affineTemplate.smt2 : 1803236 ms.

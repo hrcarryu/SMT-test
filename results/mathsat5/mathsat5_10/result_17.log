@@ -1,0 +1,600 @@
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_0.smt2 : 35 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 151748 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_10.smt2 : 1800131 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_11.smt2 : 38 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 166204 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_12.smt2 : 1800113 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_13.smt2 : 34 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 170531 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_14.smt2 : 1800109 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_15.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_1.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_2.smt2 : 57 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_3.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_4.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_5.smt2 : 35 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 173733 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_6.smt2 : 1800107 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_7.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_8.smt2 : 307 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.qfree_global_9.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_0.smt2 : 34 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 177405 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_10.smt2 : 1800080 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_11.smt2 : 38 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 179331 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_12.smt2 : 1800071 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_13.smt2 : 41 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 180879 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_14.smt2 : 1800046 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_15.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_1.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_2.smt2 : 67 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_3.smt2 : 41 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 183010 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_4.smt2 : 1800151 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_5.smt2 : 32 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 185511 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_6.smt2 : 1800088 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_7.smt2 : 45 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 187227 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_8.smt2 : 1800059 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.redlog_global_9.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_0.smt2 : 27 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 188922 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_10.smt2 : 1800088 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_11.smt2 : 40 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 190655 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_12.smt2 : 1800118 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_13.smt2 : 36 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 192110 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_14.smt2 : 1800081 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_15.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_1.smt2 : 35 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 193649 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_2.smt2 : 1800115 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_3.smt2 : 38 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 195315 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_4.smt2 : 1800123 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_5.smt2 : 38 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 196340 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_6.smt2 : 1800153 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_7.smt2 : 36 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 197471 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_8.smt2 : 1800052 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_global_9.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_0.smt2 : 32 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 198775 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_10.smt2 : 1800053 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_11.smt2 : 37 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 199965 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_12.smt2 : 1800198 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_13.smt2 : 43 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 201184 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_14.smt2 : 1800118 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_15.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_1.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_2.smt2 : 151 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_3.smt2 : 31 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 202237 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_4.smt2 : 1800105 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_5.smt2 : 32 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 203963 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_6.smt2 : 1800076 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_7.smt2 : 36 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 204850 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_8.smt2 : 1800092 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_lemmas_global_9.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_0.smt2 : 24 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 205943 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_10.smt2 : 1800100 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_11.smt2 : 41 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 206766 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_12.smt2 : 1800109 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_13.smt2 : 38 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 207454 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_14.smt2 : 1800076 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_15.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_1.smt2 : 25 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 208418 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_2.smt2 : 1800134 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_3.smt2 : 34 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 209251 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_4.smt2 : 1800108 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_5.smt2 : 35 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 210068 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_6.smt2 : 1800167 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_7.smt2 : 39 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 210987 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_8.smt2 : 1800040 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_global_9.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_0.smt2 : 27 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 211789 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_10.smt2 : 1800162 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_11.smt2 : 39 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 212757 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_12.smt2 : 1800057 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_13.smt2 : 42 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 213640 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_14.smt2 : 1800072 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_15.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_1.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_2.smt2 : 138 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_3.smt2 : 34 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 214238 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_4.smt2 : 1800096 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_5.smt2 : 36 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 214802 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_6.smt2 : 1800131 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_7.smt2 : 109 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 215382 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_8.smt2 : 1800150 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.01.seq_lazy_linear_enc_lemmas_global_9.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_0.smt2 : 27 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 215995 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_10.smt2 : 1800140 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_11.smt2 : 37 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 216674 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_12.smt2 : 1800095 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_13.smt2 : 41 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 217229 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_14.smt2 : 1800079 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_15.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_1.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_2.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_3.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_4.smt2 : 117 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_5.smt2 : 29 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 217812 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_6.smt2 : 1800077 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_7.smt2 : 36 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 218275 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_8.smt2 : 1800132 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.qfree_global_9.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_0.smt2 : 29 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 218835 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_10.smt2 : 1800077 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_11.smt2 : 38 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 219476 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_12.smt2 : 1800104 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_13.smt2 : 44 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 220020 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_14.smt2 : 1800308 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_15.smt2 : 155 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_1.smt2 : 126 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_2.smt2 : 135 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_3.smt2 : 130 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 220443 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_4.smt2 : 1800144 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_5.smt2 : 32 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 220890 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_6.smt2 : 1800078 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_7.smt2 : 39 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 221362 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_8.smt2 : 1800092 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.redlog_global_9.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_0.smt2 : 27 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 221922 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_10.smt2 : 1800087 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_11.smt2 : 37 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 222345 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_12.smt2 : 1800076 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_13.smt2 : 40 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 222734 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_14.smt2 : 1800094 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_15.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_1.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_2.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_3.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_4.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_5.smt2 : 26 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 223124 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_6.smt2 : 1800094 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_7.smt2 : 40 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 223513 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_8.smt2 : 1800116 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_global_9.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_0.smt2 : 29 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 223934 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_10.smt2 : 1800147 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_11.smt2 : 140 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 224329 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_12.smt2 : 1800188 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_13.smt2 : 44 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 224650 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_14.smt2 : 1800212 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_15.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_1.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_2.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_3.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_4.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_5.smt2 : 26 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 225045 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_6.smt2 : 1800105 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_7.smt2 : 36 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 225387 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_8.smt2 : 1800230 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_lemmas_global_9.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_0.smt2 : 24 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 225752 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_10.smt2 : 1800080 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_11.smt2 : 37 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 226034 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_12.smt2 : 1800089 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_13.smt2 : 41 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 226288 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_14.smt2 : 1800092 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_15.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_1.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_2.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_3.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_4.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_5.smt2 : 30 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 226553 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_6.smt2 : 1800067 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_7.smt2 : 37 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 226831 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_8.smt2 : 1800145 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_global_9.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_0.smt2 : 28 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 227151 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_10.smt2 : 1800157 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_11.smt2 : 38 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 227396 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_12.smt2 : 1800093 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_13.smt2 : 42 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 227634 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_14.smt2 : 1800081 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_15.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_1.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_2.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_3.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_4.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_5.smt2 : 29 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 227908 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_6.smt2 : 1800084 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_7.smt2 : 38 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 228110 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_8.smt2 : 1800065 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.02.seq_lazy_linear_enc_lemmas_global_9.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.03.qfree_global_0.smt2 : 25 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 228393 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.03.qfree_global_10.smt2 : 1800116 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.03.qfree_global_11.smt2 : 40 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 228599 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.03.qfree_global_12.smt2 : 1800091 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.03.qfree_global_13.smt2 : 55 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 228805 Killed                  ./mathsat ../$1
+QF_NRA/hycomp/ball_count_1d_plain.03.qfree_global_14.smt2 : 1800079 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.03.qfree_global_15.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.03.qfree_global_1.smt2 : 27 ms.

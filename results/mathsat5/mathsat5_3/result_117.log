@@ -1,0 +1,33 @@
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/2/sqrt-circles-2-chunk-0002.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/2/sqrt-circles-2-chunk-0005.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/2/sqrt-circles-2-chunk-0006.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/2/sqrt-circles-2-chunk-0007.smt2 : 35 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 340278 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/sqrt/circles/2/sqrt-circles-2-chunk-0008.smt2 : 1800172 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/2/sqrt-circles-2-chunk-0010.smt2 : 118 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/2/sqrt-circles-2-chunk-0011.smt2 : 85 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/2/sqrt-circles-2-chunk-0012.smt2 : 104 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/circles/2/sqrt-circles-2-chunk-0013.smt2 : 113 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/2/sqrt-circles-2-chunk-0014.smt2 : 142 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/circles/2/sqrt-circles-2-chunk-0015.smt2 : 72 ms.

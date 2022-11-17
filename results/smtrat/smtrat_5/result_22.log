@@ -1,0 +1,456 @@
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_2.smt2 : 747 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_3.smt2 : 69298 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_4.smt2 : 260393 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 387286 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_5.smt2 : 1801968 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 392012 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_6.smt2 : 1801388 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 394865 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_7.smt2 : 1801401 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 397466 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_8.smt2 : 1801057 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 399595 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_9.smt2 : 1801320 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_0.smt2 : 57 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_10.smt2 : 24123 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 402064 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_11.smt2 : 1801597 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 404265 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_12.smt2 : 1808361 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 406328 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_13.smt2 : 1801242 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 408229 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_14.smt2 : 1800773 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 410062 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_15.smt2 : 1800936 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_1.smt2 : 250 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_2.smt2 : 1603 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_3.smt2 : 31038 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_4.smt2 : 12960 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 411654 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_5.smt2 : 1800139 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_6.smt2 : 155321 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 413507 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_7.smt2 : 1806345 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 415145 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_8.smt2 : 1800868 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 416963 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_9.smt2 : 1801358 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_0.smt2 : 31 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 418484 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_10.smt2 : 1800409 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 420203 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_11.smt2 : 1801713 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 421640 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_12.smt2 : 1807295 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 422702 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_13.smt2 : 1800564 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 423963 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_14.smt2 : 1800612 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 425942 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_15.smt2 : 1800936 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_1.smt2 : 108 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_2.smt2 : 682 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_3.smt2 : 71918 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_4.smt2 : 8074 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_5.smt2 : 1635690 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_6.smt2 : 41309 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 428016 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_7.smt2 : 1801765 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 429316 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_8.smt2 : 1800219 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 430601 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_9.smt2 : 1800244 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_0.smt2 : 54 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 431811 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_10.smt2 : 1800448 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 432942 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_11.smt2 : 1800819 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 434068 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_12.smt2 : 1800614 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 435120 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_13.smt2 : 1800750 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 436083 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_14.smt2 : 1800873 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 436847 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_15.smt2 : 1800752 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_1.smt2 : 209 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_2.smt2 : 2027 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_3.smt2 : 25619 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_4.smt2 : 1051017 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 438550 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_5.smt2 : 1801083 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 439394 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_6.smt2 : 1802733 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 440208 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_7.smt2 : 1801108 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 441325 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_8.smt2 : 1801516 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 441972 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_9.smt2 : 1801609 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_0.smt2 : 353 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 442877 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_10.smt2 : 1801018 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 443675 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_11.smt2 : 1801033 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 444530 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_12.smt2 : 1800830 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 445254 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_13.smt2 : 1801349 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 446076 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_14.smt2 : 1800217 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 446873 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_15.smt2 : 1801508 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_1.smt2 : 127 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_2.smt2 : 551 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_3.smt2 : 788199 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_4.smt2 : 37650 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 447854 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_5.smt2 : 1800743 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_6.smt2 : 111176 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 448443 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_7.smt2 : 1801855 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 449123 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_8.smt2 : 1801798 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 449981 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_9.smt2 : 1802120 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_0.smt2 : 43 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 450666 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_10.smt2 : 1801179 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 451179 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_11.smt2 : 1801983 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 451719 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_12.smt2 : 1801993 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 452169 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_13.smt2 : 1801362 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 452548 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_14.smt2 : 1800695 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 453105 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_15.smt2 : 1800823 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_1.smt2 : 191 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_2.smt2 : 1158 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_3.smt2 : 7074 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_4.smt2 : 24908 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 453659 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_5.smt2 : 1801315 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_6.smt2 : 39954 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 454072 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_7.smt2 : 1801115 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 454621 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_8.smt2 : 1802551 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 455010 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_9.smt2 : 1802339 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_0.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_10.smt2 : 3524 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 455371 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_11.smt2 : 1801050 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_12.smt2 : 7035 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 455777 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_13.smt2 : 2048851 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_14.smt2 : 7557 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 456281 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_15.smt2 : 1802387 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 456705 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_1.smt2 : 1800287 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_2.smt2 : 438 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 457068 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_3.smt2 : 1800356 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_4.smt2 : 646 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 457472 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_5.smt2 : 1800223 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_6.smt2 : 1411 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 22628 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_7.smt2 : 1800925 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_8.smt2 : 2886 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 25538 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_9.smt2 : 1801298 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_0.smt2 : 83 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_10.smt2 : 15108 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 27484 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_11.smt2 : 1800377 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_12.smt2 : 24837 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 29123 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_13.smt2 : 1800951 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_14.smt2 : 22436 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 30277 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_15.smt2 : 1801069 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 31202 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_1.smt2 : 1801141 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_2.smt2 : 1352 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 32272 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_3.smt2 : 1801046 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_4.smt2 : 1529 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 33408 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_5.smt2 : 1800126 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_6.smt2 : 3131 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 34445 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_7.smt2 : 1801154 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_8.smt2 : 6048 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 35253 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_9.smt2 : 1800230 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_0.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_10.smt2 : 1997 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 36080 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_11.smt2 : 1800384 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_12.smt2 : 2983 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 37016 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_13.smt2 : 1800954 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_14.smt2 : 5964 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 37893 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_15.smt2 : 1800293 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 38641 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_1.smt2 : 1800090 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_2.smt2 : 183 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 39695 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_3.smt2 : 1800325 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_4.smt2 : 430 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 40367 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_5.smt2 : 1800189 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_6.smt2 : 946 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 41050 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_7.smt2 : 1800398 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_8.smt2 : 2051 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 41679 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_9.smt2 : 1800474 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_0.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_10.smt2 : 7450 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 42667 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_11.smt2 : 1800483 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_12.smt2 : 9790 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 43380 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_13.smt2 : 1800509 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_14.smt2 : 17846 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 43991 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_15.smt2 : 1801813 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 44545 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_1.smt2 : 1800764 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_2.smt2 : 775 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 45184 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_3.smt2 : 1800226 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_4.smt2 : 857 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 45665 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_5.smt2 : 1800107 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_6.smt2 : 2068 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 46172 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_7.smt2 : 1800140 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_8.smt2 : 4825 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 46660 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_9.smt2 : 1800239 ms.

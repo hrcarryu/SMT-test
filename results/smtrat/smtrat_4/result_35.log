@@ -1,0 +1,45 @@
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 303299 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-lexTemplate.smt2 : 1800045 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 327937 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800092 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 332767 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_4-lexTemplate.smt2 : 1800063 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 336264 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800204 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 339556 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800058 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 342335 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_2-pieceTemplate.smt2 : 1800054 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 344738 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-lexTemplate.smt2 : 1800067 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 347050 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 1800089 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 349823 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_4-lexTemplate.smt2 : 1800071 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 352500 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 : 1800447 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 354652 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 : 1800336 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 356603 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/Toulouse-BranchesToLoop_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800052 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 358656 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/Toulouse-BranchesToLoop_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800048 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 362128 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/Toulouse-BranchesToLoop_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800064 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 363754 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/LassoRanker/SV-COMP/Urban_true-termination.c_Iteration1_Loop_affineTemplate.smt2 : 1839291 ms.

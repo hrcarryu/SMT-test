@@ -1,0 +1,456 @@
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_2.smt2 : 72 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 424404 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_3.smt2 : 214 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_4.smt2 : 129 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 425100 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_5.smt2 : 152 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 425473 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_6.smt2 : 200 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 425899 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_7.smt2 : 187 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 426399 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_8.smt2 : 161 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 426786 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.qfree_global_9.smt2 : 203 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_0.smt2 : 53 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 427360 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_10.smt2 : 310 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 428197 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_11.smt2 : 351 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 429043 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_12.smt2 : 397 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 429966 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_13.smt2 : 378 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 430881 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_14.smt2 : 382 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 431779 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_15.smt2 : 349 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_1.smt2 : 256 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_2.smt2 : 253 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 433855 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_3.smt2 : 304 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 434483 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_4.smt2 : 336 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 435288 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_5.smt2 : 232 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 435885 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_6.smt2 : 279 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 436524 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_7.smt2 : 255 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 437078 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_8.smt2 : 250 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 437715 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.redlog_global_9.smt2 : 320 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_0.smt2 : 47 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 438634 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_10.smt2 : 231 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 439183 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_11.smt2 : 230 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 439754 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_12.smt2 : 404 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 440738 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_13.smt2 : 257 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 441297 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_14.smt2 : 235 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 441933 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_15.smt2 : 278 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_1.smt2 : 159 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_2.smt2 : 191 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_3.smt2 : 158 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 443930 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_4.smt2 : 222 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 444541 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_5.smt2 : 223 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 445040 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_6.smt2 : 279 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 445775 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_7.smt2 : 253 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 446351 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_8.smt2 : 193 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 446835 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_global_9.smt2 : 150 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_0.smt2 : 48 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 447284 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_10.smt2 : 261 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 447872 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_11.smt2 : 201 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 448324 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_12.smt2 : 224 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 448828 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_13.smt2 : 200 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 449337 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_14.smt2 : 229 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 449866 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_15.smt2 : 218 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_1.smt2 : 139 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_2.smt2 : 154 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 451079 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_3.smt2 : 174 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 451501 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_4.smt2 : 150 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 451855 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_5.smt2 : 161 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 452237 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_6.smt2 : 189 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 452651 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_7.smt2 : 171 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 453051 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_8.smt2 : 165 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 453382 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_lemmas_global_9.smt2 : 184 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_0.smt2 : 38 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 453922 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_10.smt2 : 131 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 454207 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_11.smt2 : 146 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 454552 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_12.smt2 : 157 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 454920 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_13.smt2 : 166 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 455260 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_14.smt2 : 164 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 455662 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_15.smt2 : 170 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_1.smt2 : 75 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_2.smt2 : 83 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_3.smt2 : 81 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 456516 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_4.smt2 : 118 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 456768 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_5.smt2 : 113 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 456984 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_6.smt2 : 225 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 457435 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_7.smt2 : 199 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 457795 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_8.smt2 : 134 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 458058 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_global_9.smt2 : 110 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_0.smt2 : 33 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 458350 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_10.smt2 : 138 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 458634 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_11.smt2 : 142 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:   988 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_12.smt2 : 151 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:  1570 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_13.smt2 : 162 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:  1919 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_14.smt2 : 176 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:  2275 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_15.smt2 : 191 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_1.smt2 : 58 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_2.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_3.smt2 : 84 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_4.smt2 : 112 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:  3298 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_5.smt2 : 114 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:  3516 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_6.smt2 : 167 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:  3807 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_7.smt2 : 180 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:  4130 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_8.smt2 : 123 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:  4350 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_9.smt2 : 116 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_0.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_10.smt2 : 61 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:  4727 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_11.smt2 : 380 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_12.smt2 : 67 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:  5461 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_13.smt2 : 703 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_14.smt2 : 72 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1:  6664 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_15.smt2 : 1713 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_1.smt2 : 314 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_2.smt2 : 47 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_3.smt2 : 1800053 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_4.smt2 : 46 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_5.smt2 : 1800035 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_6.smt2 : 44 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 26444 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_7.smt2 : 167 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_8.smt2 : 54 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_global_9.smt2 : 1800044 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_0.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_10.smt2 : 71 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 28499 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_11.smt2 : 20415 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_12.smt2 : 74 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 29013 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_13.smt2 : 2602 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_14.smt2 : 89 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 29213 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_15.smt2 : 5521 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 29277 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_1.smt2 : 1039 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_2.smt2 : 42 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_3.smt2 : 1800573 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_4.smt2 : 53 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 31099 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_5.smt2 : 761 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_6.smt2 : 57 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 31196 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_7.smt2 : 229 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_8.smt2 : 63 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 31209 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_lemmas_global_9.smt2 : 409 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_0.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_10.smt2 : 53 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 31227 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_11.smt2 : 407 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_12.smt2 : 63 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 31240 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_13.smt2 : 671 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_14.smt2 : 58 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_15.smt2 : 1800068 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_1.smt2 : 70 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_2.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_3.smt2 : 5111 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_4.smt2 : 46 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_5.smt2 : 1800031 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_6.smt2 : 47 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 33111 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_7.smt2 : 268 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_8.smt2 : 51 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_global_9.smt2 : 1800062 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_0.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_10.smt2 : 60 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 33906 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_11.smt2 : 981 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_12.smt2 : 67 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_13.smt2 : 1800094 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_14.smt2 : 79 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_15.smt2 : 1800110 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_1.smt2 : 616 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_2.smt2 : 44 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_3.smt2 : 1800056 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_4.smt2 : 55 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 35635 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_5.smt2 : 416 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_6.smt2 : 53 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_7.smt2 : 1800071 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_8.smt2 : 71 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 36331 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_9.smt2 : 516 ms.

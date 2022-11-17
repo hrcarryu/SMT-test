@@ -1,0 +1,15 @@
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 303055 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_1000000.smt2 : 1800197 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 327925 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_100000.smt2 : 1800156 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 332771 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_10000.smt2 : 1800158 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 336272 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_1000.smt2 : 1800134 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 339564 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_100.smt2 : 1800295 ms.

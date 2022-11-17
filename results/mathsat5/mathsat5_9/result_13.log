@@ -1,0 +1,225 @@
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_AmerMathMonthly_vol125no10_p922a.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_AmerMathMonthly_vol125no10_p922b.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_AmerMathMonthly_vol125no10_p922c.smt2 : 24 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 121407 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_1.smt2 : 1800205 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_2.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_1_0.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_1_1.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_2_0.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_2_1.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_2_2.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_3_0.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_3_1.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_3_2.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_3_3.smt2 : 67 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_4_0.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_4_1.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_4_2.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_4_3.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_4_4.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_5_0.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_5_1.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_5_2.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_5_3.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_5_4.smt2 : 81 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_5_5.smt2 : 143 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Mitrinovic_5_15.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Sec4a.smt2 : 33 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 136159 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Sec4b.smt2 : 1800058 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_1m_m.smt2 : 73 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 139286 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_2m_m.smt2 : 1800084 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 141626 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_3m_m.smt2 : 1800067 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 143735 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_4m_1npos_8p_p.smt2 : 1800103 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_4m_1w_1p_p.smt2 : 1788 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_4m_1w_2p_p.smt2 : 1269 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_4m_1w_3p_p.smt2 : 27087 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_4m_1w_4p_p.smt2 : 122247 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_4m_1w_5p_p.smt2 : 212473 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_4m_1w_6p_p.smt2 : 124110 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 145644 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_4m_1w_7p_p.smt2 : 1800092 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 147161 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_4m_1w_8p_1w_n.smt2 : 1800095 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 149145 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_5p_1nneg_4m_1w_p.smt2 : 1800072 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 150243 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_Lemma1.smt2 : 1800054 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 151308 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_Lemma2.smt2 : 1800087 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 166033 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_Lemma4a.smt2 : 1801967 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 170320 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_Lemma4b.smt2 : 1801914 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 173248 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_Lemma4c.smt2 : 1802851 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 177049 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_Lemma4d.smt2 : 1802843 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 179090 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_Lemma4e.smt2 : 1801747 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 180627 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_Lemma4f.smt2 : 1802124 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 182789 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Thm6.smt2 : 1800113 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Weierstrass_1_RHS.smt2 : 35 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 185235 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Weierstrass_2_RHS.smt2 : 1800169 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC10_ex1a.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC10_ex1b.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC10_ex2a.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC10_ex2b.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC10_ex4a.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_JSC_SUMCracker_16a.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_JSC_SUMCracker_16b.smt2 : 24 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 187022 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_JSC_SUMCracker_18.smt2 : 1800113 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 188675 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_JSC_SUMCracker_19a.smt2 : 1800169 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 190350 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_JSC_SUMCracker_19b.smt2 : 1800171 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 191903 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_11_1a.smt2 : 1800166 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 193391 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_11_1b.smt2 : 1800280 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_3_57a.smt2 : 36 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 195162 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_3_57b.smt2 : 1800143 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 196216 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_4_15m.smt2 : 1800138 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 197310 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_4_15.smt2 : 1800089 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_4_16.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_4_17.smt2 : 33 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 198580 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_4_41.smt2 : 1800080 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_4_8.smt2 : 71 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 199770 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_7_36.smt2 : 1800116 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 201046 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_7_44.smt2 : 1800184 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 202048 Killed                  ./mathsat ../$1
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_Mitrinovic_8_25.smt2 : 1800124 ms.

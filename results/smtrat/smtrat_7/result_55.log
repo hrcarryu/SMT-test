@@ -1,0 +1,36 @@
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0630.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0631.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0632.smt2 : 42 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 42371 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0633.smt2 : 1800145 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 69099 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0634.smt2 : 1800021 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0635.smt2 : 34 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 73397 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0636.smt2 : 1800033 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0637.smt2 : 118 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0638.smt2 : 198 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 76828 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0639.smt2 : 1800272 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0640.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/vega/3/atan-vega-3-chunk-0641.smt2 : 52 ms.

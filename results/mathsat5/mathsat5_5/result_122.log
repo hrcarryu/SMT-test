@@ -1,0 +1,30 @@
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 342582 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/sqrt/problem/13/vars5/sqrt-problem-13-vars5-chunk-0015.smt2 : 1800126 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/problem/13/vars5/sqrt-problem-13-vars5-chunk-0017.smt2 : 55 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 354276 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/sqrt/problem/13/vars5/sqrt-problem-13-vars5-chunk-0018.smt2 : 1800160 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 357389 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/sqrt/problem/13/vars5/sqrt-problem-13-vars5-chunk-0020.smt2 : 1800158 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 360356 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/sqrt/problem/13/vars5/sqrt-problem-13-vars5-chunk-0021.smt2 : 1800133 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 362153 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/sqrt/problem/13/vars5/sqrt-problem-13-vars5-chunk-0023.smt2 : 1800129 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 363560 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/sqrt/problem/13/vars5/sqrt-problem-13-vars5-chunk-0024.smt2 : 1800084 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 364613 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/sqrt/problem/13/vars5/sqrt-problem-13-vars5-chunk-0026.smt2 : 1800120 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/problem/13/vars5/sqrt-problem-13-vars5-chunk-0027.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/problem/13/vars5/sqrt-problem-13-vars5-chunk-0028.smt2 : 51 ms.

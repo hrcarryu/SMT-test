@@ -1,0 +1,600 @@
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_0.smt2 : 16 ms.
+--------------------------------------------------
+sat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_10.smt2 : 55097 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_11.smt2 : 1814 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 169471 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_12.smt2 : 1801120 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_13.smt2 : 2590 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 174943 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_14.smt2 : 1800110 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 179045 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_15.smt2 : 1800190 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_1.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_2.smt2 : 80 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_3.smt2 : 144 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_4.smt2 : 238 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_5.smt2 : 372 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_6.smt2 : 526 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_7.smt2 : 610 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_8.smt2 : 886 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_9.smt2 : 890 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_0.smt2 : 19 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 181789 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_10.smt2 : 1800848 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_11.smt2 : 1758 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 183682 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_12.smt2 : 1800404 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_13.smt2 : 2978 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 185530 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_14.smt2 : 1802190 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_15.smt2 : 2064 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_1.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_2.smt2 : 72 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_3.smt2 : 119 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_4.smt2 : 184 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_5.smt2 : 242 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_6.smt2 : 361 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_7.smt2 : 624 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_8.smt2 : 1055 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_global_9.smt2 : 672 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_0.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_10.smt2 : 3304 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_11.smt2 : 1986 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_12.smt2 : 23958 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_13.smt2 : 3204 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 187343 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_14.smt2 : 1800164 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_15.smt2 : 3531 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_1.smt2 : 105 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_2.smt2 : 165 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_3.smt2 : 229 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_4.smt2 : 318 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_5.smt2 : 433 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_6.smt2 : 707 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_7.smt2 : 806 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_8.smt2 : 1601 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_lemmas_global_9.smt2 : 1310 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_0.smt2 : 110 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_10.smt2 : 9839 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_11.smt2 : 2672 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_12.smt2 : 17221 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_13.smt2 : 1613 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 189246 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_14.smt2 : 1800355 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_15.smt2 : 13096 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_1.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_2.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_3.smt2 : 116 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_4.smt2 : 181 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_5.smt2 : 252 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_6.smt2 : 406 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_7.smt2 : 448 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_8.smt2 : 1510 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_global_9.smt2 : 1073 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_0.smt2 : 29 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 191088 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_10.smt2 : 1800061 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_11.smt2 : 1271 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_12.smt2 : 385772 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_13.smt2 : 2586 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 192826 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_14.smt2 : 1800145 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_15.smt2 : 17406 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_1.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_2.smt2 : 93 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_3.smt2 : 153 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_4.smt2 : 259 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_5.smt2 : 405 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_6.smt2 : 579 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_7.smt2 : 952 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_8.smt2 : 1076 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.seq_lazy_linear_enc_lemmas_global_9.smt2 : 865 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_0.smt2 : 20 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_10.smt2 : 2550 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_11.smt2 : 854 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 194233 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_12.smt2 : 1800098 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_13.smt2 : 1223 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_14.smt2 : 536938 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_15.smt2 : 1466 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_1.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_2.smt2 : 60 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_3.smt2 : 99 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_4.smt2 : 149 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_5.smt2 : 201 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_6.smt2 : 275 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_7.smt2 : 351 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_8.smt2 : 546 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.qfree_global_9.smt2 : 537 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_0.smt2 : 19 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_10.smt2 : 2611 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_11.smt2 : 1081 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_12.smt2 : 2663 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_13.smt2 : 1487 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 196207 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_14.smt2 : 1800317 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_15.smt2 : 2069 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_1.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_2.smt2 : 87 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_3.smt2 : 135 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_4.smt2 : 198 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_5.smt2 : 276 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_6.smt2 : 387 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_7.smt2 : 490 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_8.smt2 : 1081 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.redlog_global_9.smt2 : 769 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_0.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_10.smt2 : 8495 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_11.smt2 : 831 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_12.smt2 : 32524 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_13.smt2 : 1142 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 197690 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_14.smt2 : 1800444 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_15.smt2 : 1464 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_1.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_2.smt2 : 62 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_3.smt2 : 100 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_4.smt2 : 155 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_5.smt2 : 263 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_6.smt2 : 340 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_7.smt2 : 354 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_8.smt2 : 1246 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_global_9.smt2 : 680 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_0.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_10.smt2 : 2675 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_11.smt2 : 1389 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_12.smt2 : 28692 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_13.smt2 : 1696 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 198982 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_14.smt2 : 1801385 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_15.smt2 : 3178 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_1.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_2.smt2 : 105 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_3.smt2 : 183 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_4.smt2 : 283 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_5.smt2 : 397 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_6.smt2 : 469 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_7.smt2 : 504 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_8.smt2 : 1333 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_lemmas_global_9.smt2 : 1028 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_0.smt2 : 20 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 200569 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_10.smt2 : 1801218 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_11.smt2 : 1013 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_12.smt2 : 16259 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_13.smt2 : 1401 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 201986 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_14.smt2 : 1800336 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_15.smt2 : 1531 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_1.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_2.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_3.smt2 : 100 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_4.smt2 : 152 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_5.smt2 : 203 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_6.smt2 : 337 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_7.smt2 : 361 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 203023 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_8.smt2 : 1800082 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_global_9.smt2 : 600 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_0.smt2 : 20 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_10.smt2 : 46796 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_11.smt2 : 1240 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_12.smt2 : 279392 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_13.smt2 : 2254 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 204281 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_14.smt2 : 1800458 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_15.smt2 : 3348 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_1.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_2.smt2 : 82 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_3.smt2 : 141 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_4.smt2 : 212 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_5.smt2 : 300 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_6.smt2 : 502 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_7.smt2 : 643 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_8.smt2 : 19272 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.10.seq_lazy_linear_enc_lemmas_global_9.smt2 : 940 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_0.smt2 : 68 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 206067 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_10.smt2 : 1800734 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_11.smt2 : 18506 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 207255 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_12.smt2 : 1801078 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_13.smt2 : 24088 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 208242 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_14.smt2 : 1801100 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_15.smt2 : 28317 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_1.smt2 : 237 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 209147 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_2.smt2 : 1800135 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_3.smt2 : 1149 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 210166 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_4.smt2 : 1800126 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_5.smt2 : 3764 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 210882 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_6.smt2 : 1800203 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_7.smt2 : 5371 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 211701 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_8.smt2 : 1800345 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.redlog_global_9.smt2 : 13389 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.seq_lazy_global_0.smt2 : 26 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 212491 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_2d_hill.01.seq_lazy_global_10.smt2 : 1800106 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.seq_lazy_global_11.smt2 : 1952 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 213233 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_2d_hill.01.seq_lazy_global_12.smt2 : 1800644 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.seq_lazy_global_13.smt2 : 2790 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 214142 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/hycomp/ball_count_2d_hill.01.seq_lazy_global_14.smt2 : 1800889 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.seq_lazy_global_15.smt2 : 3920 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.01.seq_lazy_global_1.smt2 : 59 ms.

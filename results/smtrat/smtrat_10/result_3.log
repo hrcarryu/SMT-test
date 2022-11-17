@@ -1,0 +1,15 @@
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 457565 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E9E25.smt2 : 1801219 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E26.smt2 : 973 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E27.smt2 : 591 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E28.smt2 : 704 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9.smt2 : 454 ms.

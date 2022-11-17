@@ -1,0 +1,150 @@
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/01-reverse_folding-0-0.smt2 : 1653 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/02-reverse_folding-0-0.smt2 : 404582 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 278295 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/03-reverse_folding-0-0.smt2 : 1800202 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 286266 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/04-reverse_folding-0-0.smt2 : 1800614 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/05-reverse_folding-0-0.smt2 : 1153 ms.
+--------------------------------------------------
+unsat
+QF_NRA/2019-ezsmt/reverseFolding/06-reverse_folding-0-0.smt2 : 2995 ms.
+--------------------------------------------------
+unsat
+QF_NRA/2019-ezsmt/reverseFolding/07-reverse_folding-0-0.smt2 : 35301 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 291675 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/08-reverse_folding-0-0.smt2 : 1913787 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/09-reverse_folding-0-0.smt2 : 550080 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 295628 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/10-reverse_folding-0-0.smt2 : 1800233 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/11-reverse_folding-0-0.smt2 : 664680 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/12-reverse_folding-0-0.smt2 : 26896 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/13-reverse_folding-0-0.smt2 : 47648 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/14-reverse_folding-0-0.smt2 : 276193 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/15-reverse_folding-0-0.smt2 : 44729 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 299921 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/16-reverse_folding-0-0.smt2 : 1800127 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/17-reverse_folding-0-0.smt2 : 433618 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/18-reverse_folding-0-0.smt2 : 273293 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/19-reverse_folding-0-0.smt2 : 81714 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/20-reverse_folding-0-0.smt2 : 1064345 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 327064 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/21-reverse_folding-0-0.smt2 : 1800159 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 332264 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/22-reverse_folding-0-0.smt2 : 1800180 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/23-reverse_folding-0-0.smt2 : 635011 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 336162 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/24-reverse_folding-0-0.smt2 : 1800184 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 339418 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/25-reverse_folding-0-0.smt2 : 1800183 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 342093 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/26-reverse_folding-0-0.smt2 : 1935574 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 344555 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/27-reverse_folding-0-0.smt2 : 1800283 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 346873 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/28-reverse_folding-0-0.smt2 : 1800252 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 349599 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/29-reverse_folding-0-0.smt2 : 1800306 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 352337 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/30-reverse_folding-0-0.smt2 : 1800274 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 354544 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/31-reverse_folding-0-0.smt2 : 1800226 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 356532 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/32-reverse_folding-0-0.smt2 : 1800207 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 358573 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/33-reverse_folding-0-0.smt2 : 1800196 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 362023 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/34-reverse_folding-0-0.smt2 : 1800204 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 363684 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/35-reverse_folding-0-0.smt2 : 1800242 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 387251 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/36-reverse_folding-0-0.smt2 : 1800265 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 391989 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/37-reverse_folding-0-0.smt2 : 1800305 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 394851 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/38-reverse_folding-0-0.smt2 : 1800242 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 397459 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/39-reverse_folding-0-0.smt2 : 1801800 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 399585 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/40-reverse_folding-0-0.smt2 : 1803257 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 402048 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/41-reverse_folding-0-0.smt2 : 1800307 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 404256 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/42-reverse_folding-0-0.smt2 : 1800279 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 406314 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/43-reverse_folding-0-0.smt2 : 1800296 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 408208 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/44-reverse_folding-0-0.smt2 : 1800316 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 410048 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/45-reverse_folding-0-0.smt2 : 1800362 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 411567 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/46-reverse_folding-0-0.smt2 : 1800419 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/47-reverse_folding-0-0.smt2 : 604828 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/48-reverse_folding-0-0.smt2 : 733859 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 414468 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/49-reverse_folding-0-0.smt2 : 1800125 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 416331 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/2019-ezsmt/reverseFolding/50-reverse_folding-0-0.smt2 : 1800108 ms.

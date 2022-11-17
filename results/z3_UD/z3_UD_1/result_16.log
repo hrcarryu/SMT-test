@@ -1,0 +1,60 @@
+--------------------------------------------------
+timeout
+QF_NRA/hong/hong_10.smt2 : 1800030 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hong/hong_11.smt2 : 1800030 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hong/hong_12.smt2 : 1800038 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hong/hong_13.smt2 : 1800101 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hong/hong_14.smt2 : 1800087 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hong/hong_15.smt2 : 1800032 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hong/hong_16.smt2 : 1800030 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hong/hong_17.smt2 : 1800054 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hong/hong_18.smt2 : 1800112 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hong/hong_19.smt2 : 1800040 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_1.smt2 : 49 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hong/hong_20.smt2 : 1800035 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_2.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_3.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_4.smt2 : 64 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 36255 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hong/hong_5.smt2 : 236 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 36267 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hong/hong_6.smt2 : 270 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 36276 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hong/hong_7.smt2 : 589 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 36283 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hong/hong_8.smt2 : 972 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 36290 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hong/hong_9.smt2 : 3486 ms.

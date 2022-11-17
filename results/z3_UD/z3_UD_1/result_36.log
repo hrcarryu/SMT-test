@@ -1,0 +1,600 @@
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1106 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800041 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 19605 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 5318 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 19842 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1403 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 19860 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.6.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 743 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 19933 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.6.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 361 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 19940 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 7624 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 21242 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 313 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 21363 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 794 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 21532 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 5115 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 21788 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 237 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 21795 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 737 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 21802 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/ATVA2013-diff42-int.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 764 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 21815 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/ATVA2013-diff42-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1619 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-int.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800036 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 26485 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1553 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-real.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 540351 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 27947 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-real.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 570 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 27960 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/ATVA2013-zeno-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1294 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 27971 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 256 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 27978 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 263 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 27985 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 566 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 27999 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 5208 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 28006 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 5772 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 28013 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 451 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800037 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 30478 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 382 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 44616 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 30504 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Boulder.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 5169 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 30512 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Boulder.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 5189 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/bound-scaled200.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800193 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 13378 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800334 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800296 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800541 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 34104 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 580 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 34117 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 243 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 34126 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 438 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 34133 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 346 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 168024 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 34276 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 5339 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 194446 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 34333 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 5389 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 1800050 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 34962 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 373 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1800071 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800105 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800310 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 36620 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 5943 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 1800034 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 37151 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 5449 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 1800039 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1800081 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1800117 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 39602 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 527 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 39614 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1282 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 39624 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 2201 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 39631 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 641 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 39638 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1993 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 39645 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 528 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 39652 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 888 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 39659 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 2587 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 39668 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1680 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 39675 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 4007 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/ChenFlurMukhopadhyay-2012SAS-Fig1.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1800040 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40090 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/ChenFlurMukhopadhyay-2012SAS-Fig1.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 5355 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-lexTemplate.smt2 : 3031 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-nestedTemplate.smt2 : 2053 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-phaseTemplate.smt2 : 2208 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40129 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 12593 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-lexTemplate.smt2 : 6016 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-nestedTemplate.smt2 : 3065 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-phaseTemplate.smt2 : 3359 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40157 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 18795 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40169 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 13090 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-nestedTemplate.smt2 : 4042 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 4888 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 : 5302 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 6105 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 : 6662 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40217 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 12121 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40225 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 : 12511 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40237 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 14178 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_affineTemplate.smt2 : 1248 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40263 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-lexTemplate.smt2 : 3253 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40270 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-nestedTemplate.smt2 : 2128 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40277 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-phaseTemplate.smt2 : 2360 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40284 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 5964 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40291 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-lexTemplate.smt2 : 4906 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40299 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-nestedTemplate.smt2 : 3260 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40308 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-phaseTemplate.smt2 : 2749 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40315 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 17066 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40323 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-lexTemplate.smt2 : 11986 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40342 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-nestedTemplate.smt2 : 3476 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40349 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 4142 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40361 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 699295 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40634 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_5-nestedTemplate.smt2 : 4907 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40643 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 4608 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40656 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_6-nestedTemplate.smt2 : 5734 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40663 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 6549 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40670 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-nestedTemplate.smt2 : 7149 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40678 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 12498 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_affineTemplate.smt2 : 1412 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40701 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 116 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40708 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 187 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40715 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 155 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40722 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 200 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40729 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 296 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40736 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 191 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40743 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 5518 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40751 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 2267 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40760 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/CopenhagenWithTmp.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 120 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40767 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/CopenhagenWithTmp.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 839 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 40774 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/DecreasingInvariant.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 100 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/DecreasingInvariant.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800038 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41341 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 199 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800045 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41751 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 161 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41759 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Garmisch.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 84 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41768 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Garmisch.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 163 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41775 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Gcd.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1585 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41782 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1171 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41789 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 586 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41796 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 3396 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41803 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 4070 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41810 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 8566 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41827 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 4618 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41835 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Gothenburg.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1267 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41844 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1543 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41851 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 3875 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1707 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1758 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 2224 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41876 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/IncreasingSI.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 686 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41883 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Khartoum.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 435 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41890 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Khartoum.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 130 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41897 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 205 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41904 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 790 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41911 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 259 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41918 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 537 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 41925 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 6083 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Madrid.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800038 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Madrid.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800047 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 42729 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 2100 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 42742 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 5114 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800050 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 43176 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/MultiPhase1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 3850 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 43189 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/MultiPhase1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 323 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 43198 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Mysore2.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 3272 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 43207 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Mysore2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 5119 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/Mysore.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800045 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800053 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 44215 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 285 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 44227 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1736 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 44236 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 10372 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/NoriSharma-2013FSE-Fig7.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 106673 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/NoriSharma-2013FSE-Fig7.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1800077 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/NoriSharma-2013FSE-Fig7.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 650088 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 44774 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Nyala-TwoLex.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 437 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 44781 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Nyala-TwoLex.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 977 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 44789 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Nyala-TwoLex.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 462 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800081 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800113 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800172 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 46252 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 7484 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800097 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 46744 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 410 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 46759 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1454 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 46768 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 417 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 46775 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 2230 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 46783 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 951 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 46790 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 13944 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1800084 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 47483 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/piecewise.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 780 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 47495 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Rotation02.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 159 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 47504 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/Rotation02.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 165 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 47511 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/SanDiego.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 404 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/SantaBarbara01.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 36012 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/SantaBarbara01.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 59543 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/SantaBarbara01.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 139919 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/SantaBarbara02.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 45558 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/SantaBarbara02.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 151187 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 47604 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/SantaBarbara02.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 818 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800278 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800816 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 1800215 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1802173 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1800420 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800326 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800399 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800395 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800709 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 1800404 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 1800314 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1801080 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1800366 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800737 ms.
+--------------------------------------------------
+timeout
+QF_NRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800443 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 53807 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportBooleans3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 519 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 53819 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/LassoRanker/Ultimate/SyntaxSupportDisjunction1.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 5775 ms.

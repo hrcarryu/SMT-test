@@ -1,0 +1,207 @@
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 151615 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/afnp2014.c.i_3_5_3.bpl_5.smt2 : 1800399 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 166264 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array1.i_3_2_2.bpl_9.smt2 : 1800216 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 170591 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_monotonic.i_3_2_2.bpl_9.smt2 : 1800249 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 173745 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_ptr_single_elem_init.i_4_2_2.bpl_5.smt2 : 1800157 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 177360 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_single_elem_init.i_4_2_2.bpl_5.smt2 : 1800162 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 179256 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/avg60.i_5_5_4.bpl_3.smt2 : 1800201 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 180840 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/cggmp2005_variant.c.i_3_3_2.bpl_5.smt2 : 1800210 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 182947 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/check_removal_from_set_after_insertion.i_8_6_6.bpl_3.smt2 : 1800308 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 185471 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/const1.i_3_6_2.bpl_5.smt2 : 1800455 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 187242 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_by_2.i_3_2_2.bpl_11.smt2 : 1800063 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 188937 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_by_k.i_3_3_2.bpl_5.smt2 : 1800125 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 190660 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_up_down.i_3_11_2.bpl_9.smt2 : 1800116 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 192117 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/ddlm2013.i_3_4_2.bpl_3.smt2 : 1800091 ms.
+--------------------------------------------------
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/ddlm2013.i_3_6_2.bpl_3.smt2 : 858 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 193807 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/down.i_4_5_5.bpl_3.smt2 : 1800172 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 195372 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/fragtest_simple.i_4_5_4.bpl_3.smt2 : 1800119 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 196377 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/functions1.i_3_5_2.bpl_9.smt2 : 1800099 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 197533 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/gj2007.c.i_4_3_3.bpl_5.smt2 : 1800142 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 198803 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/gr2006.c.i_4_4_3.bpl_5.smt2 : 1800087 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 199985 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/half_2.i_3_6_2.bpl_3.smt2 : 1800087 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 201217 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/hhk2008.c.i_3_3_2.bpl_5.smt2 : 1800128 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/jain_4.i_2_3_3.bpl_3.smt2 : 38151 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 202492 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/jain_5.i_2_4_3.bpl_3.smt2 : 1800076 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 204149 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_6_21_3.bpl_3.smt2 : 1800164 ms.
+--------------------------------------------------
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_6_24_3.bpl_3.smt2 : 1862 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 205186 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_7_19_3.bpl_3.smt2 : 1800156 ms.
+--------------------------------------------------
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_7_23_3.bpl_3.smt2 : 5707 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 206145 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/MADWiFi-encode_ie_ok.i_3_4_3.bpl_3.smt2 : 1800114 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 206890 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested9.i_5_6_6.bpl_3.smt2 : 1800057 ms.
+--------------------------------------------------
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested.c_4_2_2.bpl_3.smt2 : 935 ms.
+--------------------------------------------------
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested.i_4_5_3.bpl_3.smt2 : 500 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 207665 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/overflow1.i_3_8_2.bpl_9.smt2 : 1800081 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 208654 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/relax.i_11_7_4.bpl_3.smt2 : 1800109 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 209535 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sanfoundry_10_ground.i_6_3_3.bpl_5.smt2 : 1800059 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 210347 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/seq.i_4_5_4.bpl_3.smt2 : 1800152 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 211154 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/seq.i_5_5_5.bpl_3.smt2 : 1800109 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 212001 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/simple1.i_3_6_2.bpl_9.smt2 : 1800086 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 212977 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/simple4.i_3_4_2.bpl_9.smt2 : 1800089 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 213771 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sorting_bubblesort_ground.i_4_3_3.bpl_5.smt2 : 1800103 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 214321 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_allDiff2_ground.i_4_4_3.bpl_3.smt2 : 1800061 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 214948 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_compareModified_ground.i_4_2_2.bpl_5.smt2 : 1800047 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 215568 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy1_ground.i_3_2_2.bpl_9.smt2 : 1800078 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 216118 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy3_ground.i_3_2_2.bpl_5.smt2 : 1800071 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 216795 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy4_ground.i_3_2_2.bpl_3.smt2 : 1800105 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 217349 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy4_ground.i_3_2_2.bpl_5.smt2 : 1800118 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 217890 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy5_ground.i_3_2_2.bpl_3.smt2 : 1800166 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 218443 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy7_ground.i_3_2_2.bpl_3.smt2 : 1800067 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 219004 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInit_ground.i_3_2_2.bpl_9.smt2 : 1800128 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 219570 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum2_ground.i_3_2_2.bpl_5.smt2 : 1800046 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 220104 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum3_ground.i_3_2_2.bpl_3.smt2 : 1800126 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 220530 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum3_ground.i_3_2_2.bpl_5.smt2 : 1800081 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 220985 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init1_ground.i_3_2_2.bpl_9.smt2 : 1800050 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 221573 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init5_ground.i_3_2_2.bpl_3.smt2 : 1800070 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 222018 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init6_ground.i_3_2_2.bpl_3.smt2 : 1800063 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 222431 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init7_ground.i_3_2_2.bpl_3.smt2 : 1800089 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 222809 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init9_ground.i_3_2_2.bpl_1.smt2 : 1800103 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 223196 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init9_ground.i_3_2_2.bpl_3.smt2 : 1800116 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 223617 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_maxInArray_ground.i_3_2_2.bpl_5.smt2 : 1800085 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 224009 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_partial_init_ground.i_3_2_2.bpl_5.smt2 : 1800116 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 224370 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_password_ground.i_4_2_2.bpl_5.smt2 : 1800124 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 224717 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_running.i_4_2_2.bpl_5.smt2 : 1800094 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 225068 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_strcmp_ground.i_4_2_2.bpl_5.smt2 : 1800069 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 225430 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_strcpy_original.i_3_3_2.bpl_9.smt2 : 1800091 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 225808 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_01.i_3_2_2.bpl_5.smt2 : 1800082 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 226053 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_04.i_3_2_2.bpl_5.smt2 : 1800131 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 226303 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_05.i_3_2_2.bpl_5.smt2 : 1800050 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 226568 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_06.i_3_2_2.bpl_5.smt2 : 1800075 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 226848 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sum60.i_5_6_5.bpl_3.smt2 : 1800146 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 227158 Killed                  ./mathsat ../$1
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/up.i_4_4_5.bpl_3.smt2 : 1800145 ms.

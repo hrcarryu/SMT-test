@@ -1,0 +1,498 @@
+--------------------------------------------------
+sat
+QF_NRA/zankl/gen-03.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/gen-04.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/gen-05.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/gen-06.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/gen-07.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/gen-08.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/gen-09.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/gen-10.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/gen-13.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/gen-14.smt2 : 16 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/gen-15.smt2 : 19 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/gen-16.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/gen-17.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/gen-18.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/gen-19.smt2 : 23 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 372180 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-01.smt2 : 1800291 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-10.smt2 : 127 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-11.smt2 : 78 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-12.smt2 : 140 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 390013 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-13.smt2 : 1801336 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-14.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-15.smt2 : 429 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 393679 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-16.smt2 : 1801448 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-17.smt2 : 193 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-18.smt2 : 28 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 396726 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-19.smt2 : 1800267 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-20.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-21.smt2 : 85 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-22.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-23.smt2 : 138 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-24.smt2 : 37 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 399024 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-25.smt2 : 1803630 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 401677 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-26.smt2 : 1800179 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-27.smt2 : 80 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 403739 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-28.smt2 : 1801358 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-29.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-2.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-30.smt2 : 87 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-31.smt2 : 7752 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-32.smt2 : 68 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-33.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-34.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-35.smt2 : 89 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-36.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-37.smt2 : 99 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-38.smt2 : 102 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-39.smt2 : 89 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-3.smt2 : 71 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-40.smt2 : 9638 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-41.smt2 : 25962 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-1-all-42.smt2 : 99 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-1-all-43.smt2 : 41 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 406052 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-44.smt2 : 1801834 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 407900 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-45.smt2 : 1802352 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 409899 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-46.smt2 : 1800694 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 411426 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-47.smt2 : 1800505 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-1-all-48.smt2 : 67 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-1-all-49.smt2 : 1770 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-4.smt2 : 54 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 412932 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-50.smt2 : 1800142 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-1-all-52.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-1-all-54.smt2 : 18 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-1-all-56.smt2 : 19 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 414717 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-5.smt2 : 1801699 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 416569 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-6.smt2 : 1800728 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 418087 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-7.smt2 : 1801646 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-8.smt2 : 185 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 419719 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-1-all-9.smt2 : 1801799 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 421354 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-01.smt2 : 1800843 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-2-all-10.smt2 : 275 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 422439 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-11.smt2 : 1801628 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-2-all-12.smt2 : 636 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 423680 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-13.smt2 : 1800126 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 425391 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-14.smt2 : 1800562 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 426801 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-15.smt2 : 1800620 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 427735 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-16.smt2 : 1800419 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 428941 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-17.smt2 : 1800160 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 430153 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-18.smt2 : 1800499 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 431560 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-19.smt2 : 1804751 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 432733 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-20.smt2 : 1801073 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 433858 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-21.smt2 : 1800145 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-2-all-23.smt2 : 31 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 434935 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-25.smt2 : 1801484 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-2-all-27.smt2 : 35 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 435923 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-2.smt2 : 1801253 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 436603 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-3.smt2 : 1801849 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-2-all-4.smt2 : 153 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-2-all-5.smt2 : 5255 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-2-all-6.smt2 : 100 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 437814 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-2-all-7.smt2 : 1800691 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-2-all-8.smt2 : 428 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-2-all-9.smt2 : 169 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 438663 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-01.smt2 : 1800106 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 439493 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-10.smt2 : 1800111 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 440295 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-11.smt2 : 1800030 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 441434 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-12.smt2 : 1800030 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 442088 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-13.smt2 : 1800520 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 442989 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-14.smt2 : 1800025 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 443770 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-15.smt2 : 1800020 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 444651 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-16.smt2 : 1800265 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 445336 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-17.smt2 : 1800084 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-3-all-19.smt2 : 44 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 446204 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-21.smt2 : 1800539 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-3-all-23.smt2 : 49 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 446963 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-2.smt2 : 1800024 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 447688 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-3.smt2 : 1804670 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 448223 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-4.smt2 : 1800666 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-3-all-5.smt2 : 1172 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 448783 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-6.smt2 : 1800275 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 449667 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-7.smt2 : 1800292 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 450292 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-8.smt2 : 1800841 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 451032 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-3-all-9.smt2 : 1800171 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 451543 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-01.smt2 : 1800087 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 452019 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-10.smt2 : 1800084 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 452415 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-11.smt2 : 1800377 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 452915 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-12.smt2 : 1800045 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 453501 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-13.smt2 : 1800234 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 453903 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-14.smt2 : 1800023 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 454467 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-15.smt2 : 1800032 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 454888 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-16.smt2 : 1800033 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 455215 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-17.smt2 : 1800043 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 455599 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-18.smt2 : 1800261 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 455965 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-19.smt2 : 1800326 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 456404 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-20.smt2 : 1802305 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 456811 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-21.smt2 : 1800414 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 457235 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-22.smt2 : 1800465 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 22203 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-23.smt2 : 1803987 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 25179 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-24.smt2 : 1800096 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 27222 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-25.smt2 : 1800032 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 28725 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-26.smt2 : 1800270 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 29925 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-27.smt2 : 1800680 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-4-all-29.smt2 : 64 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 30865 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-2.smt2 : 1801124 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 31940 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-31.smt2 : 1802798 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-4-all-33.smt2 : 335 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 33028 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-3.smt2 : 1800164 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 34086 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-4.smt2 : 1800067 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 34856 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-5.smt2 : 1800180 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 35652 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-6.smt2 : 1800055 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 36660 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-7.smt2 : 1800100 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 37518 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-8.smt2 : 1800028 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 38323 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-4-all-9.smt2 : 1800115 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 39161 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-01.smt2 : 1800151 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 40083 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-10.smt2 : 1800461 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 40726 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-11.smt2 : 1800132 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 41379 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-12.smt2 : 1800064 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 42025 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-13.smt2 : 1801244 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 43108 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-14.smt2 : 1800072 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 43701 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-15.smt2 : 1800335 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 44203 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-16.smt2 : 1801879 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 44871 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-17.smt2 : 1801356 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 45350 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-18.smt2 : 1800485 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 45888 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-19.smt2 : 1800067 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 46328 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-20.smt2 : 1800127 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 46805 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-21.smt2 : 1805922 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-5-all-23.smt2 : 121 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 47333 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-25.smt2 : 1800556 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-5-all-27.smt2 : 147 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 47870 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-2.smt2 : 1800039 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 48292 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-3.smt2 : 1800251 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 48815 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-4.smt2 : 1800339 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 49230 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-5.smt2 : 1800036 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 49680 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-6.smt2 : 1800023 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 50141 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-7.smt2 : 1800611 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 50561 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-8.smt2 : 2720726 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 51088 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/zankl/matrix-5-all-9.smt2 : 1800026 ms.

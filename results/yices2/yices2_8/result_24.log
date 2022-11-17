@@ -1,0 +1,10 @@
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_0.smt2 : 27 ms.
+--------------------------------------------------
+./solvers/yices2/run.sh: line 2: 220865 Killed                  solvers/yices2/bin/yices2 $1 -t $2
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_10.smt2 : 207191891 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_1d_plain.05.redlog_global_11.smt2 : 477 ms.
+--------------------------------------------------

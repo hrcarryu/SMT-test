@@ -1,0 +1,120 @@
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0002.smt2 : 21 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0003.smt2 : 21 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0004.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0005.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0006.smt2 : 66 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0007.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0008.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0009.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0010.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0011.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0012.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0013.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0014.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0015.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0016.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0017.smt2 : 26 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 150535 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0018.smt2 : 1800639 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 172953 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0019.smt2 : 1800492 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0020.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0021.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0022.smt2 : 13 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0023.smt2 : 16 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0024.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0025.smt2 : 19 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 177221 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0026.smt2 : 1800259 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0027.smt2 : 18 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 180573 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0028.smt2 : 1800530 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0029.smt2 : 77 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0031.smt2 : 76 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0032.smt2 : 81 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0033.smt2 : 75 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0034.smt2 : 79 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0035.smt2 : 78 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0036.smt2 : 76 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0037.smt2 : 76 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0038.smt2 : 73 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0039.smt2 : 81 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0040.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0041.smt2 : 77 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Lyapunov/Lyapunov1a-chunk-0042.smt2 : 83 ms.

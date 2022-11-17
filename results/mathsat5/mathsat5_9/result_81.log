@@ -1,0 +1,12 @@
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 122238 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/exp/361/exp-361-neg-4-e-chunk-0215.smt2 : 1800098 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/361/exp-361-neg-4-e-chunk-0216.smt2 : 99 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 135175 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/exp/361/exp-361-neg-6-e-chunk-0215.smt2 : 1800097 ms.
+--------------------------------------------------
+./solvers/mathsat/run.sh: line 3: 138681 Killed                  ./mathsat ../$1
+QF_NRA/meti-tarski/exp/361/exp-361-neg-6-e-chunk-0216.smt2 : 1800184 ms.

@@ -1,0 +1,600 @@
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_0.smt2 : 36 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 424428 Segmentation fault      solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_10.smt2 : 103 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_11.smt2 : 120 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 424879 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_12.smt2 : 175 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_13.smt2 : 165 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 425671 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_14.smt2 : 225 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_15.smt2 : 257 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_1.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_2.smt2 : 150 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_3.smt2 : 221 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_4.smt2 : 258 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_5.smt2 : 233 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_6.smt2 : 283 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_7.smt2 : 210 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 430214 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_8.smt2 : 306 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_9.smt2 : 287 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_0.smt2 : 43 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 431766 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_10.smt2 : 4536 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_11.smt2 : 5173 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 454232 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_12.smt2 : 5203 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_13.smt2 : 5178 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 10402 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_14.smt2 : 5233 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_15.smt2 : 286994 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_1.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_2.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_3.smt2 : 72 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_4.smt2 : 72 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_5.smt2 : 127 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_6.smt2 : 159 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_7.smt2 : 403 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 17009 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_8.smt2 : 1077 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_9.smt2 : 3067 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_0.smt2 : 35 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 17028 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_10.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_11.smt2 : 74 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 17041 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_12.smt2 : 118 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_13.smt2 : 82 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 17054 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_14.smt2 : 108 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_15.smt2 : 97 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_1.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_2.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_3.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_4.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_5.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_6.smt2 : 57 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_7.smt2 : 58 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_8.smt2 : 85 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_9.smt2 : 66 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_0.smt2 : 32 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 17127 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_10.smt2 : 106 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_11.smt2 : 99 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 17141 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_12.smt2 : 135 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_13.smt2 : 114 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 17155 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_14.smt2 : 171 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_15.smt2 : 135 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_1.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_2.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_3.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_4.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_5.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_6.smt2 : 60 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_7.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_8.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_9.smt2 : 82 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_0.smt2 : 32 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 17228 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_10.smt2 : 93 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_11.smt2 : 74 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_12.smt2 : 1800031 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_13.smt2 : 97 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 24265 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_14.smt2 : 116 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_15.smt2 : 103 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_1.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_2.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_3.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_4.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_5.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_6.smt2 : 54 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_7.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_8.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_9.smt2 : 66 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_0.smt2 : 30 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 24336 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_10.smt2 : 109 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_11.smt2 : 97 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 24349 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_12.smt2 : 206 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_13.smt2 : 124 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 24362 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_14.smt2 : 139 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_15.smt2 : 143 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_1.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_2.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_3.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_4.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_5.smt2 : 61 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_6.smt2 : 68 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_7.smt2 : 74 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 24416 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_8.smt2 : 113 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_9.smt2 : 80 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_0.smt2 : 30 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 24435 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_10.smt2 : 4257 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_11.smt2 : 5145 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 24449 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_12.smt2 : 5935 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_13.smt2 : 82457 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 24705 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_14.smt2 : 5450 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_15.smt2 : 299379 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_1.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_2.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_3.smt2 : 95 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_4.smt2 : 79 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_5.smt2 : 137 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_6.smt2 : 159 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_7.smt2 : 452 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_8.smt2 : 872 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_9.smt2 : 2940 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_0.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_10.smt2 : 72 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_11.smt2 : 80 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 25004 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_12.smt2 : 242 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_13.smt2 : 94 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 25025 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_14.smt2 : 121 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_15.smt2 : 97 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_1.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_2.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_3.smt2 : 77 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_4.smt2 : 79 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_5.smt2 : 93 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_6.smt2 : 64 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_7.smt2 : 64 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_8.smt2 : 66 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_9.smt2 : 69 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_0.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_10.smt2 : 94 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_11.smt2 : 104 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 25108 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_12.smt2 : 159 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_13.smt2 : 117 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 25121 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_14.smt2 : 162 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_15.smt2 : 153 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_1.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_2.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_3.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_4.smt2 : 59 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_5.smt2 : 62 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_6.smt2 : 65 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_7.smt2 : 72 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_8.smt2 : 73 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_lemmas_global_9.smt2 : 82 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_0.smt2 : 33 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 25206 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_10.smt2 : 102 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_11.smt2 : 80 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 25230 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_12.smt2 : 112 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_13.smt2 : 93 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 25243 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_14.smt2 : 119 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_15.smt2 : 105 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_1.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_2.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_3.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_4.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_5.smt2 : 59 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_6.smt2 : 60 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_7.smt2 : 61 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_8.smt2 : 73 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_global_9.smt2 : 72 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_0.smt2 : 48 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 25315 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_10.smt2 : 113 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_11.smt2 : 92 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 25328 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_12.smt2 : 121 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_13.smt2 : 121 ms.
+--------------------------------------------------
+./solvers/z3_UD/run.sh: line 1: 25341 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_14.smt2 : 155 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_15.smt2 : 129 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_1.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_2.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_3.smt2 : 54 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_4.smt2 : 59 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_5.smt2 : 61 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_6.smt2 : 66 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_7.smt2 : 69 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_8.smt2 : 75 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_linear_enc_lemmas_global_9.smt2 : 82 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_0.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_10.smt2 : 4181 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_11.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_12.smt2 : 5149 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_13.smt2 : 66 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_14.smt2 : 5184 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_15.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_1.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_2.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_3.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_4.smt2 : 80 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_5.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_6.smt2 : 154 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_7.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_8.smt2 : 969 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.redlog_global_9.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.seq_lazy_global_0.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.seq_lazy_global_10.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.seq_lazy_global_11.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.seq_lazy_global_12.smt2 : 81 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.seq_lazy_global_13.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.seq_lazy_global_14.smt2 : 89 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.seq_lazy_global_15.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.10.seq_lazy_global_1.smt2 : 37 ms.

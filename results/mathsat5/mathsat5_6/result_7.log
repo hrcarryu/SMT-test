@@ -1,0 +1,15 @@
+--------------------------------------------------
+(error "a symbol for 1455 already exists, but it has the wrong type: Bool")
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_1000000.smt2 : 499 ms.
+--------------------------------------------------
+(error "a symbol for 1455 already exists, but it has the wrong type: Bool")
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_100000.smt2 : 527 ms.
+--------------------------------------------------
+(error "a symbol for 1575 already exists, but it has the wrong type: Bool")
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_10000.smt2 : 943 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_1000.smt2 : 999 ms.
+--------------------------------------------------
+(error "a symbol for 1593 already exists, but it has the wrong type: Bool")
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_100.smt2 : 480 ms.
