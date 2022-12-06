@@ -1,2 +1,2 @@
 ulimit -s 131072 
-solvers/yices2/bin/yices2 $1 -t $2
+timeout $2 solvers/yices2/bin/yices2 $1
