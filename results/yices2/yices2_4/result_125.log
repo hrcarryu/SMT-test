@@ -1,205 +1,422 @@
 --------------------------------------------------
 sat
-QF_NRA/zankl/gen-03.smt2 : 38 ms.
+QF_NRA/zankl/gen-03.smt2 : 29 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/gen-04.smt2 : 61 ms.
+QF_NRA/zankl/gen-04.smt2 : 32 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/gen-05.smt2 : 50 ms.
+QF_NRA/zankl/gen-05.smt2 : 26 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/gen-06.smt2 : 43 ms.
+QF_NRA/zankl/gen-06.smt2 : 30 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/gen-07.smt2 : 44 ms.
+QF_NRA/zankl/gen-07.smt2 : 26 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/gen-08.smt2 : 39 ms.
+QF_NRA/zankl/gen-08.smt2 : 29 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/gen-09.smt2 : 42 ms.
+QF_NRA/zankl/gen-09.smt2 : 54 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/gen-10.smt2 : 32 ms.
+QF_NRA/zankl/gen-10.smt2 : 52 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/gen-13.smt2 : 34 ms.
+QF_NRA/zankl/gen-13.smt2 : 33 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/gen-14.smt2 : 50 ms.
+QF_NRA/zankl/gen-14.smt2 : 30 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/gen-15.smt2 : 28 ms.
+QF_NRA/zankl/gen-15.smt2 : 27 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/gen-16.smt2 : 42 ms.
+QF_NRA/zankl/gen-16.smt2 : 25 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/gen-17.smt2 : 38 ms.
+QF_NRA/zankl/gen-17.smt2 : 26 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/gen-18.smt2 : 43 ms.
+QF_NRA/zankl/gen-18.smt2 : 27 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/gen-19.smt2 : 39 ms.
+QF_NRA/zankl/gen-19.smt2 : 27 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-01.smt2 : 49 ms.
+QF_NRA/zankl/matrix-1-all-01.smt2 : 30 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-10.smt2 : 109 ms.
+QF_NRA/zankl/matrix-1-all-10.smt2 : 67 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-11.smt2 : 35 ms.
+QF_NRA/zankl/matrix-1-all-11.smt2 : 27 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-12.smt2 : 97 ms.
+QF_NRA/zankl/matrix-1-all-12.smt2 : 44 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-13.smt2 : 67 ms.
+QF_NRA/zankl/matrix-1-all-13.smt2 : 41 ms.
 --------------------------------------------------
 sat
 QF_NRA/zankl/matrix-1-all-14.smt2 : 35 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-15.smt2 : 42 ms.
+QF_NRA/zankl/matrix-1-all-15.smt2 : 27 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-16.smt2 : 86 ms.
+QF_NRA/zankl/matrix-1-all-16.smt2 : 60 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-17.smt2 : 437 ms.
+QF_NRA/zankl/matrix-1-all-17.smt2 : 244 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-18.smt2 : 35 ms.
+QF_NRA/zankl/matrix-1-all-18.smt2 : 34 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-19.smt2 : 70 ms.
+QF_NRA/zankl/matrix-1-all-19.smt2 : 54 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-20.smt2 : 41 ms.
+QF_NRA/zankl/matrix-1-all-20.smt2 : 40 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-21.smt2 : 117 ms.
+QF_NRA/zankl/matrix-1-all-21.smt2 : 89 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-22.smt2 : 37 ms.
+QF_NRA/zankl/matrix-1-all-22.smt2 : 35 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-23.smt2 : 51 ms.
+QF_NRA/zankl/matrix-1-all-23.smt2 : 41 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-24.smt2 : 30 ms.
+QF_NRA/zankl/matrix-1-all-24.smt2 : 29 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-25.smt2 : 87 ms.
+QF_NRA/zankl/matrix-1-all-25.smt2 : 64 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-26.smt2 : 44 ms.
+QF_NRA/zankl/matrix-1-all-26.smt2 : 28 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-27.smt2 : 57 ms.
+QF_NRA/zankl/matrix-1-all-27.smt2 : 39 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-28.smt2 : 66 ms.
+QF_NRA/zankl/matrix-1-all-28.smt2 : 49 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-29.smt2 : 41 ms.
+QF_NRA/zankl/matrix-1-all-29.smt2 : 37 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-2.smt2 : 27 ms.
+QF_NRA/zankl/matrix-1-all-2.smt2 : 29 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-30.smt2 : 39 ms.
+QF_NRA/zankl/matrix-1-all-30.smt2 : 31 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-31.smt2 : 97 ms.
+QF_NRA/zankl/matrix-1-all-31.smt2 : 64 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-32.smt2 : 42 ms.
+QF_NRA/zankl/matrix-1-all-32.smt2 : 31 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-33.smt2 : 73 ms.
+QF_NRA/zankl/matrix-1-all-33.smt2 : 30 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-34.smt2 : 35 ms.
+QF_NRA/zankl/matrix-1-all-34.smt2 : 28 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-35.smt2 : 46 ms.
+QF_NRA/zankl/matrix-1-all-35.smt2 : 40 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-36.smt2 : 33 ms.
+QF_NRA/zankl/matrix-1-all-36.smt2 : 22 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-37.smt2 : 59 ms.
+QF_NRA/zankl/matrix-1-all-37.smt2 : 41 ms.
 --------------------------------------------------
-unknown
-QF_NRA/zankl/matrix-1-all-38.smt2 : 18762873 ms.
---------------------------------------------------
-sat
-QF_NRA/zankl/matrix-1-all-39.smt2 : 46 ms.
+QF_NRA/zankl/matrix-1-all-38.smt2 : 1800018 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-3.smt2 : 37 ms.
+QF_NRA/zankl/matrix-1-all-39.smt2 : 41 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-40.smt2 : 109 ms.
+QF_NRA/zankl/matrix-1-all-3.smt2 : 30 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-41.smt2 : 71 ms.
+QF_NRA/zankl/matrix-1-all-40.smt2 : 97 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-1-all-41.smt2 : 42 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-42.smt2 : 42 ms.
+QF_NRA/zankl/matrix-1-all-42.smt2 : 27 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-43.smt2 : 34 ms.
+QF_NRA/zankl/matrix-1-all-43.smt2 : 22 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-44.smt2 : 37 ms.
+QF_NRA/zankl/matrix-1-all-44.smt2 : 26 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-45.smt2 : 85 ms.
+QF_NRA/zankl/matrix-1-all-45.smt2 : 54 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-46.smt2 : 140 ms.
+QF_NRA/zankl/matrix-1-all-46.smt2 : 81 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-47.smt2 : 36 ms.
+QF_NRA/zankl/matrix-1-all-47.smt2 : 24 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-48.smt2 : 35 ms.
+QF_NRA/zankl/matrix-1-all-48.smt2 : 24 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-49.smt2 : 38 ms.
+QF_NRA/zankl/matrix-1-all-49.smt2 : 25 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-4.smt2 : 41 ms.
+QF_NRA/zankl/matrix-1-all-4.smt2 : 28 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-50.smt2 : 46 ms.
+QF_NRA/zankl/matrix-1-all-50.smt2 : 27 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-52.smt2 : 31 ms.
+QF_NRA/zankl/matrix-1-all-52.smt2 : 23 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-54.smt2 : 32 ms.
+QF_NRA/zankl/matrix-1-all-54.smt2 : 25 ms.
 --------------------------------------------------
 unsat
-QF_NRA/zankl/matrix-1-all-56.smt2 : 30 ms.
+QF_NRA/zankl/matrix-1-all-56.smt2 : 22 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-5.smt2 : 47 ms.
+QF_NRA/zankl/matrix-1-all-5.smt2 : 30 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-6.smt2 : 60 ms.
+QF_NRA/zankl/matrix-1-all-6.smt2 : 36 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-7.smt2 : 40 ms.
+QF_NRA/zankl/matrix-1-all-7.smt2 : 23 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-8.smt2 : 213 ms.
+QF_NRA/zankl/matrix-1-all-8.smt2 : 123 ms.
 --------------------------------------------------
 sat
-QF_NRA/zankl/matrix-1-all-9.smt2 : 39 ms.
+QF_NRA/zankl/matrix-1-all-9.smt2 : 29 ms.
 --------------------------------------------------
+QF_NRA/zankl/matrix-2-all-01.smt2 : 1800013 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-10.smt2 : 1800016 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-11.smt2 : 1800015 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-12.smt2 : 1800016 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-13.smt2 : 1800052 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-2-all-14.smt2 : 54 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-15.smt2 : 1800014 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-16.smt2 : 1800036 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-17.smt2 : 1800034 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-18.smt2 : 1800092 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-19.smt2 : 1800037 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-20.smt2 : 1800020 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-21.smt2 : 1800044 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-2-all-23.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-2-all-25.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-2-all-27.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-2-all-2.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-2-all-3.smt2 : 250 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-2-all-4.smt2 : 182 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-5.smt2 : 1800019 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-2-all-6.smt2 : 291 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-7.smt2 : 1800048 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-8.smt2 : 1800023 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-2-all-9.smt2 : 1800050 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-01.smt2 : 1800101 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-3-all-10.smt2 : 135 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-11.smt2 : 1800033 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-12.smt2 : 1800081 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-13.smt2 : 1800037 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-14.smt2 : 1800407 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-15.smt2 : 1800036 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-16.smt2 : 1800074 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-17.smt2 : 1800549 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-3-all-19.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-3-all-21.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-3-all-23.smt2 : 21 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-2.smt2 : 1800022 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-3-all-3.smt2 : 320 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-4.smt2 : 1800080 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-3-all-5.smt2 : 166 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-6.smt2 : 1800069 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-7.smt2 : 1800050 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-8.smt2 : 1800071 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-3-all-9.smt2 : 1800020 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-01.smt2 : 1800164 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-10.smt2 : 1800174 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-11.smt2 : 1800070 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-12.smt2 : 1800548 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-13.smt2 : 1800116 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-14.smt2 : 1800087 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-15.smt2 : 1800135 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-16.smt2 : 1800031 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-17.smt2 : 1801323 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-18.smt2 : 1800163 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-19.smt2 : 1800019 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-4-all-20.smt2 : 240 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-21.smt2 : 1800028 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-22.smt2 : 1800336 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-23.smt2 : 1800441 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-24.smt2 : 1800116 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-25.smt2 : 1800051 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-26.smt2 : 1800013 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-27.smt2 : 1800064 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-4-all-29.smt2 : 34 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-2.smt2 : 1800060 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-4-all-31.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-4-all-33.smt2 : 34 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-3.smt2 : 1800014 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-4.smt2 : 1800815 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-5.smt2 : 1800714 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-6.smt2 : 1800099 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-7.smt2 : 1800142 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-4-all-8.smt2 : 1800052 ms.
+--------------------------------------------------
+sat
+QF_NRA/zankl/matrix-4-all-9.smt2 : 16331 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-01.smt2 : 1800115 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-10.smt2 : 1801398 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-11.smt2 : 1800151 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-12.smt2 : 1800037 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-13.smt2 : 1800121 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-5-all-14.smt2 : 997 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-15.smt2 : 1800740 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-16.smt2 : 1800017 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-17.smt2 : 1800614 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-18.smt2 : 1800864 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-19.smt2 : 1800119 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-20.smt2 : 1800120 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-21.smt2 : 1800206 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-5-all-23.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-5-all-25.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/zankl/matrix-5-all-27.smt2 : 35 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-2.smt2 : 1800100 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-3.smt2 : 1800018 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-4.smt2 : 1800011 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-5.smt2 : 1800099 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-6.smt2 : 1800361 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-7.smt2 : 1800309 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-8.smt2 : 1800031 ms.
+--------------------------------------------------
+QF_NRA/zankl/matrix-5-all-9.smt2 : 1802378 ms.

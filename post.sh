@@ -10,6 +10,7 @@ function post_process() {
     fi
     if test -f $@;then
         sed -i -r 's/\.\.\/\.\.\///g' $@
+        sed -i -r 's/\.\.\///g' $@
         sed -i -r 's/_[0-9]+\//\//g' $@
         sed -i -r 's/temp\///g' $@
         sed -i -r 's/_split//g' $@

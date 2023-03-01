@@ -1,16 +1,39 @@
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-lexTemplate.smt2 : 203083 ms.
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-lexTemplate.smt2 : 198008 ms.
 --------------------------------------------------
-unknown
-QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1804910 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_4-lexTemplate.smt2 : 331530 ms.
---------------------------------------------------
-unknown
-QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1804710 ms.
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800053 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 306890 ms.
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_4-lexTemplate.smt2 : 280183 ms.
 --------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800061 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 259619 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_2-pieceTemplate.smt2 : 1800047 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-lexTemplate.smt2 : 130766 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 1800063 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_4-lexTemplate.smt2 : 214770 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 : 1800049 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 : 226346 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/Toulouse-BranchesToLoop_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 : 221 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/Toulouse-BranchesToLoop_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1829 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP/Toulouse-BranchesToLoop_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 3312 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP/Urban_true-termination.c_Iteration1_Loop_affineTemplate.smt2 : 1800155 ms.

@@ -1,9 +1,0 @@
---------------------------------------------------
-sat
-QF_NRA/meti-tarski/exp/361/6/exp-361-6-e-chunk-0134.smt2 : 141 ms.
---------------------------------------------------
-sat
-QF_NRA/meti-tarski/exp/361/6/exp-361-6-e-chunk-0135.smt2 : 197 ms.
---------------------------------------------------
-./solvers/z3_UD/run.sh: line 1: 427186 Segmentation fault      (core dumped) solvers/z3_UD/bin/z3 -smt2 $1 -T:$2
-QF_NRA/meti-tarski/exp/361/6/exp-361-6-weak-chunk-0804.smt2 : 266 ms.
