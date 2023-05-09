@@ -1,39 +1,36 @@
-#！/bin/bash
-# ./parallel.sh ../../QF_NRA 1800 smtrat smtrat_1
-# ./parallel.sh ../../QF_NRA 1800 mathsat5 mathsat5_1
-# ./parallel.sh ../../QF_NRA 1800 z3_UD z3_UD_1
-time_t=$2
-solver=$3
-result=$4
+#!/bin/bash
+# ./parallel.sh 100 ismt 1200
+# ./parallel.sh 100 Model-Validation
 
-index=1
-function parallel() {
-    for folder in $@/*;do 
-        # echo `ls -lR $folder | grep "^-"| wc -l`
-        state=-1
-        for file in $folder/*;do
-            if test -f $file;then
-                state=0
-                break
-            fi
-            if test -d $file;then
-                state=1
-                break
-            fi
-        done
-        if [ $state -eq 0 ];then
-            # echo hh
-            nohup bash run.sh $folder $time_t $solver > results/$solver/$result/result_$index.log 2>&1 &
-            index=$[ $index + 1 ]
-        fi
-        if [ $state -eq 1 ];then
-            parallel $folder
-        fi
-    done
-}
+# 定义输入目录和输出目录
+# input_directory="/home/hanrui/QF_NIA"
+# output_directory="/home/hanrui/QF_NIA_scr"
 
-if [ ! -d results/$solver/$result ];then
-  mkdir results/$solver/$result
-fi
+# path_directory="QF_NIA_path"
 
-parallel $1
+input_directory="/home/hanrui/SMT-test/test_mod"
+output_directory="/home/hanrui/SMT-test/test_res"
+path_directory="test_path"
+
+# 输入参数
+num_groups="$1"
+solver="$2"
+time_t="$3"
+
+# 创建输出目录
+mkdir -p "$output_directory"
+mkdir -p "$path_directory"
+rm -rf "$path_directory"/*
+
+# 获取文件夹下所有文件的路径，并将它们分为i组
+find "$input_directory" -type f > all_files.txt
+split -l $((($(wc -l < all_files.txt) + num_groups - 1) / num_groups)) all_files.txt "${path_directory}/group_"
+# 删除临时文件
+rm all_files.txt
+
+mkdir -p "$path_directory/$solver"
+# 遍历所有组文件，并使用run.sh脚本处理每一组
+for group_file in "${path_directory}/group_"*; do
+    group_name=$(basename "$group_file")
+    ./run.sh "$group_file" "$output_directory" "$input_directory" "$solver" "$time_t" > "${path_directory}/${solver}/${group_name}.txt" 2>&1 &
+done

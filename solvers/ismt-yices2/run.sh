@@ -1,0 +1,1 @@
+timeout $2 solvers/ismt-yices2/bin/ismt $1
