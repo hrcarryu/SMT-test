@@ -1,15 +1,15 @@
 #!/bin/bash
-# ./parallel.sh 100 Single-Query
+# ./parallel_fixValue.sh 100
 # ./parallel.sh 100 Model-Validation
 
 # 定义输入目录和输出目录
-# input_directory="/home/hanrui/QF_NIA"
-# output_directory="/home/hanrui/QF_NIA_scr"
-# path_directory="QF_NIA_path"
+input_directory="/home/hanrui/QF_NIA"
+output_directory="/home/hanrui/QF_NIA_res"
+path_directory="QF_NIA_path_res"
 
-input_directory="/home/hanrui/SMT-test/test"
-output_directory="/home/hanrui/SMT-test/test_res"
-path_directory="test_path"
+# input_directory="/home/hanrui/SMT-test/test"
+# output_directory="/home/hanrui/SMT-test/test_res"
+# path_directory="test_path"
 
 # 输入参数
 num_groups="$1"
