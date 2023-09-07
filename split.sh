@@ -30,7 +30,7 @@ function splitAll() {
             if test -f $file;then
                 state=0
                 break
-            fi
+            fir
             if test -d $file;then
                 state=1
                 break
