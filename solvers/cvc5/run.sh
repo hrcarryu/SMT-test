@@ -16,6 +16,11 @@ function finishwith {
   echo "$result"
 }
 
-trywith 600 --decision=justification
-trywith 300 --decision=internal --no-nl-cad --nl-ext=full --nl-ext-tplanes
-finishwith --decision=internal --nl-ext=none
+# QF_NRA)
+# trywith 600 --decision=justification
+# trywith 300 --decision=internal --no-nl-cad --nl-ext=full --nl-ext-tplanes
+# finishwith --decision=internal --nl-ext=none
+
+# QF_S|QF_SLIA)
+trywith 300 --strings-exp --strings-fmf --no-jh-rlv-order
+finishwith --strings-exp --no-jh-rlv-order
