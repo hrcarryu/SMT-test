@@ -5,9 +5,9 @@
 # ./parallel.sh 100 Model-Validation
 
 # 定义输入目录和输出目录
-input_directory="/pub/data/Ailura/QF_S"
+input_directory="/pub/data/Ailura/QF_SLIA"
 output_directory="/home/hanrui/SMT-test/results"
-path_directory="/home/hanrui/SMT-test/QF_S_path"
+path_directory="/home/hanrui/SMT-test/QF_SLIA_path"
 
 # input_directory="/pub/data/Ailura/QF_NIA_scr"
 # output_directory="/pub/data/Ailura/QF_NIA_res"
