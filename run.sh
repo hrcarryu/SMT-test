@@ -20,6 +20,9 @@ while read -r file_path; do
     if [ "$solver"x = "cvc5"x ]; then
         ./solvers/cvc5/run.sh $file_path $time_t
     fi
+    if [ "$solver"x = "cvc5_new"x ]; then
+        timeout $time_t /home/hanrui/cvc5/build/bin/cvc5 $file_path
+    fi
     if [ "$solver"x = "yices2"x ]; then
         ./solvers/yices2/run.sh $file_path $time_t
     fi
