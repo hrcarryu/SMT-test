@@ -77,11 +77,5 @@ QF_SLIA/20230327-stringfuzz-lu/generated/regexlengths/regex-lengths-00351-24.smt
 cvc5 interrupted by SIGTERM.
 QF_SLIA/20230327-stringfuzz-lu/generated/regexlengths/regex-lengths-00351-25.smt2 : 1200020 ms.
 --------------------------------------------------
-Fatal failure within static std::unique_ptr<cvc5::parser::Parser> cvc5::parser::Parser::mkParser(const string&, cvc5::Solver*, cvc5::parser::SymManager*) at /home/hanrui/cvc5/src/parser/parser.cpp:133
-Unhandled case encountered unable to detect input file format, try --lang
-timeout: the monitored command dumped core
-./run.sh: line 47: 1417303 Aborted                 timeout $time_t /home/hanrui/cvc5/build/bin/cvc5 $file_path
-QF_SLIA/home/hanrui/ : 245 ms.
---------------------------------------------------
 cvc5 interrupted by SIGTERM.
 QF_SLIA/2015-Norn/ChunkSplit/norn-benchmark-18.smt2 : 1200057 ms.

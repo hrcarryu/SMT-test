@@ -68,12 +68,6 @@ QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-050-fuzz.smt2 : 1200029 
 (error "Too many input files specified.")
 QF_SLIA/home/hanrui/(error "expecting a single constant string term in regexp range") : 9 ms.
 --------------------------------------------------
-Fatal failure within static std::unique_ptr<cvc5::parser::Parser> cvc5::parser::Parser::mkParser(const string&, cvc5::Solver*, cvc5::parser::SymManager*) at /home/hanrui/cvc5/src/parser/parser.cpp:133
-Unhandled case encountered unable to detect input file format, try --lang
-timeout: the monitored command dumped core
-./run.sh: line 47: 1322461 Aborted                 timeout $time_t /home/hanrui/cvc5/build/bin/cvc5 $file_path
-QF_SLIA/home/hanrui/-------------------------------------------------- : 268 ms.
---------------------------------------------------
 unsat
 QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-050-multiply-graft-fuzz.smt2 : 43 ms.
 --------------------------------------------------

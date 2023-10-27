@@ -1,1624 +1,2258 @@
 --------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4178.smt2 : 115 ms.
+sat
+QF_SLIA/20230331-transducer-plus/Duality/toUpper-escapeString.smt2 : 805 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4179.smt2 : 3030 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/418.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4180.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4181.smt2 : 138 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4182.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4183.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4184.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4185.smt2 : 48 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4186.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4187.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4188.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4189.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/419.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4190.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4191.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4192.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4193.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4194.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4195.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4196.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4197.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4198.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4199.smt2 : 43 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/42.smt2 : 34 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/420.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4200.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4201.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4202.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4203.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4204.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4205.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4206.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4207.smt2 : 48 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4208.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4209.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/421.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4210.smt2 : 43 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4211.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4212.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4213.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4214.smt2 : 141 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4215.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4216.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4217.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4218.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4219.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/422.smt2 : 3185 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4220.smt2 : 1386 ms.
+QF_SLIA/20230331-transducer-plus/Duality/toUpper-htmlEscape.smt2 : 172 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4221.smt2 : 2678 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4222.smt2 : 98 ms.
+QF_SLIA/20230331-transducer-plus/Duality/toUpper-htmlUnescape.smt2 : 170 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4223.smt2 : 1179 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4224.smt2 : 36 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4225.smt2 : 136 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4226.smt2 : 38 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4227.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4228.smt2 : 37 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4229.smt2 : 45 ms.
+QF_SLIA/20230331-transducer-plus/Duality/toUpper-toLower.smt2 : 330 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/423.smt2 : 4110 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4230.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4231.smt2 : 35 ms.
+QF_SLIA/20230331-transducer-plus/Duality/toUpper-trim.smt2 : 9394 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4232.smt2 : 1354 ms.
+QF_SLIA/20230331-transducer-plus/Duality/trim-addslashes.smt2 : 492 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4233.smt2 : 894 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4234.smt2 : 83 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4235.smt2 : 635 ms.
+QF_SLIA/20230331-transducer-plus/Duality/trim-escapeString.smt2 : 5520 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4236.smt2 : 352 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4237.smt2 : 71 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4238.smt2 : 31 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4239.smt2 : 283 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/424.smt2 : 164 ms.
+QF_SLIA/20230331-transducer-plus/Duality/trim-htmlEscape.smt2 : 494 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4240.smt2 : 183 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4241.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4242.smt2 : 31 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4243.smt2 : 27 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4244.smt2 : 28 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4245.smt2 : 28 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4246.smt2 : 27 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4247.smt2 : 24 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4248.smt2 : 33 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4249.smt2 : 32 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/425.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4250.smt2 : 31 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4251.smt2 : 33 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4252.smt2 : 30 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4253.smt2 : 30 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4254.smt2 : 28 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4255.smt2 : 32 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4256.smt2 : 29 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4257.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4258.smt2 : 28 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4259.smt2 : 35 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/426.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4260.smt2 : 25 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4261.smt2 : 28 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4262.smt2 : 29 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4263.smt2 : 25 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4264.smt2 : 30 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4265.smt2 : 27 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4266.smt2 : 68 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4267.smt2 : 67 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4268.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4269.smt2 : 89 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/427.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4270.smt2 : 69 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4271.smt2 : 65 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4272.smt2 : 63 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4273.smt2 : 62 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4274.smt2 : 71 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4275.smt2 : 65 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4276.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4277.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4278.smt2 : 63 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4279.smt2 : 78 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/428.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4280.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4281.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4282.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4283.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4284.smt2 : 66 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4285.smt2 : 62 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4286.smt2 : 64 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4287.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4288.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4289.smt2 : 63 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/429.smt2 : 130 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4290.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4291.smt2 : 56 ms.
+QF_SLIA/20230331-transducer-plus/Duality/trim-htmlUnescape.smt2 : 506 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4292.smt2 : 4737 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4293.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4294.smt2 : 179 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4295.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4296.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4297.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4298.smt2 : 60 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4299.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/43.smt2 : 26 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/430.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4300.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4301.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4302.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4303.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4304.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4305.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4306.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4307.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4308.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4309.smt2 : 48 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/431.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4310.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4311.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4312.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4313.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4314.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4315.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4316.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4317.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4318.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4319.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/432.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4320.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4321.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4322.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4323.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4324.smt2 : 43 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4325.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4326.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4327.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4328.smt2 : 43 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4329.smt2 : 48 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/433.smt2 : 39 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4330.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4331.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4332.smt2 : 48 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4333.smt2 : 39 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4334.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4335.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4336.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4337.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4338.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4339.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/434.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4340.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4341.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4342.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4343.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4344.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4345.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4346.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4347.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4348.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4349.smt2 : 129 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/435.smt2 : 144 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4350.smt2 : 1719 ms.
+QF_SLIA/20230331-transducer-plus/Duality/trim-toLower.smt2 : 591 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4351.smt2 : 1780 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4352.smt2 : 142 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4353.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4354.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4355.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4356.smt2 : 147 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4357.smt2 : 135 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4358.smt2 : 34 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4359.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/436.smt2 : 2122 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4360.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4361.smt2 : 35 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4362.smt2 : 38 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4363.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4364.smt2 : 1022 ms.
---------------------------------------------------
-sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4365.smt2 : 1631 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4366.smt2 : 112 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4367.smt2 : 105 ms.
---------------------------------------------------
-sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4368.smt2 : 796 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4369.smt2 : 36 ms.
---------------------------------------------------
-sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/437.smt2 : 4071 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4370.smt2 : 100 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4371.smt2 : 33 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4372.smt2 : 35 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4373.smt2 : 33 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4374.smt2 : 36 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4375.smt2 : 96 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4376.smt2 : 32 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4377.smt2 : 34 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4378.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4379.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/438.smt2 : 128 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4380.smt2 : 39 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4381.smt2 : 41 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4382.smt2 : 66 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4383.smt2 : 68 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4384.smt2 : 72 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4385.smt2 : 101 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4386.smt2 : 96 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4387.smt2 : 70 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4388.smt2 : 73 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4389.smt2 : 71 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/439.smt2 : 41 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4390.smt2 : 74 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4391.smt2 : 69 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4392.smt2 : 67 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4393.smt2 : 76 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4394.smt2 : 68 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4395.smt2 : 74 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4396.smt2 : 65 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4397.smt2 : 68 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4398.smt2 : 72 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4399.smt2 : 68 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/44.smt2 : 30 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/440.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4400.smt2 : 74 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4401.smt2 : 70 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4402.smt2 : 66 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4403.smt2 : 64 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4404.smt2 : 65 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4405.smt2 : 67 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4406.smt2 : 66 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4407.smt2 : 67 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4408.smt2 : 70 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4409.smt2 : 60 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/441.smt2 : 38 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4410.smt2 : 68 ms.
---------------------------------------------------
-sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4411.smt2 : 5669 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4412.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4413.smt2 : 221 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4414.smt2 : 77 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4415.smt2 : 80 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4416.smt2 : 71 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4417.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4418.smt2 : 149 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4419.smt2 : 213 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/442.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4420.smt2 : 73 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4421.smt2 : 74 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4422.smt2 : 59 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4423.smt2 : 64 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4424.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4425.smt2 : 60 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4426.smt2 : 63 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4427.smt2 : 63 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4428.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4429.smt2 : 237 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/443.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4430.smt2 : 219 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4431.smt2 : 87 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4432.smt2 : 60 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4433.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4434.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4435.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4436.smt2 : 63 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4437.smt2 : 63 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4438.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4439.smt2 : 62 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/444.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4440.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4441.smt2 : 54 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4442.smt2 : 205 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4443.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4444.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4445.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4446.smt2 : 59 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4447.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4448.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4449.smt2 : 56 ms.
---------------------------------------------------
-sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/445.smt2 : 133026 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4450.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4451.smt2 : 60 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4452.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4453.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4454.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4455.smt2 : 54 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4456.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4457.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4458.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4459.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/446.smt2 : 43 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4460.smt2 : 59 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4461.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4462.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4463.smt2 : 54 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4464.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4465.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4466.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4467.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4468.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4469.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/447.smt2 : 114 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4470.smt2 : 54 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4471.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4472.smt2 : 54 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4473.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4474.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4475.smt2 : 146 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4476.smt2 : 1858 ms.
---------------------------------------------------
-sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4477.smt2 : 3296 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4478.smt2 : 149 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4479.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/448.smt2 : 41 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4480.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4481.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4482.smt2 : 48 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4483.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4484.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4485.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4486.smt2 : 48 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4487.smt2 : 48 ms.
---------------------------------------------------
-sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4488.smt2 : 3312 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4489.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/449.smt2 : 43 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4490.smt2 : 132 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4491.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4492.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4493.smt2 : 48 ms.
---------------------------------------------------
-sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4494.smt2 : 4581 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4495.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4496.smt2 : 122 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4497.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4498.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4499.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/45.smt2 : 39 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/450.smt2 : 41 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4500.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4501.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4502.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4503.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4504.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4505.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4506.smt2 : 1588 ms.
---------------------------------------------------
-sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4507.smt2 : 1474 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4508.smt2 : 106 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4509.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/451.smt2 : 43 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4510.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4511.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4512.smt2 : 39 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4513.smt2 : 38 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4514.smt2 : 39 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4515.smt2 : 38 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4516.smt2 : 39 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4517.smt2 : 94 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4518.smt2 : 1143 ms.
---------------------------------------------------
-sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4519.smt2 : 1367 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/452.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4520.smt2 : 85 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4521.smt2 : 36 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4522.smt2 : 36 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4523.smt2 : 29 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4524.smt2 : 559 ms.
---------------------------------------------------
-sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4525.smt2 : 828 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4526.smt2 : 70 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4527.smt2 : 65 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4528.smt2 : 65 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4529.smt2 : 65 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/453.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4530.smt2 : 62 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4531.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4532.smt2 : 134 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4533.smt2 : 175 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4534.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4535.smt2 : 65 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4536.smt2 : 64 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4537.smt2 : 59 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4538.smt2 : 62 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4539.smt2 : 64 ms.
+QF_SLIA/20230331-transducer-plus/Duality/trim-toUpper.smt2 : 593 ms.
 --------------------------------------------------
 unknown
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/454.smt2 : 769543 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4540.smt2 : 62 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4541.smt2 : 63 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4542.smt2 : 60 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4543.smt2 : 64 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4544.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4545.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4546.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4547.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4548.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4549.smt2 : 60 ms.
+QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-escapeString.smt2 : 853409 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/455.smt2 : 117409 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4550.smt2 : 64 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4551.smt2 : 63 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4552.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4553.smt2 : 59 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4554.smt2 : 59 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4555.smt2 : 58 ms.
+QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-htmlEscape.smt2 : 3621 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4556.smt2 : 2986 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4557.smt2 : 59 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4558.smt2 : 156 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4559.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/456.smt2 : 92 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4560.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4561.smt2 : 276 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4562.smt2 : 64 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4563.smt2 : 62 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4564.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4565.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4566.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4567.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4568.smt2 : 65 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4569.smt2 : 86 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/457.smt2 : 1075 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4570.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4571.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4572.smt2 : 77 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4573.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4574.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4575.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4576.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4577.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4578.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4579.smt2 : 54 ms.
+QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-htmlUnescape.smt2 : 5207 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/458.smt2 : 22627 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4580.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4581.smt2 : 58 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4582.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4583.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4584.smt2 : 54 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4585.smt2 : 95 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4586.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4587.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4588.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4589.smt2 : 54 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/459.smt2 : 77 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4590.smt2 : 56 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4591.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4592.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4593.smt2 : 54 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4594.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4595.smt2 : 55 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4596.smt2 : 54 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4597.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4598.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4599.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/46.smt2 : 34 ms.
+QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-toLower.smt2 : 8141 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/460.smt2 : 817 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4600.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4601.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4602.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4603.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4604.smt2 : 53 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4605.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4606.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4607.smt2 : 48 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4608.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4609.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/461.smt2 : 37 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4610.smt2 : 1327 ms.
+QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-toUpper.smt2 : 8817 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4611.smt2 : 1406 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4612.smt2 : 133 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4613.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4614.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4615.smt2 : 48 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4616.smt2 : 146 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4617.smt2 : 130 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4618.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4619.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/462.smt2 : 66 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4620.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4621.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4622.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4623.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4624.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4625.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4626.smt2 : 43 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4627.smt2 : 115 ms.
+QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-trim.smt2 : 970 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4628.smt2 : 1174 ms.
+QF_SLIA/20230331-transducer-plus/Equivalence/escapeString-toUpper.smt2 : 61160 ms.
 --------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4629.smt2 : 48 ms.
+unknown
+sat
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-escapeString.smt2 : 864814 ms.
 --------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/463.smt2 : 39 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4630.smt2 : 114 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4631.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4632.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4633.smt2 : 43 ms.
+unknown
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toLower.smt2 : 1200008 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4634.smt2 : 1837 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4635.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4636.smt2 : 96 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4637.smt2 : 39 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4638.smt2 : 36 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4639.smt2 : 37 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/464.smt2 : 35 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4640.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4641.smt2 : 48 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4642.smt2 : 37 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4643.smt2 : 800 ms.
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toUpper.smt2 : 255 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4644.smt2 : 525 ms.
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-trim.smt2 : 1063 ms.
 --------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4645.smt2 : 77 ms.
---------------------------------------------------
-unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4646.smt2 : 384 ms.
+unknown
+sat
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-escapeString.smt2 : 854692 ms.
 --------------------------------------------------
 sat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4647.smt2 : 282 ms.
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-htmlEscape.smt2 : 7657 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toLower.smt2 : 1200021 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toUpper.smt2 : 236 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-trim.smt2 : 914 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230331-transducer-plus/Equivalence/toLower-escapeString.smt2 : 961169 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230331-transducer-plus/Equivalence/toLower-toUpper.smt2 : 1271 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230331-transducer-plus/Equivalence/trim-escapeString.smt2 : 808115 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230331-transducer-plus/Equivalence/trim-toLower.smt2 : 4653 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230331-transducer-plus/Equivalence/trim-toUpper.smt2 : 4616 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230331-transducer-plus/Idempotence/addslashes.smt2 : 32547 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230331-transducer-plus/Idempotence/escapeString.smt2 : 1200019 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230331-transducer-plus/Idempotence/htmlEscape.smt2 : 306779 ms.
+--------------------------------------------------
+QF_SLIA/20230331-transducer-plus/Idempotence/htmlUnescape.smt2 : 1200016 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230331-transducer-plus/Idempotence/toLower.smt2 : 1200009 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230331-transducer-plus/Idempotence/toUpper.smt2 : 1200016 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230331-transducer-plus/Idempotence/trim.smt2 : 1200022 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4648.smt2 : 71 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all1.smt2 : 82 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4649.smt2 : 33 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all10.smt2 : 75 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all100.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all101.smt2 : 231 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all102.smt2 : 1200010 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/465.smt2 : 34 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all103.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all104.smt2 : 768 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4650.smt2 : 32 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all105.smt2 : 56 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all106.smt2 : 300252 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4651.smt2 : 33 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all107.smt2 : 87 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4652.smt2 : 32 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all108.smt2 : 123 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all11.smt2 : 717 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all12.smt2 : 300202 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4653.smt2 : 29 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all13.smt2 : 39 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4654.smt2 : 30 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all14.smt2 : 34 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4655.smt2 : 61 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all15.smt2 : 37 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all16.smt2 : 302148 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4656.smt2 : 59 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all17.smt2 : 40 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4657.smt2 : 58 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all18.smt2 : 70 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4658.smt2 : 85 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all19.smt2 : 44 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4659.smt2 : 58 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all2.smt2 : 92 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/466.smt2 : 33 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all20.smt2 : 80 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4660.smt2 : 54 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all21.smt2 : 54 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all22.smt2 : 300389 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4661.smt2 : 160 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all23.smt2 : 56 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4662.smt2 : 57 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all24.smt2 : 44 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4663.smt2 : 56 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all25.smt2 : 41 ms.
 --------------------------------------------------
 unsat
-QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/4664.smt2 : 56 ms.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all26.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all27.smt2 : 118798 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all28.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all29.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all3.smt2 : 30520 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all30.smt2 : 1200015 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all31.smt2 : 1200027 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all32.smt2 : 64 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all33.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all34.smt2 : 43 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all35.smt2 : 300328 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all36.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all37.smt2 : 39 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all38.smt2 : 301018 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all39.smt2 : 301481 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all4.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all40.smt2 : 45 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all41.smt2 : 301381 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all42.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all43.smt2 : 38 ms.
+--------------------------------------------------
+unknown
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all44.smt2 : 659733 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all45.smt2 : 322 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all46.smt2 : 384 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all47.smt2 : 1200019 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all48.smt2 : 655 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all5.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all50.smt2 : 61 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all51.smt2 : 116 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all52.smt2 : 157 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all53.smt2 : 56 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all54.smt2 : 81536 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all55.smt2 : 1353 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all56.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all57.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all58.smt2 : 110 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all59.smt2 : 96 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all6.smt2 : 97377 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all60.smt2 : 62 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all61.smt2 : 300844 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all62.smt2 : 249 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all63.smt2 : 1200343 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all64.smt2 : 800471 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all65.smt2 : 816295 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all66.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all67.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all68.smt2 : 76 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all69.smt2 : 1200012 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all7.smt2 : 301346 ms.
+--------------------------------------------------
+unknown
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all70.smt2 : 338150 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all71.smt2 : 1200010 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all72.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all73.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all74.smt2 : 85 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all75.smt2 : 57 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all76.smt2 : 1200011 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all77.smt2 : 3008 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all78.smt2 : 90 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all79.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all8.smt2 : 56 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all80.smt2 : 418 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all81.smt2 : 301394 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all82.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all84.smt2 : 14093 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all85.smt2 : 215 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all86.smt2 : 111 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all87.smt2 : 1200022 ms.
+--------------------------------------------------
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all88.smt2 : 1200015 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all89.smt2 : 55 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all9.smt2 : 1200011 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all91.smt2 : 57 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all92.smt2 : 37264 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all93.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all94.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all95.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all96.smt2 : 75 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all97.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all98.smt2 : 234 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all99.smt2 : 89 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace0.smt2 : 92 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace1.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace10.smt2 : 73 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace100.smt2 : 61 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace101.smt2 : 72 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace102.smt2 : 112 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace103.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace104.smt2 : 208 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace105.smt2 : 79 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace106.smt2 : 301361 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace107.smt2 : 91 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace108.smt2 : 93 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace11.smt2 : 99 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace12.smt2 : 273713 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace13.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace14.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace15.smt2 : 44 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace16.smt2 : 302230 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace17.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace18.smt2 : 77 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace19.smt2 : 67 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace2.smt2 : 98 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace20.smt2 : 105 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace21.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace22.smt2 : 5465 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace23.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace24.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace25.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace26.smt2 : 70 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace27.smt2 : 338 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace28.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace29.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace3.smt2 : 2183 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep/lan_replace30.smt2 : 1200021 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep/lan_replace31.smt2 : 1200036 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace32.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace33.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace34.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace35.smt2 : 638 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace36.smt2 : 71 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace37.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace38.smt2 : 1153 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace39.smt2 : 301697 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace4.smt2 : 54 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace40.smt2 : 47 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace41.smt2 : 301353 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace42.smt2 : 67 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace43.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace44.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace45.smt2 : 308 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace46.smt2 : 410 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep/lan_replace47.smt2 : 1200008 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace48.smt2 : 724 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace5.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace50.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace51.smt2 : 114 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace52.smt2 : 161 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace53.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace54.smt2 : 15092 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace55.smt2 : 244 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace56.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace57.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace58.smt2 : 76 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace59.smt2 : 102 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace6.smt2 : 13901 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace60.smt2 : 72 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace61.smt2 : 5724 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace62.smt2 : 305 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace63.smt2 : 106638 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace64.smt2 : 834768 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace65.smt2 : 830950 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace66.smt2 : 82 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace67.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace68.smt2 : 74 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep/lan_replace69.smt2 : 1200014 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace7.smt2 : 301350 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace70.smt2 : 881 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep/lan_replace71.smt2 : 1200021 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace72.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace73.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace74.smt2 : 88 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace75.smt2 : 76 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace76.smt2 : 84 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace77.smt2 : 823 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace78.smt2 : 71 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace79.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace8.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace80.smt2 : 120 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace81.smt2 : 301403 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace82.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace84.smt2 : 21636 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace85.smt2 : 71 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace86.smt2 : 77 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep/lan_replace87.smt2 : 1200013 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/lan-rep/lan_replace88.smt2 : 1200010 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace89.smt2 : 60 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace9.smt2 : 142 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace91.smt2 : 52 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace92.smt2 : 23102 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace93.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace94.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace95.smt2 : 72 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace96.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace97.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace98.smt2 : 70 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/lan-rep/lan_replace99.smt2 : 82 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all0.smt2 : 301757 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all1.smt2 : 10585 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all10.smt2 : 300437 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all100.smt2 : 91 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all101.smt2 : 64 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all102.smt2 : 93 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all103.smt2 : 64801 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all104.smt2 : 137 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all105.smt2 : 642553 ms.
+--------------------------------------------------
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all106.smt2 : 1200014 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all107.smt2 : 99 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all108.smt2 : 79 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all109.smt2 : 138 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all11.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all110.smt2 : 90 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all111.smt2 : 90 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all112.smt2 : 80 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all113.smt2 : 1056003 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all114.smt2 : 629589 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all115.smt2 : 90 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all116.smt2 : 633925 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all117.smt2 : 97 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all118.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all119.smt2 : 94 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all12.smt2 : 302102 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all120.smt2 : 163 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all121.smt2 : 105 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all122.smt2 : 79 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all123.smt2 : 98 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all124.smt2 : 85 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all125.smt2 : 1003099 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all126.smt2 : 405714 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all127.smt2 : 130 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all128.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all129.smt2 : 154 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all13.smt2 : 78 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all130.smt2 : 1200022 ms.
+--------------------------------------------------
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all131.smt2 : 1200024 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all132.smt2 : 639969 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all133.smt2 : 100 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all134.smt2 : 86 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all135.smt2 : 99 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all136.smt2 : 745313 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all137.smt2 : 933302 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all138.smt2 : 126 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all139.smt2 : 87 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all14.smt2 : 75 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all140.smt2 : 65 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all141.smt2 : 82 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all142.smt2 : 50 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all143.smt2 : 1200022 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all144.smt2 : 563435 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all145.smt2 : 86 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all146.smt2 : 258 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all147.smt2 : 270 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all148.smt2 : 471 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all149.smt2 : 149 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all15.smt2 : 112 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all150.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all151.smt2 : 11217 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all152.smt2 : 169 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all153.smt2 : 142 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all154.smt2 : 180 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all155.smt2 : 75 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all156.smt2 : 43 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all157.smt2 : 300181 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all158.smt2 : 300905 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all159.smt2 : 300890 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all16.smt2 : 47 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all160.smt2 : 300798 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all161.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all162.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all163.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all164.smt2 : 46 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all165.smt2 : 1200024 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all166.smt2 : 131 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all167.smt2 : 1200013 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all168.smt2 : 104 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all169.smt2 : 79 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all17.smt2 : 2917 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all170.smt2 : 1009240 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all171.smt2 : 89 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all172.smt2 : 1200022 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all173.smt2 : 113 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all174.smt2 : 1076526 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all175.smt2 : 93 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all176.smt2 : 1200024 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all177.smt2 : 104 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all178.smt2 : 85 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all179.smt2 : 136 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all18.smt2 : 76 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all180.smt2 : 80 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all181.smt2 : 99 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all182.smt2 : 156 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all183.smt2 : 1200016 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all184.smt2 : 94 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all185.smt2 : 91 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all186.smt2 : 92 ms.
+--------------------------------------------------
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all187.smt2 : 1200064 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all188.smt2 : 437 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all189.smt2 : 152 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all19.smt2 : 301355 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all190.smt2 : 83 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all191.smt2 : 99 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all192.smt2 : 155 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all193.smt2 : 415900 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all194.smt2 : 108 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all195.smt2 : 96 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all196.smt2 : 1200014 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all197.smt2 : 114 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all198.smt2 : 1006000 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all199.smt2 : 1200013 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all2.smt2 : 300240 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all20.smt2 : 89 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all200.smt2 : 79 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all201.smt2 : 94 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all202.smt2 : 86 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all203.smt2 : 1200013 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all204.smt2 : 1026156 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all205.smt2 : 1200021 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all206.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all207.smt2 : 86 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all208.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all209.smt2 : 61 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all21.smt2 : 62 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all210.smt2 : 39210 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all211.smt2 : 306355 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all212.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all213.smt2 : 54 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all214.smt2 : 156 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all215.smt2 : 67 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all216.smt2 : 301898 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all217.smt2 : 11567 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all218.smt2 : 300261 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all219.smt2 : 302212 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all22.smt2 : 48210 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all220.smt2 : 366825 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all221.smt2 : 70248 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all222.smt2 : 7128 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all223.smt2 : 1200017 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all224.smt2 : 61 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all225.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all226.smt2 : 125 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all228.smt2 : 1874 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all229.smt2 : 268 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all23.smt2 : 8023 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all230.smt2 : 1200025 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all231.smt2 : 615634 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all232.smt2 : 82 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all233.smt2 : 62 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all234.smt2 : 1424 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all235.smt2 : 99 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all24.smt2 : 20604 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all25.smt2 : 21040 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all26.smt2 : 139 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all27.smt2 : 115 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all28.smt2 : 73 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all29.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all3.smt2 : 68 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all30.smt2 : 68 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all31.smt2 : 90 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all32.smt2 : 80 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all33.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all34.smt2 : 93 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all35.smt2 : 105 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all36.smt2 : 80 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all37.smt2 : 72 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all38.smt2 : 302067 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all39.smt2 : 132 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all4.smt2 : 24007 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all40.smt2 : 302196 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all41.smt2 : 303571 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all42.smt2 : 119 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all43.smt2 : 95 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all44.smt2 : 73 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all45.smt2 : 97 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all46.smt2 : 80 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all47.smt2 : 81 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all48.smt2 : 301847 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all49.smt2 : 302125 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all5.smt2 : 247 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all50.smt2 : 110 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all51.smt2 : 146 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all52.smt2 : 384013 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all53.smt2 : 81 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all54.smt2 : 89 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all55.smt2 : 81 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all56.smt2 : 300221 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all57.smt2 : 99 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all58.smt2 : 179 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all59.smt2 : 302391 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all6.smt2 : 302327 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all60.smt2 : 104 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all61.smt2 : 86 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all62.smt2 : 57 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all63.smt2 : 74 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all64.smt2 : 373422 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all65.smt2 : 1200054 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all66.smt2 : 1200023 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all67.smt2 : 88 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all68.smt2 : 1200018 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all69.smt2 : 103 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all7.smt2 : 54 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all70.smt2 : 79 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all71.smt2 : 85 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all72.smt2 : 90 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all73.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all74.smt2 : 90 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all75.smt2 : 87 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all76.smt2 : 97 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all77.smt2 : 85 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all78.smt2 : 88 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all79.smt2 : 79 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all8.smt2 : 69 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all80.smt2 : 1200010 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all81.smt2 : 137 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all82.smt2 : 102 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all83.smt2 : 77 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all84.smt2 : 97 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all85.smt2 : 87 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all86.smt2 : 93 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all87.smt2 : 1200014 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all88.smt2 : 1200010 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all89.smt2 : 139 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all9.smt2 : 66 ms.
+--------------------------------------------------
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all90.smt2 : 1200013 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all91.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all92.smt2 : 81 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all93.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all94.smt2 : 90 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all95.smt2 : 1200009 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all96.smt2 : 88 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all97.smt2 : 1200013 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all98.smt2 : 104 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all99.smt2 : 96 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace0.smt2 : 300399 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace1.smt2 : 11879 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace10.smt2 : 242 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace100.smt2 : 93 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace101.smt2 : 61 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace102.smt2 : 84 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace103.smt2 : 27122 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace104.smt2 : 147 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace105.smt2 : 624486 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace106.smt2 : 894769 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace107.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace108.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace109.smt2 : 89 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace11.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace110.smt2 : 105 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace111.smt2 : 127 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace112.smt2 : 73 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace113.smt2 : 960896 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace114.smt2 : 622255 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace115.smt2 : 96 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace116.smt2 : 676258 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace117.smt2 : 107 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace118.smt2 : 75 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace119.smt2 : 98 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace12.smt2 : 302344 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace120.smt2 : 154 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace121.smt2 : 126 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace122.smt2 : 83 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace123.smt2 : 95 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace124.smt2 : 91 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace125.smt2 : 954676 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace126.smt2 : 387653 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace127.smt2 : 84 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace128.smt2 : 98 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace129.smt2 : 185 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace13.smt2 : 71 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace130.smt2 : 1200014 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace131.smt2 : 1200015 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace132.smt2 : 617979 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace133.smt2 : 110 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace134.smt2 : 84 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace135.smt2 : 75 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace136.smt2 : 707256 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace137.smt2 : 892051 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace138.smt2 : 97 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace139.smt2 : 85 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace14.smt2 : 67 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace140.smt2 : 65 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace141.smt2 : 75 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace142.smt2 : 54 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace143.smt2 : 1200024 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace144.smt2 : 602575 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace145.smt2 : 88 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace146.smt2 : 444 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace147.smt2 : 450 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace148.smt2 : 182 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace149.smt2 : 135 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace15.smt2 : 59 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace150.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace151.smt2 : 4970 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace152.smt2 : 134 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace153.smt2 : 67 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace154.smt2 : 121 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace155.smt2 : 126 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace156.smt2 : 53 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace157.smt2 : 300920 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace158.smt2 : 300186 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace159.smt2 : 60316 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace16.smt2 : 110 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace160.smt2 : 301012 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace161.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace162.smt2 : 57 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace163.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace164.smt2 : 59 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace165.smt2 : 1200025 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace166.smt2 : 113 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace167.smt2 : 1200022 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace168.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace169.smt2 : 80 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace17.smt2 : 2857 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace170.smt2 : 959080 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace171.smt2 : 107 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace172.smt2 : 1200018 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace173.smt2 : 113 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace174.smt2 : 1004138 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace175.smt2 : 90 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace176.smt2 : 1200024 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace177.smt2 : 81 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace178.smt2 : 85 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace179.smt2 : 88 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace18.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace180.smt2 : 118 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace181.smt2 : 95 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace182.smt2 : 149 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace183.smt2 : 1200024 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace184.smt2 : 92 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace185.smt2 : 85 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace186.smt2 : 88 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace187.smt2 : 1034626 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace188.smt2 : 108 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace189.smt2 : 138 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace19.smt2 : 301755 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace190.smt2 : 89 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace191.smt2 : 102 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace192.smt2 : 151 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace193.smt2 : 168747 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace194.smt2 : 93 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace195.smt2 : 92 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace196.smt2 : 1200011 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace197.smt2 : 97 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace198.smt2 : 949405 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace199.smt2 : 1054374 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace2.smt2 : 302864 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace20.smt2 : 77 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace200.smt2 : 91 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace201.smt2 : 104 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace202.smt2 : 139 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace203.smt2 : 1200024 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace204.smt2 : 1021611 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace205.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace206.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace207.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace208.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace209.smt2 : 59 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace21.smt2 : 63 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace210.smt2 : 14557 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace211.smt2 : 83 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace212.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace213.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace214.smt2 : 161 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace215.smt2 : 50 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace216.smt2 : 302561 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace217.smt2 : 10169 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace218.smt2 : 302618 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace219.smt2 : 302574 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace22.smt2 : 31763 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace220.smt2 : 223 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace221.smt2 : 49665 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace222.smt2 : 329 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace223.smt2 : 1200013 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace224.smt2 : 83 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace225.smt2 : 68 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace226.smt2 : 79 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace228.smt2 : 418 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace229.smt2 : 255 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace23.smt2 : 355 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace230.smt2 : 1200016 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace231.smt2 : 550208 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace232.smt2 : 84 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace233.smt2 : 62 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace234.smt2 : 93 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace235.smt2 : 82 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace24.smt2 : 3389 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace25.smt2 : 815 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace26.smt2 : 116 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace27.smt2 : 80 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace28.smt2 : 81 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace29.smt2 : 75 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace3.smt2 : 80 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace30.smt2 : 77 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace31.smt2 : 75 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace32.smt2 : 82 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace33.smt2 : 93 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace34.smt2 : 76 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace35.smt2 : 92 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace36.smt2 : 82 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace37.smt2 : 74 ms.
+--------------------------------------------------
+QF_SLIA/20230403-webapp/str-rep/str_replace38.smt2 : 1200026 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace39.smt2 : 96 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace4.smt2 : 952 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace40.smt2 : 302283 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace41.smt2 : 303661 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace42.smt2 : 142 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace43.smt2 : 103 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace44.smt2 : 90 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace45.smt2 : 84 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace46.smt2 : 87 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace47.smt2 : 75 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace48.smt2 : 302104 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace49.smt2 : 302288 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace5.smt2 : 243 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace50.smt2 : 98 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace51.smt2 : 134 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace52.smt2 : 348594 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace53.smt2 : 97 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace54.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace55.smt2 : 104 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace56.smt2 : 302009 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace57.smt2 : 104 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace58.smt2 : 123 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace59.smt2 : 300278 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace6.smt2 : 304339 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace60.smt2 : 121 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace61.smt2 : 87 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace62.smt2 : 105 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace63.smt2 : 78 ms.
+--------------------------------------------------
+unknown
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace64.smt2 : 344925 ms.
+--------------------------------------------------
+QF_SLIA/20230403-webapp/str-rep/str_replace65.smt2 : 1200014 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace66.smt2 : 1200015 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace67.smt2 : 97 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace68.smt2 : 1200016 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace69.smt2 : 104 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace7.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace70.smt2 : 75 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace71.smt2 : 83 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace72.smt2 : 83 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace73.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace74.smt2 : 87 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace75.smt2 : 83 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace76.smt2 : 86 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace77.smt2 : 84 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace78.smt2 : 94 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace79.smt2 : 77 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace8.smt2 : 71 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace80.smt2 : 1200023 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace81.smt2 : 130 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace82.smt2 : 103 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace83.smt2 : 84 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace84.smt2 : 89 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace85.smt2 : 86 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace86.smt2 : 75 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace87.smt2 : 1200026 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace88.smt2 : 1200026 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace89.smt2 : 101 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace9.smt2 : 60 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace90.smt2 : 1200016 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace91.smt2 : 72 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace92.smt2 : 75 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace93.smt2 : 112 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace94.smt2 : 95 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace95.smt2 : 1200026 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace96.smt2 : 86 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20230403-webapp/str-rep/str_replace97.smt2 : 1200017 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace98.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace99.smt2 : 97 ms.
