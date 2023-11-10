@@ -1,25 +1,15 @@
 #!/bin/bash
-# ./parallel.sh 200 ismt-yices2 1200
-# ./parallel.sh 200 ismt 1200
-# ./parallel.sh 200 z3 1200
-# ./parallel.sh 100 Model-Validation
+# ./parallel.sh 50 optimathsat 1200 OMT_LIA
+# ./parallel.sh 200 z3pp_ls 1200 QF_LIA
 
 # 定义输入目录和输出目录
-input_directory="/pub/data/Ailura/QF_SLIA"
+# input_directory="/pub/data/Ailura/QF_SLIA"
+# output_directory="/home/hanrui/SMT-test/results"
+# path_directory="/home/hanrui/SMT-test/QF_SLIA_path"
+input_directory="/home/hanrui/OMT_LIA"
 output_directory="/home/hanrui/SMT-test/results"
-path_directory="/home/hanrui/SMT-test/QF_SLIA_path"
+path_directory="/home/hanrui/SMT-test/OMT_LIA_path"
 
-# input_directory="/pub/data/Ailura/QF_NIA_scr"
-# output_directory="/pub/data/Ailura/QF_NIA_res"
-# path_directory="QF_NIA_path_all"
-
-# input_directory="/pub/data/Ailura/QF_NIA_check"
-# output_directory="/pub/data/Ailura/QF_NIA_res_1"
-# path_directory="QF_NIA_path"
-
-# input_directory="/home/hanrui/SMT-test/test"
-# output_directory="/home/hanrui/SMT-test/test_res"
-# path_directory="test_path"
 
 # 输入参数
 num_groups="$1"
@@ -43,5 +33,5 @@ rm -rf "$output_directory/$solver/$res_dir"/*
 # 遍历所有组文件，并使用run.sh脚本处理每一组
 for group_file in "${path_directory}/group_"*; do
     group_name=$(basename "$group_file")
-    ./run.sh "$group_file" "$input_directory" "$solver" "$time_t" > "${output_directory}/${solver}/${res_dir}/${group_name}.log" 2>&1 &
+    nohup ./run.sh "$group_file" "$input_directory" "$solver" "$time_t" > "${output_directory}/${solver}/${res_dir}/${group_name}.log" 2>&1 &
 done

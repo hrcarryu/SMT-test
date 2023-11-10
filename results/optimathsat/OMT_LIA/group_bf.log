@@ -1,0 +1,19 @@
+--------------------------------------------------
+(error "type error. term 241/8 has type Real, but Int was expected. (`*_int`)")
+OMT_LIA/rings_preprocessed/ring_2exp10_7vars_1ite_unsat.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+OMT_LIA/rings_preprocessed/ring_2exp10_4vars_3ite_unsat.smt2 : 97 ms.
+--------------------------------------------------
+unsat
+OMT_LIA/rings_preprocessed/ring_2exp16_6vars_2ite_unsat.smt2 : 129 ms.
+--------------------------------------------------
+unsat
+OMT_LIA/rings_preprocessed/ring_2exp4_8vars_1ite_unsat.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+OMT_LIA/rings_preprocessed/ring_2exp16_9vars_0ite_unsat.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+OMT_LIA/rings_preprocessed/ring_2exp6_3vars_2ite_unsat.smt2 : 45 ms.
+--------------------------------------------------

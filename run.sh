@@ -41,6 +41,12 @@ while read -r file_path; do
     if [ "$solver"x = "ismt-yices2"x ]; then
         ./solvers/ismt-yices2/run.sh $file_path $time_t
     fi
+    if [ "$solver"x = "optimathsat"x ]; then
+        ./solvers/optimathsat/run.sh $file_path $time_t
+    fi
+    if [ "$solver"x = "z3pp_ls"x ]; then
+        ./solvers/z3pp_ls/run.sh $file_path $time_t
+    fi
     end=$[$(date +%s%N)/1000000]
     take=$(( end - start ))
     echo $new_file_path : ${take} ms.
