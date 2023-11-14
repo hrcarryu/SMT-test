@@ -1,171 +1,36 @@
 --------------------------------------------------
 sat
 (objectives
- (p1457 1)
+ (a3198 0)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r1000w0010/RF-13.smt2 : 536 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-06.smt2 : 5402 ms.
 --------------------------------------------------
 sat
 (objectives
- (a23201 1)
+ (a5253 1)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-14.smt2 : 1791 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-01.smt2 : 11609 ms.
 --------------------------------------------------
 sat
 (objectives
- (a20216 1)
+ (a2277 0)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-09.smt2 : 1518 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RC-05.smt2 : 1967 ms.
 --------------------------------------------------
 sat
 (objectives
- (a11866 1)
+ (p223 1)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RC-14.smt2 : 1756 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RC-04.smt2 : 6111 ms.
 --------------------------------------------------
 sat
 (objectives
- (a10024 1)
+ (a2409 0)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RC-15.smt2 : 1745 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-14.smt2 : 17432 ms.
 --------------------------------------------------
 sat
 (objectives
- (p3171 0)
+ (a172 0)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-05.smt2 : 1361 ms.
---------------------------------------------------
-sat
-(objectives
- (a3188 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-00.smt2 : 1134 ms.
---------------------------------------------------
-sat
-(objectives
- (a1752 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-10.smt2 : 1530 ms.
---------------------------------------------------
-sat
-(objectives
- (a18372 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RC-06.smt2 : 1159 ms.
---------------------------------------------------
-sat
-(objectives
- (a18246 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-03.smt2 : 1139 ms.
---------------------------------------------------
-sat
-(objectives
- (a16647 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RC-04.smt2 : 1117 ms.
---------------------------------------------------
-sat
-(objectives
- (p1006 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RC-11.smt2 : 1115 ms.
---------------------------------------------------
-sat
-(objectives
- (a22029 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-12.smt2 : 1152 ms.
---------------------------------------------------
-sat
-(objectives
- (a23681 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-04.smt2 : 1095 ms.
---------------------------------------------------
-sat
-(objectives
- (a12003 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-11.smt2 : 1119 ms.
---------------------------------------------------
-sat
-(objectives
- (a9842 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RC-09.smt2 : 1120 ms.
---------------------------------------------------
-sat
-(objectives
- (a15158 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-06.smt2 : 1093 ms.
---------------------------------------------------
-sat
-(objectives
- (a21681 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-08.smt2 : 1113 ms.
---------------------------------------------------
-sat
-(objectives
- (a4291 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-01.smt2 : 1116 ms.
---------------------------------------------------
-sat
-(objectives
- (p2429 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RC-03.smt2 : 1118 ms.
---------------------------------------------------
-sat
-(objectives
- (a9977 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-15.smt2 : 1101 ms.
---------------------------------------------------
-sat
-(objectives
- (a10003 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-02.smt2 : 1118 ms.
---------------------------------------------------
-sat
-(objectives
- (a12314 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-07.smt2 : 1128 ms.
---------------------------------------------------
-sat
-(objectives
- (a4830 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RF-13.smt2 : 1102 ms.
---------------------------------------------------
-sat
-(objectives
- (a4816 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r2000w0010/RC-12.smt2 : 1070 ms.
---------------------------------------------------
-timeout
-OMT_LIA/RWS/Example_20.txt.smt2 : 1200026 ms.
---------------------------------------------------
-sat
-(objectives
- (AT9_PROC1_X (* (- 1) oo))
-)
-OMT_LIA/mathsat/FISCHER7-12-fair.smt2 : 361 ms.
---------------------------------------------------
-sat
-(objectives
- (AT11_PROC8_X oo)
-)
-OMT_LIA/mathsat/FISCHER9-14-fair.smt2 : 265 ms.
---------------------------------------------------
-sat
-(objectives
- (AT0_PROC3_X oo)
-)
-OMT_LIA/mathsat/FISCHER8-13-fair.smt2 : 688 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-10.smt2 : 7477 ms.

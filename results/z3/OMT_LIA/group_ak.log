@@ -1,174 +1,30 @@
 --------------------------------------------------
 sat
 (objectives
- (p186 0)
+ (l963c oo)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-00.smt2 : 127 ms.
+OMT_LIA/tropical-matrix/constraint-390915.smt2 : 23406 ms.
 --------------------------------------------------
 sat
 (objectives
- (a1059 0)
+ (l3882c oo)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-10.smt2 : 129 ms.
+OMT_LIA/tropical-matrix/constraint-1791895.smt2 : 619428 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/tropical-matrix/constraint-1268455.smt2 : 1200213 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/tropical-matrix/constraint-321761.smt2 : 1200056 ms.
 --------------------------------------------------
 sat
 (objectives
- (p203 0)
+ (l327c (* (- 1) oo))
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-06.smt2 : 114 ms.
+OMT_LIA/tropical-matrix/constraint-645054.smt2 : 45102 ms.
 --------------------------------------------------
 sat
 (objectives
- (a1061 1)
+ (l2601c (* (- 1) oo))
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-03.smt2 : 83 ms.
---------------------------------------------------
-sat
-(objectives
- (a888 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-04.smt2 : 79 ms.
---------------------------------------------------
-sat
-(objectives
- (a681 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-11.smt2 : 124 ms.
---------------------------------------------------
-sat
-(objectives
- (p57 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-05.smt2 : 92 ms.
---------------------------------------------------
-sat
-(objectives
- (a669 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-12.smt2 : 78 ms.
---------------------------------------------------
-sat
-(objectives
- (a210 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-08.smt2 : 82 ms.
---------------------------------------------------
-sat
-(objectives
- (p214 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-07.smt2 : 78 ms.
---------------------------------------------------
-sat
-(objectives
- (a896 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-10.smt2 : 79 ms.
---------------------------------------------------
-sat
-(objectives
- (a428 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-04.smt2 : 114 ms.
---------------------------------------------------
-sat
-(objectives
- (a964 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-11.smt2 : 128 ms.
---------------------------------------------------
-sat
-(objectives
- (a598 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-09.smt2 : 101 ms.
---------------------------------------------------
-sat
-(objectives
- (p113 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-06.smt2 : 85 ms.
---------------------------------------------------
-sat
-(objectives
- (a1103 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-08.smt2 : 146 ms.
---------------------------------------------------
-sat
-(objectives
- (a532 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-01.smt2 : 142 ms.
---------------------------------------------------
-sat
-(objectives
- (a920 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-03.smt2 : 129 ms.
---------------------------------------------------
-sat
-(objectives
- (a406 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-15.smt2 : 129 ms.
---------------------------------------------------
-sat
-(objectives
- (a73 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-02.smt2 : 123 ms.
---------------------------------------------------
-sat
-(objectives
- (a507 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-07.smt2 : 129 ms.
---------------------------------------------------
-sat
-(objectives
- (a551 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-13.smt2 : 129 ms.
---------------------------------------------------
-sat
-(objectives
- (a665 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-12.smt2 : 81 ms.
---------------------------------------------------
-sat
-(objectives
- (p_2_2_0_0_1 1022)
-)
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-14.smt2 : 240 ms.
---------------------------------------------------
-sat
-(objectives
- (a930 0)
-)
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-09.smt2 : 174 ms.
---------------------------------------------------
-sat
-(objectives
- (a64 1021)
-)
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RC-14.smt2 : 215 ms.
---------------------------------------------------
-sat
-(objectives
- (a303 1021)
-)
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RC-15.smt2 : 141 ms.
---------------------------------------------------
-sat
-(objectives
- (a827 1021)
-)
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-05.smt2 : 190 ms.
---------------------------------------------------
-sat
-(objectives
- (p_0_2_1_1_0 1024)
-)
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-00.smt2 : 190 ms.
+OMT_LIA/tropical-matrix/constraint-1262176.smt2 : 201747 ms.

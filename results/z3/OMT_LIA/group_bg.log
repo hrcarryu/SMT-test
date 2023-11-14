@@ -1,92 +1,36 @@
 --------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-729964.smt2 : 1200031 ms.
---------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-285271.smt2 : 1200015 ms.
---------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-278378.smt2 : 1200014 ms.
---------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-3956027.smt2 : 1200092 ms.
+sat
+(objectives
+ (a3688 1)
+)
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-04.smt2 : 12131 ms.
 --------------------------------------------------
 sat
 (objectives
- (l399c (* (- 1) oo))
+ (p328 0)
 )
-OMT_LIA/tropical-matrix/constraint-479884.smt2 : 61113 ms.
---------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-221609.smt2 : 1200015 ms.
---------------------------------------------------
-timeout
-./solvers/z3/run.sh: line 2: 1200: command not found
-OMT_LIA/tropical-matrix/constraint-649834.smt2 : 1200029 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-07.smt2 : 5281 ms.
 --------------------------------------------------
 sat
 (objectives
- (l10419c oo)
+ (p628 0)
 )
-OMT_LIA/tropical-matrix/constraint-3427750.smt2 : 702173 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-02.smt2 : 11726 ms.
 --------------------------------------------------
 sat
 (objectives
- (l2834c (* (- 1) oo))
+ (p625 0)
 )
-OMT_LIA/tropical-matrix/constraint-642278.smt2 : 10381 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-00.smt2 : 12584 ms.
 --------------------------------------------------
 sat
 (objectives
- (l857c oo)
+ (a1437 0)
 )
-OMT_LIA/tropical-matrix/constraint-527358.smt2 : 27996 ms.
---------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-321761.smt2 : 1200014 ms.
---------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-570196.smt2 : 1200019 ms.
---------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-2061672.smt2 : 1200052 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-11.smt2 : 11051 ms.
 --------------------------------------------------
 sat
 (objectives
- (l358c oo)
+ (a4640 1)
 )
-OMT_LIA/tropical-matrix/constraint-1270998.smt2 : 676148 ms.
---------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-247831.smt2 : 1200013 ms.
---------------------------------------------------
-sat
-(objectives
- (l23c oo)
-)
-OMT_LIA/tropical-matrix/constraint-463860.smt2 : 2769 ms.
---------------------------------------------------
-sat
-(objectives
- (l609c (* (- 1) oo))
-)
-OMT_LIA/tropical-matrix/constraint-170961.smt2 : 32071 ms.
---------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-1908553.smt2 : 1200049 ms.
---------------------------------------------------
-sat
-(objectives
- (l666c 0)
-)
-OMT_LIA/tropical-matrix/constraint-283008.smt2 : 646414 ms.
---------------------------------------------------
-sat
-(objectives
- (l529c (* (- 1) oo))
-)
-OMT_LIA/tropical-matrix/constraint-343499.smt2 : 42617 ms.
---------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-1682901.smt2 : 1200053 ms.
---------------------------------------------------
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RC-11.smt2 : 12133 ms.

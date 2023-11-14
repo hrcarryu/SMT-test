@@ -3,7 +3,7 @@
 input_directory="/home/hanrui/OMT_LIA"
 output_directory="/home/hanrui/SMT-test/results"
 path_directory="/home/hanrui/SMT-test/OMT_LIA_path"
-num_groups=40
+num_groups=200
 
 mkdir -p "$path_directory"
 rm -rf "$path_directory"/*

@@ -1,85 +1,36 @@
 --------------------------------------------------
 sat
 (objectives
- (l4549c oo)
+ (TrainState_9_2_22 1)
 )
-OMT_LIA/arctic-matrix/constraint-1360077.smt2 : 307112 ms.
+OMT_LIA/20220307-SMPT/BART-PT-030/RF-12.smt2 : 8721 ms.
 --------------------------------------------------
 sat
 (objectives
- (l1489c (* (- 1) oo))
+ (a2217 0)
 )
-OMT_LIA/arctic-matrix/constraint-1107622.smt2 : 216523 ms.
---------------------------------------------------
-timeout
-OMT_LIA/arctic-matrix/constraint-985518.smt2 : 1200049 ms.
---------------------------------------------------
-timeout
-OMT_LIA/arctic-matrix/constraint-863289.smt2 : 1200036 ms.
+OMT_LIA/20220307-SMPT/BART-PT-030/RF-05.smt2 : 8589 ms.
 --------------------------------------------------
 sat
 (objectives
- (l2402c oo)
+ (TrainState_1_2_31 0)
 )
-OMT_LIA/arctic-matrix/constraint-1145584.smt2 : 92488 ms.
---------------------------------------------------
-timeout
-OMT_LIA/arctic-matrix/constraint-1727138.smt2 : 1200072 ms.
+OMT_LIA/20220307-SMPT/BART-PT-030/RC-14.smt2 : 12712 ms.
 --------------------------------------------------
 sat
 (objectives
- (l3344c (* (- 1) oo))
+ (TrainState_27_3_15 1)
 )
-OMT_LIA/arctic-matrix/constraint-1008025.smt2 : 107228 ms.
+OMT_LIA/20220307-SMPT/BART-PT-030/RC-02.smt2 : 11497 ms.
 --------------------------------------------------
 sat
 (objectives
- (l1678c (* (- 1) oo))
+ (a3844 0)
 )
-OMT_LIA/arctic-matrix/constraint-415996.smt2 : 57225 ms.
+OMT_LIA/20220307-SMPT/BART-PT-030/RC-12.smt2 : 9443 ms.
 --------------------------------------------------
 sat
 (objectives
- (l533c oo)
+ (a2093 1)
 )
-OMT_LIA/arctic-matrix/constraint-808692.smt2 : 30576 ms.
---------------------------------------------------
-timeout
-OMT_LIA/arctic-matrix/constraint-1546761.smt2 : 1200073 ms.
---------------------------------------------------
-sat
-(objectives
- (l2077c (* (- 1) oo))
-)
-OMT_LIA/arctic-matrix/constraint-478122.smt2 : 235138 ms.
---------------------------------------------------
-sat
-(objectives
- (l3467c oo)
-)
-OMT_LIA/arctic-matrix/constraint-1365816.smt2 : 264176 ms.
---------------------------------------------------
-sat
-(objectives
- (l1204c oo)
-)
-OMT_LIA/arctic-matrix/constraint-379665.smt2 : 157169 ms.
---------------------------------------------------
-sat
-(objectives
- (l5263c oo)
-)
-./solvers/z3/run.sh: line 2: 1200: command not found
-OMT_LIA/arctic-matrix/constraint-1564491.smt2 : 464068 ms.
---------------------------------------------------
-sat
-(objectives
- (l315c oo)
-)
-OMT_LIA/arctic-matrix/constraint-605010.smt2 : 26360 ms.
---------------------------------------------------
-sat
-(objectives
- (l553c (* (- 1) oo))
-)
-OMT_LIA/arctic-matrix/constraint-394244.smt2 : 4433 ms.
+OMT_LIA/20220307-SMPT/BART-PT-030/RF-08.smt2 : 11854 ms.

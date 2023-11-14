@@ -1,136 +1,33 @@
 --------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j1209_4-sat.smt2 : 1200150 ms.
+sat
+(objectives
+ (x11252 0)
+)
+OMT_LIA/miplib2003/mzzv42z.sat.smt2 : 22920 ms.
 --------------------------------------------------
 sat
 (objectives
- (x1864 0)
+ (x65804 0)
 )
-OMT_LIA/pb2010/normalized-j3031_7-sat.smt2 : 4191 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j3025_1-sat.smt2 : 1200050 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j12016_4-sat.smt2 : 1200192 ms.
+OMT_LIA/miplib2003/nw04.sat.smt2 : 54791 ms.
 --------------------------------------------------
 sat
 (objectives
- (x980 0)
+ (x1117 1)
 )
-OMT_LIA/pb2010/normalized-j308_6-sat.smt2 : 816 ms.
+OMT_LIA/miplib2003/harp2.sat.smt2 : 69696 ms.
 --------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j12010_10-sat.smt2 : 1200187 ms.
+sat
+(objectives
+ (x2052 1)
+)
+OMT_LIA/miplib2003/cap6000.sat.smt2 : 3852 ms.
 --------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j9042_5-sat.smt2 : 1200164 ms.
---------------------------------------------------
-timeout
-./solvers/z3/run.sh: line 2: 1200: command not found
-OMT_LIA/pb2010/normalized-j12034_4-sat.smt2 : 1200117 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j12036_4-sat.smt2 : 1200136 ms.
+sat
+(objectives
+ (x9652 0)
+)
+OMT_LIA/miplib2003/sp97ar.sat.smt2 : 15338 ms.
 --------------------------------------------------
 timeout
-OMT_LIA/pb2010/normalized-j605_7-sat.smt2 : 1200117 ms.
---------------------------------------------------
-sat
-(objectives
- (x6855 0)
-)
-OMT_LIA/pb2010/normalized-j6015_4-sat.smt2 : 209806 ms.
---------------------------------------------------
-timeout
-OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/qrcu-2-O0.smt2 : 1200022 ms.
---------------------------------------------------
-sat
-(objectives
- (last_val_at_memory_2 0)
-)
-OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/race-1_3-join-O0.smt2 : 157 ms.
---------------------------------------------------
-sat
-(objectives
- (|10:$i1(E197)| 0)
-)
-OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/stack-2-O0.smt2 : 612 ms.
---------------------------------------------------
-sat
-(objectives
- (|co(E252)| 0)
-)
-OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/race-1_2-join-O0.smt2 : 148 ms.
---------------------------------------------------
-sat
-(objectives
- (last_val_at_memory_93 0)
-)
-OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/sum01_bug02_sum01_bug02_base.case-O0.smt2 : 149 ms.
---------------------------------------------------
-sat
-(objectives
- (memory_109 37)
-)
-OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/underapprox_1-1-O0.smt2 : 52 ms.
---------------------------------------------------
-timeout
-OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/underapprox_2-1-O0.smt2 : 1200022 ms.
---------------------------------------------------
-sat
-(objectives
- (memory_15 15)
-)
-OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/terminator_03-1-O0.smt2 : 83 ms.
---------------------------------------------------
-sat
-(objectives
- (|0:$i1(E6)| (- 2147483648))
-)
-OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/trex02-2-O0.smt2 : 1318 ms.
---------------------------------------------------
-sat
-(objectives
- (memory_3 3)
-)
-OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/for_bounded_loop1-O0.smt2 : 369 ms.
---------------------------------------------------
-sat
-(objectives
- (last_val_at_memory_100 0)
-)
-OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/sum01_bug02-O0.smt2 : 150 ms.
---------------------------------------------------
-timeout
-OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/terminator_02-1-O0.smt2 : 1200028 ms.
---------------------------------------------------
-timeout
-OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/gcnr2008-O0.smt2 : 1200028 ms.
---------------------------------------------------
-sat
-(objectives
- (last_val_at_memory_100 0)
-)
-OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/nested_1b-O0.smt2 : 50 ms.
---------------------------------------------------
-timeout
-OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/trex01-1-O0.smt2 : 1200039 ms.
---------------------------------------------------
-sat
-(objectives
- (TrainState_2_2_25 0)
-)
-OMT_LIA/20220307-SMPT/BART-PT-040/RF-14.smt2 : 1120 ms.
---------------------------------------------------
-sat
-(objectives
- (a4548 1)
-)
-OMT_LIA/20220307-SMPT/BART-PT-040/RF-09.smt2 : 899 ms.
---------------------------------------------------
-sat
-(objectives
- (TrainState_32_3_24 0)
-)
-OMT_LIA/20220307-SMPT/BART-PT-040/RC-15.smt2 : 893 ms.
+OMT_LIA/tropical-matrix/constraint-368069.smt2 : 1200294 ms.

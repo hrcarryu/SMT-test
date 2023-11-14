@@ -1,174 +1,36 @@
 --------------------------------------------------
 sat
 (objectives
- (a172 1)
+ (cAMP__29_24_ 149)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-14.smt2 : 94 ms.
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N150/RF-11.smt2 : 10774 ms.
 --------------------------------------------------
 sat
 (objectives
- (a1092 1)
+ (cAMP__27_6_ 149)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-05.smt2 : 95 ms.
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N150/RC-11.smt2 : 8076 ms.
 --------------------------------------------------
 sat
 (objectives
- (p142 0)
+ (cAMP__6_8_ 149)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-00.smt2 : 95 ms.
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N150/RC-07.smt2 : 1026 ms.
 --------------------------------------------------
 sat
 (objectives
- (a185 1)
+ (a313 0)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RC-13.smt2 : 92 ms.
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N150/RC-13.smt2 : 699 ms.
 --------------------------------------------------
 sat
 (objectives
- (a303 1)
+ (a887 1)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RC-00.smt2 : 96 ms.
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-03.smt2 : 5397 ms.
 --------------------------------------------------
 sat
 (objectives
- (a1139 1)
+ (voting_351 0)
 )
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RC-01.smt2 : 73 ms.
---------------------------------------------------
-sat
-(objectives
- (p171 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-03.smt2 : 93 ms.
---------------------------------------------------
-sat
-(objectives
- (p134 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RC-04.smt2 : 95 ms.
---------------------------------------------------
-sat
-(objectives
- (a583 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-12.smt2 : 99 ms.
---------------------------------------------------
-sat
-(objectives
- (a996 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RC-02.smt2 : 91 ms.
---------------------------------------------------
-sat
-(objectives
- (a163 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RC-07.smt2 : 93 ms.
---------------------------------------------------
-sat
-(objectives
- (p221 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-04.smt2 : 81 ms.
---------------------------------------------------
-sat
-(objectives
- (p200 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-11.smt2 : 63 ms.
---------------------------------------------------
-sat
-(objectives
- (a118 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RC-09.smt2 : 94 ms.
---------------------------------------------------
-sat
-(objectives
- (p78 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-06.smt2 : 67 ms.
---------------------------------------------------
-sat
-(objectives
- (p213 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-01.smt2 : 95 ms.
---------------------------------------------------
-sat
-(objectives
- (p264 0)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-15.smt2 : 96 ms.
---------------------------------------------------
-sat
-(objectives
- (a302 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-07.smt2 : 93 ms.
---------------------------------------------------
-sat
-(objectives
- (a411 1)
-)
-OMT_LIA/20220307-SMPT/RwMutex-PT-r0100w0010/RF-13.smt2 : 97 ms.
---------------------------------------------------
-sat
-(objectives
- (Ext_Mem_Acc_41_4 0)
-)
-OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RC-14.smt2 : 61789 ms.
---------------------------------------------------
-sat
-(objectives
- (Ext_Mem_Acc_81_97 0)
-)
-OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RC-15.smt2 : 63937 ms.
---------------------------------------------------
-sat
-(objectives
- (a8502 1)
-)
-OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RF-05.smt2 : 97347 ms.
---------------------------------------------------
-sat
-(objectives
- (Ext_Mem_Acc_41_54 0)
-)
-OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RF-00.smt2 : 58173 ms.
---------------------------------------------------
-sat
-(objectives
- (a150 1)
-)
-OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RC-13.smt2 : 62386 ms.
---------------------------------------------------
-sat
-(objectives
- (Ext_Mem_Acc_12_66 0)
-)
-OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RF-10.smt2 : 63651 ms.
---------------------------------------------------
-sat
-(objectives
- (Ext_Mem_Acc_80_90 0)
-)
-OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RC-01.smt2 : 62663 ms.
---------------------------------------------------
-sat
-(objectives
- (a14690 1)
-)
-OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RF-03.smt2 : 61643 ms.
---------------------------------------------------
-sat
-(objectives
- (a17656 1)
-)
-OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RC-11.smt2 : 82073 ms.
---------------------------------------------------
-sat
-(objectives
- (a2156 1)
-)
-OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RF-12.smt2 : 60872 ms.
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-09.smt2 : 10323 ms.

@@ -1,61 +1,36 @@
 --------------------------------------------------
 sat
 (objectives
- (cAMP__14_50_ 0)
+ (cAMP__25_28_ 149)
 )
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N150/RC-09.smt2 : 1217 ms.
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N150/RC-12.smt2 : 234 ms.
 --------------------------------------------------
 sat
 (objectives
- (cAMP__48_17_ 0)
+ (a7 0)
 )
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N150/RF-06.smt2 : 800 ms.
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N150/RF-08.smt2 : 208 ms.
 --------------------------------------------------
 sat
 (objectives
- (a2426 149)
+ (a391 0)
 )
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N150/RF-08.smt2 : 996 ms.
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N150/RF-15.smt2 : 286 ms.
 --------------------------------------------------
 sat
 (objectives
- (a1527 0)
+ (cAMP__27_20_ 0)
 )
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N150/RF-01.smt2 : 1096 ms.
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N150/RC-15.smt2 : 264 ms.
 --------------------------------------------------
 sat
 (objectives
- (cAMP__13_8_ 0)
+ (a474 0)
 )
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N150/RC-03.smt2 : 1149 ms.
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N150/RC-01.smt2 : 272 ms.
 --------------------------------------------------
 sat
 (objectives
- (cAMP__50_45_ 0)
+ (cAMP__27_14_ 149)
 )
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N150/RF-15.smt2 : 1088 ms.
---------------------------------------------------
-sat
-(objectives
- (a1309 149)
-)
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N150/RF-02.smt2 : 868 ms.
---------------------------------------------------
-sat
-(objectives
- (cAMP__44_4_ 149)
-)
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N150/RF-07.smt2 : 807 ms.
---------------------------------------------------
-sat
-(objectives
- (cAMP__9_19_ 0)
-)
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N150/RF-13.smt2 : 967 ms.
---------------------------------------------------
-sat
-(objectives
- (cAMP__26_30_ 147)
-)
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N150/RC-12.smt2 : 1316 ms.
---------------------------------------------------
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N150/RF-13.smt2 : 238 ms.

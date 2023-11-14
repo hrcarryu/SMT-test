@@ -1,59 +1,36 @@
 --------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1498.smt2 : 1200087 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1539.smt2 : 1200024 ms.
+sat
+(objectives
+ (a4465 1)
+)
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RC-07.smt2 : 8728 ms.
 --------------------------------------------------
 sat
 (objectives
- (z1341_31_0_ 0)
+ (a5176 0)
 )
-OMT_LIA/convert/convert-jpg2gif-query-1562.smt2 : 32225 ms.
+OMT_LIA/20220307-SMPT/BART-PT-050/RF-03.smt2 : 6650 ms.
 --------------------------------------------------
 sat
 (objectives
- (z1393_31_8_ 0)
+ (a5759 1)
 )
-OMT_LIA/convert/convert-jpg2gif-query-1575.smt2 : 122429 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1519.smt2 : 1200013 ms.
+OMT_LIA/20220307-SMPT/BART-PT-050/RF-09.smt2 : 12341 ms.
 --------------------------------------------------
 sat
 (objectives
- (z176_31_0_ 0)
+ (a2916 0)
 )
-OMT_LIA/convert/convert-jpg2gif-query-1463.smt2 : 1622 ms.
+OMT_LIA/20220307-SMPT/BART-PT-050/RC-00.smt2 : 18669 ms.
 --------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1611.smt2 : 1200017 ms.
+sat
+(objectives
+ (TrainState_7_1_5 1)
+)
+OMT_LIA/20220307-SMPT/BART-PT-050/RC-10.smt2 : 11933 ms.
 --------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1579.smt2 : 1200019 ms.
---------------------------------------------------
-timeout
-./solvers/z3/run.sh: line 2: 1200: command not found
-OMT_LIA/convert/convert-jpg2gif-query-1524.smt2 : 1200015 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1601.smt2 : 1200011 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1563.smt2 : 1200012 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1511.smt2 : 1200013 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1454.smt2 : 1200015 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1604.smt2 : 1200012 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1526.smt2 : 1200016 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1544.smt2 : 1200009 ms.
---------------------------------------------------
+sat
+(objectives
+ (TrainState_15_3_14 1)
+)
+OMT_LIA/20220307-SMPT/BART-PT-050/RF-06.smt2 : 11900 ms.

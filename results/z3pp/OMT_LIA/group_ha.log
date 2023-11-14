@@ -1,0 +1,33 @@
+--------------------------------------------------
+sat
+(objectives
+ (l2478c oo)
+)
+OMT_LIA/arctic-matrix/constraint-706002.smt2 : 26836 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/arctic-matrix/constraint-1389427.smt2 : 1200359 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l2467c (* (- 1) oo))
+)
+OMT_LIA/arctic-matrix/constraint-689472.smt2 : 39619 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l3467c oo)
+)
+OMT_LIA/arctic-matrix/constraint-1365816.smt2 : 364602 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l2431c (* (- 1) oo))
+)
+OMT_LIA/arctic-matrix/constraint-1727138.smt2 : 979762 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l379c (* (- 1) oo))
+)
+OMT_LIA/arctic-matrix/constraint-901628.smt2 : 177104 ms.

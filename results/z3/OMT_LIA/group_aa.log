@@ -1,89 +1,30 @@
 --------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j12036_3-sat.smt2 : 1200187 ms.
+sat
+(objectives
+ (x2567 0)
+)
+OMT_LIA/miplib2003/mzzv11.sat.smt2 : 24909 ms.
 --------------------------------------------------
 sat
 (objectives
- (x145 1)
+ (x173 0)
 )
-OMT_LIA/pb2010/normalized-j3027_8-sat.smt2 : 6064 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j6041_4-sat.smt2 : 1200142 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j12021_4-sat.smt2 : 1200160 ms.
+OMT_LIA/miplib2003/manna81.sat.smt2 : 8424 ms.
 --------------------------------------------------
 sat
 (objectives
- (x2148 1)
+ (x57008 0)
 )
-OMT_LIA/pb2010/normalized-j3048_8-sat.smt2 : 808 ms.
+OMT_LIA/miplib2003/fast0507.sat.smt2 : 21334 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/miplib2003/p2756.sat.smt2 : 1201948 ms.
 --------------------------------------------------
 sat
 (objectives
- (x941 1)
+ (x1163 0)
 )
-OMT_LIA/pb2010/normalized-j3024_4-sat.smt2 : 991 ms.
+OMT_LIA/miplib2003/seymour.sat.smt2 : 932 ms.
 --------------------------------------------------
 timeout
-OMT_LIA/pb2010/normalized-j6022_1-sat.smt2 : 1200088 ms.
---------------------------------------------------
-sat
-(objectives
- (x4585 0)
-)
-OMT_LIA/pb2010/normalized-j9035_5-sat.smt2 : 21408 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j3037_5-sat.smt2 : 1200055 ms.
---------------------------------------------------
-timeout
-./solvers/z3/run.sh: line 2: 1200: command not found
-OMT_LIA/pb2010/normalized-j1203_2-sat.smt2 : 1200372 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j309_9-sat.smt2 : 1200071 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j12033_3-sat.smt2 : 1200205 ms.
---------------------------------------------------
-sat
-(objectives
- (x5785 1)
-)
-OMT_LIA/pb2010/normalized-j9012_5-sat.smt2 : 12585 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j12022_9-sat.smt2 : 1200243 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j3025_7-sat.smt2 : 1200080 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j9043_2-sat.smt2 : 1200287 ms.
---------------------------------------------------
-sat
-(objectives
- (x9468 0)
-)
-OMT_LIA/pb2010/normalized-j9027_5-sat.smt2 : 41645 ms.
---------------------------------------------------
-sat
-(objectives
- (x7574 0)
-)
-OMT_LIA/pb2010/normalized-j6018_3-sat.smt2 : 9134 ms.
---------------------------------------------------
-sat
-(objectives
- (x6444 1)
-)
-OMT_LIA/pb2010/normalized-j6035_10-sat.smt2 : 6388 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j12058_4-sat.smt2 : 1200166 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j3029_6-sat.smt2 : 1200068 ms.
---------------------------------------------------
+OMT_LIA/miplib2003/air04.sat.smt2 : 1200066 ms.
