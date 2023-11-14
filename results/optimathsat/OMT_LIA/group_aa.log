@@ -1,85 +1,574 @@
 --------------------------------------------------
-(error "a symbol for 330 already exists, but it has the wrong type: Bool")
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b19.lp.smt2 : 380 ms.
+OMT_LIA/pb2010/normalized-j12036_3-sat.smt2 : 1200639 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b20.lp.smt2 : 738 ms.
+OMT_LIA/pb2010/normalized-j3027_8-sat.smt2 : 3651 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j6041_4-sat.smt2 : 1200141 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j12021_4-sat.smt2 : 1200313 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b12.lp.smt2 : 444 ms.
---------------------------------------------------
-(error "a symbol for 180 already exists, but it has the wrong type: Bool")
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b4.lp.smt2 : 295 ms.
+OMT_LIA/pb2010/normalized-j3048_8-sat.smt2 : 642 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b11.lp.smt2 : 838 ms.
+OMT_LIA/pb2010/normalized-j3024_4-sat.smt2 : 2157 ms.
 --------------------------------------------------
-(error "a symbol for 260 already exists, but it has the wrong type: Bool")
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b2.lp.smt2 : 195 ms.
+OMT_LIA/pb2010/normalized-j6022_1-sat.smt2 : 1200113 ms.
 --------------------------------------------------
-sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b6.lp.smt2 : 464 ms.
+OMT_LIA/pb2010/normalized-j9035_5-sat.smt2 : 1200039 ms.
 --------------------------------------------------
-(error "a symbol for 170 already exists, but it has the wrong type: Bool")
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b14.lp.smt2 : 521 ms.
+OMT_LIA/pb2010/normalized-j3037_5-sat.smt2 : 1200086 ms.
 --------------------------------------------------
-sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b10.lp.smt2 : 347 ms.
+OMT_LIA/pb2010/normalized-j1203_2-sat.smt2 : 1200056 ms.
 --------------------------------------------------
-sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b8.lp.smt2 : 404 ms.
+OMT_LIA/pb2010/normalized-j309_9-sat.smt2 : 1200044 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j12033_3-sat.smt2 : 1200368 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b15.lp.smt2 : 876 ms.
+OMT_LIA/pb2010/normalized-j9012_5-sat.smt2 : 111448 ms.
 --------------------------------------------------
-(error "a symbol for 280 already exists, but it has the wrong type: Bool")
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b3.lp.smt2 : 422 ms.
+OMT_LIA/pb2010/normalized-j12022_9-sat.smt2 : 1200115 ms.
 --------------------------------------------------
-(error "a symbol for 250 already exists, but it has the wrong type: Bool")
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b16.lp.smt2 : 418 ms.
+OMT_LIA/pb2010/normalized-j3025_7-sat.smt2 : 1200067 ms.
 --------------------------------------------------
-sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b9.lp.smt2 : 457 ms.
+OMT_LIA/pb2010/normalized-j9043_2-sat.smt2 : 1200062 ms.
 --------------------------------------------------
-sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b5.lp.smt2 : 889 ms.
+OMT_LIA/pb2010/normalized-j9027_5-sat.smt2 : 1200044 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b7.lp.smt2 : 495 ms.
+OMT_LIA/pb2010/normalized-j6018_3-sat.smt2 : 15250 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b17.lp.smt2 : 527 ms.
+OMT_LIA/pb2010/normalized-j6035_10-sat.smt2 : 24515 ms.
 --------------------------------------------------
-(error "a symbol for 400 already exists, but it has the wrong type: Bool")
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b1.lp.smt2 : 382 ms.
+OMT_LIA/pb2010/normalized-j12058_4-sat.smt2 : 1200457 ms.
 --------------------------------------------------
-sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b13.lp.smt2 : 761 ms.
+OMT_LIA/pb2010/normalized-j3029_6-sat.smt2 : 1200145 ms.
 --------------------------------------------------
-sat
-OMT_LIA/2019-cmodelsdiff/randomNontight/n40-sat-b18.lp.smt2 : 837 ms.
+OMT_LIA/pb2010/normalized-j12037_7-sat.smt2 : 1200281 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/boundsmodels/dp_12.formula1-s-O2-b10.smo2.smt2 : 344 ms.
+OMT_LIA/pb2010/normalized-j6048_4-sat.smt2 : 9304 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/boundsmodels/dp_6.formula1-i-O2-b8.smo2.smt2 : 153 ms.
+OMT_LIA/pb2010/normalized-j3020_1-sat.smt2 : 2259 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j9010_8-sat.smt2 : 1200217 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j906_2-sat.smt2 : 1200039 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j12045_10-sat.smt2 : 1200140 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/boundsmodels/dp_10.formula1-i-O2-b12.smo2.smt2 : 378 ms.
+OMT_LIA/pb2010/normalized-j6040_1-sat.smt2 : 10722 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j1201_5-sat.smt2 : 1200200 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j1209_4-sat.smt2 : 1200177 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/boundsmodels/dp_10.formula1-s-O2-b9.smo2.smt2 : 166 ms.
+OMT_LIA/pb2010/normalized-j3031_7-sat.smt2 : 4719 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j3025_1-sat.smt2 : 1200085 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/boundsmodels/dp_8.formula1-i-O2-b10.smo2.smt2 : 239 ms.
+OMT_LIA/pb2010/normalized-1096.cudf.paranoid.smt2 : 24 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j12016_4-sat.smt2 : 1200598 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/boundsmodels/dp_6.formula1-s-O2-b7.smo2.smt2 : 79 ms.
+OMT_LIA/pb2010/normalized-j308_6-sat.smt2 : 542 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j12010_10-sat.smt2 : 1200057 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j9042_5-sat.smt2 : 1200088 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j12034_4-sat.smt2 : 1200139 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j12036_4-sat.smt2 : 1200596 ms.
+--------------------------------------------------
+OMT_LIA/pb2010/normalized-j605_7-sat.smt2 : 1200214 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/boundsmodels/dp_8.formula1-s-O2-b8.smo2.smt2 : 112 ms.
+OMT_LIA/pb2010/normalized-j6015_4-sat.smt2 : 411079 ms.
 --------------------------------------------------
 sat
-OMT_LIA/2019-cmodelsdiff/boundsmodels/dp_12.formula1-i-O2-b14.smo2.smt2 : 649 ms.
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/qrcu-2-O0.smt2 : 3553 ms.
 --------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/race-1_3-join-O0.smt2 : 702 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/stack-2-O0.smt2 : 4925 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/race-1_2-join-O0.smt2 : 686 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/sum01_bug02_sum01_bug02_base.case-O0.smt2 : 1150 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/underapprox_1-1-O0.smt2 : 326 ms.
+--------------------------------------------------
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/underapprox_2-1-O0.smt2 : 1200009 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/terminator_03-1-O0.smt2 : 748 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/trex02-2-O0.smt2 : 199 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/terminator_01-O0.smt2 : 237 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/for_bounded_loop1-O0.smt2 : 462 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/sum01_bug02-O0.smt2 : 513 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/count_up_down-2-O0.smt2 : 261 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/terminator_02-1-O0.smt2 : 273 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/gcnr2008-O0.smt2 : 318 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/nested_1b-O0.smt2 : 372 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/trex01-1-O0.smt2 : 229 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-14.smt2 : 2876 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-09.smt2 : 2873 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-15.smt2 : 2964 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-05.smt2 : 3124 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-00.smt2 : 3099 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-13.smt2 : 2933 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-00.smt2 : 3026 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-10.smt2 : 2945 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-06.smt2 : 2901 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-03.smt2 : 2933 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-04.smt2 : 2907 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-12.smt2 : 2946 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-07.smt2 : 2918 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-10.smt2 : 2920 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-04.smt2 : 2956 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-11.smt2 : 2968 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-06.smt2 : 2917 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-08.smt2 : 2944 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-01.smt2 : 2898 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-15.smt2 : 3255 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-02.smt2 : 2869 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-07.smt2 : 2875 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-13.smt2 : 2903 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-14.smt2 : 26 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-09.smt2 : 27 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-14.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-15.smt2 : 26 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-00.smt2 : 26 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-13.smt2 : 28 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-00.smt2 : 23 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-10.smt2 : 27 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-06.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-03.smt2 : 24 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-04.smt2 : 26 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-12.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-08.smt2 : 23 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-02.smt2 : 23 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-07.smt2 : 24 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-04.smt2 : 23 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-11.smt2 : 19 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-09.smt2 : 21 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-08.smt2 : 20 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-01.smt2 : 18 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-03.smt2 : 23 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-15.smt2 : 22 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-07.smt2 : 26 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RF-13.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N300/RC-12.smt2 : 20 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RC-15.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RF-05.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RC-13.smt2 : 24 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RC-00.smt2 : 24 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RF-10.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RC-01.smt2 : 21 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RC-06.smt2 : 24 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RF-03.smt2 : 23 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RC-04.smt2 : 18 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RC-11.smt2 : 20 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RC-05.smt2 : 20 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RC-08.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RC-02.smt2 : 24 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RC-07.smt2 : 22 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RF-11.smt2 : 46 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RF-08.smt2 : 24 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RF-01.smt2 : 20 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RF-15.smt2 : 19 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RF-07.smt2 : 23 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/SmallOperatingSystem-PT-MT0128DC0064/RF-13.smt2 : 20 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RF-14.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RF-09.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-15.smt2 : 27 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RF-00.smt2 : 28 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-13.smt2 : 27 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-00.smt2 : 24 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RF-10.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-01.smt2 : 28 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-06.smt2 : 22 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-04.smt2 : 27 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-11.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-05.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RF-12.smt2 : 22 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-08.smt2 : 22 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-02.smt2 : 26 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-07.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-10.smt2 : 20 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RF-11.smt2 : 21 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RF-06.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RF-01.smt2 : 18 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-03.smt2 : 24 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RF-02.smt2 : 23 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RF-07.smt2 : 25 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RF-13.smt2 : 27 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D05N010/RC-12.smt2 : 26 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-14.smt2 : 131 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-14.smt2 : 140 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-15.smt2 : 130 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-05.smt2 : 139 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-00.smt2 : 128 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-13.smt2 : 128 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-00.smt2 : 125 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-10.smt2 : 131 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-01.smt2 : 130 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-06.smt2 : 130 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-03.smt2 : 134 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-11.smt2 : 122 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-05.smt2 : 134 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-12.smt2 : 125 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-02.smt2 : 130 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-07.smt2 : 134 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-04.smt2 : 136 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-11.smt2 : 121 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-09.smt2 : 133 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-06.smt2 : 137 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-08.smt2 : 133 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-01.smt2 : 133 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-03.smt2 : 133 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-15.smt2 : 137 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-07.smt2 : 124 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RF-13.smt2 : 123 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0050/RC-12.smt2 : 125 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RF-09.smt2 : 29 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-14.smt2 : 36 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-15.smt2 : 35 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RF-05.smt2 : 34 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RF-00.smt2 : 34 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-13.smt2 : 34 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-00.smt2 : 37 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RF-10.smt2 : 32 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-01.smt2 : 34 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-06.smt2 : 33 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RF-03.smt2 : 33 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-04.smt2 : 30 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-11.smt2 : 33 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-05.smt2 : 31 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RF-12.smt2 : 31 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-08.smt2 : 29 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-02.smt2 : 36 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-07.smt2 : 32 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-10.smt2 : 38 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RF-04.smt2 : 34 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RF-11.smt2 : 29 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RC-09.smt2 : 36 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d4n3m2c23/RF-06.smt2 : 36 ms.

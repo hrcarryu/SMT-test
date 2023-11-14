@@ -1,0 +1,59 @@
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1498.smt2 : 1200087 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1539.smt2 : 1200024 ms.
+--------------------------------------------------
+sat
+(objectives
+ (z1341_31_0_ 0)
+)
+OMT_LIA/convert/convert-jpg2gif-query-1562.smt2 : 32225 ms.
+--------------------------------------------------
+sat
+(objectives
+ (z1393_31_8_ 0)
+)
+OMT_LIA/convert/convert-jpg2gif-query-1575.smt2 : 122429 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1519.smt2 : 1200013 ms.
+--------------------------------------------------
+sat
+(objectives
+ (z176_31_0_ 0)
+)
+OMT_LIA/convert/convert-jpg2gif-query-1463.smt2 : 1622 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1611.smt2 : 1200017 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1579.smt2 : 1200019 ms.
+--------------------------------------------------
+timeout
+./solvers/z3/run.sh: line 2: 1200: command not found
+OMT_LIA/convert/convert-jpg2gif-query-1524.smt2 : 1200015 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1601.smt2 : 1200011 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1563.smt2 : 1200012 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1511.smt2 : 1200013 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1454.smt2 : 1200015 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1604.smt2 : 1200012 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1526.smt2 : 1200016 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1544.smt2 : 1200009 ms.
+--------------------------------------------------

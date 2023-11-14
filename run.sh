@@ -44,6 +44,9 @@ while read -r file_path; do
     if [ "$solver"x = "optimathsat"x ]; then
         ./solvers/optimathsat/run.sh $file_path $time_t
     fi
+    if [ "$solver"x = "z3pp"x ]; then
+        ./solvers/z3pp/run.sh $file_path $time_t
+    fi
     if [ "$solver"x = "z3pp_ls"x ]; then
         ./solvers/z3pp_ls/run.sh $file_path $time_t
     fi
