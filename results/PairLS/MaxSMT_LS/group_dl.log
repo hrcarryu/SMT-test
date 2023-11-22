@@ -1,0 +1,39 @@
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1792007 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/25_1_1_ex18200_uw.smt2 : 27 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1792326 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/100_0_1_ex17700.smt2 : 28 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1792771 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/100_1_1_ex25700_uw.smt2 : 36 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1793146 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/25_0_1_ex18300.smt2 : 38 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1793553 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/25_0_1_ex20900.smt2 : 34 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1793941 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/100_1_1_ex27500_uw.smt2 : 37 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1794288 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/100_1_1_ex21900_uw.smt2 : 42 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1794632 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/50_0_1_ex20400.smt2 : 26 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1794869 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/50_0_1_ex28800.smt2 : 29 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1795099 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/25_1_1_ex23000_uw.smt2 : 31 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1795322 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/100_1_1_ex20300_uw.smt2 : 19 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1795424 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/10_0_1_ex16500.smt2 : 14 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1795495 Segmentation fault      solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/25_1_1_ex24200_uw.smt2 : 13 ms.

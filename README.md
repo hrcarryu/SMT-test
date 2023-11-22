@@ -16,6 +16,5 @@ $time(s): 1000/1200
 ```
 ./total.sh cvc5-omt 1200
 ./total.sh z3pp-ls 1200
-./total.sh PairLS 1200
+./total.sh PairLS 300
 ```
-

@@ -1,0 +1,41 @@
+--------------------------------------------------
+(error "line 1029 column 10: unknown constant weight.Auto")
+sat
+(objectives
+ (weight.Auto 92286)
+)
+MaxSMT_z3/10_0_1_ex22000.smt2 : 2484 ms.
+--------------------------------------------------
+(error "line 1029 column 10: unknown constant weight.Auto")
+sat
+(objectives
+ (weight.Auto 102)
+)
+MaxSMT_z3/10_1_1_ex28900_uw.smt2 : 588 ms.
+--------------------------------------------------
+(error "line 1009 column 10: unknown constant weight.Auto")
+sat
+(objectives
+ (weight.Auto 98266)
+)
+MaxSMT_z3/10_0_1_ex27500.smt2 : 8082 ms.
+--------------------------------------------------
+(error "line 1029 column 10: unknown constant weight.Auto")
+sat
+(objectives
+ (weight.Auto 102)
+)
+MaxSMT_z3/10_1_1_ex17700_uw.smt2 : 634 ms.
+--------------------------------------------------
+(error "line 2008 column 10: unknown constant weight.Auto")
+sat
+(objectives
+ (weight.Auto 547)
+)
+MaxSMT_z3/50_1_1_ex22700_uw.smt2 : 11359 ms.
+--------------------------------------------------
+(error "line 1029 column 10: unknown constant weight.Auto")
+timeout
+MaxSMT_z3/10_0_1_ex29100.smt2 : 1200019 ms.
+--------------------------------------------------
+(error "line 3106 column 10: unknown constant weight.Auto")

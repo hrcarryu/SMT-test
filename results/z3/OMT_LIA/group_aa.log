@@ -1,0 +1,54 @@
+--------------------------------------------------
+sat
+(objectives
+ (x2567 0)
+)
+OMT_LIA/miplib2003/mzzv11.sat.smt2 : 2770 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x173 0)
+)
+OMT_LIA/miplib2003/manna81.sat.smt2 : 702 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x57008 0)
+)
+OMT_LIA/miplib2003/fast0507.sat.smt2 : 14050 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x1163 0)
+)
+OMT_LIA/miplib2003/seymour.sat.smt2 : 490 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x11252 0)
+)
+OMT_LIA/miplib2003/mzzv42z.sat.smt2 : 3155 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x65804 0)
+)
+OMT_LIA/miplib2003/nw04.sat.smt2 : 36180 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x1117 1)
+)
+OMT_LIA/miplib2003/harp2.sat.smt2 : 38230 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x2052 1)
+)
+OMT_LIA/miplib2003/cap6000.sat.smt2 : 744 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x9652 0)
+)
+OMT_LIA/miplib2003/sp97ar.sat.smt2 : 5329 ms.

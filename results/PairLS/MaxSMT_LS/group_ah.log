@@ -1,0 +1,39 @@
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1790127 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/50_0_1_ex28700.smt2 : 1431 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1795741 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/50_0_1_ex15800.smt2 : 697 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1796568 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/25_0_1_ex21300.smt2 : 714 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1796871 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/100_1_1_ex15500_uw.smt2 : 628 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1797026 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/50_1_1_ex21800_uw.smt2 : 599 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1797304 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/10_0_1_ex19200.smt2 : 590 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1797545 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/50_1_1_ex23300_uw.smt2 : 587 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1797780 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/100_0_1_ex27500.smt2 : 24 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1797820 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/100_1_1_ex25200_uw.smt2 : 580 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1798041 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/100_0_1_ex25200.smt2 : 22 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1798062 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/100_1_1_ex18400_uw.smt2 : 524 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1798233 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/10_0_1_ex27700.smt2 : 25 ms.
+--------------------------------------------------
+./solvers/PairLS/run.sh: line 1: 1798266 Segmentation fault      (core dumped) solvers/PairLS/bin/PairLS $1 $2
+MaxSMT_LS/100_0_1_ex22600.smt2 : 605 ms.

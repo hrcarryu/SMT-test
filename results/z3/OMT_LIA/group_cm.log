@@ -1,0 +1,54 @@
+--------------------------------------------------
+sat
+(objectives
+ (TrainState_2_1_35 0)
+)
+OMT_LIA/20220307-SMPT/BART-PT-060/RF-00.smt2 : 1917 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a2023 1)
+)
+OMT_LIA/20220307-SMPT/BART-PT-060/RF-11.smt2 : 1858 ms.
+--------------------------------------------------
+sat
+(objectives
+ (TrainState_18_4_18 1)
+)
+OMT_LIA/20220307-SMPT/BART-PT-060/RC-11.smt2 : 1831 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a1923 0)
+)
+OMT_LIA/20220307-SMPT/BART-PT-060/RC-07.smt2 : 1883 ms.
+--------------------------------------------------
+sat
+(objectives
+ (cAMP__22_19_ 9)
+)
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N010/RF-03.smt2 : 150 ms.
+--------------------------------------------------
+sat
+(objectives
+ (cAMP__2_10_ 9)
+)
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N010/RF-09.smt2 : 170 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a186 6)
+)
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N010/RC-00.smt2 : 144 ms.
+--------------------------------------------------
+sat
+(objectives
+ (cAMP__4_3_ 7)
+)
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N010/RC-10.smt2 : 146 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a683 9)
+)
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D30N010/RF-06.smt2 : 86 ms.

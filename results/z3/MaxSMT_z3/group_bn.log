@@ -1,0 +1,9 @@
+--------------------------------------------------
+(error "line 1399 column 10: unknown constant weight.Auto")
+sat
+(objectives
+ (weight.Auto 225217)
+)
+MaxSMT_z3/25_0_1_ex25800.smt2 : 714644 ms.
+--------------------------------------------------
+(error "line 2028 column 10: unknown constant weight.Auto")

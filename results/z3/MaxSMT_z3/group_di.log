@@ -1,0 +1,13 @@
+--------------------------------------------------
+(error "line 1928 column 10: unknown constant weight.Auto")
+sat
+(objectives
+ (weight.Auto 535)
+)
+MaxSMT_z3/50_1_1_ex25500_uw.smt2 : 27932 ms.
+--------------------------------------------------
+(error "line 1928 column 10: unknown constant weight.Auto")
+timeout
+MaxSMT_z3/50_1_1_ex18200_uw.smt2 : 1200019 ms.
+--------------------------------------------------
+(error "line 1908 column 10: unknown constant weight.Auto")

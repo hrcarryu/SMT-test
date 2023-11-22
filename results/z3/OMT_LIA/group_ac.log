@@ -1,0 +1,54 @@
+--------------------------------------------------
+sat
+(objectives
+ (l1674c oo)
+)
+OMT_LIA/tropical-matrix/constraint-703279.smt2 : 8344 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l23c oo)
+)
+OMT_LIA/tropical-matrix/constraint-463860.smt2 : 7266 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l3882c oo)
+)
+OMT_LIA/tropical-matrix/constraint-1791895.smt2 : 473625 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l574c oo)
+)
+OMT_LIA/tropical-matrix/constraint-651478.smt2 : 34685 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l636c oo)
+)
+OMT_LIA/tropical-matrix/constraint-523123.smt2 : 5225 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l609c (* (- 1) oo))
+)
+OMT_LIA/tropical-matrix/constraint-170961.smt2 : 905 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l1681c (* (- 1) oo))
+)
+OMT_LIA/tropical-matrix/constraint-704423.smt2 : 10747 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l358c oo)
+)
+OMT_LIA/tropical-matrix/constraint-1270998.smt2 : 24731 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l4298c oo)
+)
+OMT_LIA/tropical-matrix/constraint-1192684.smt2 : 85448 ms.
