@@ -1,36 +1,30 @@
 --------------------------------------------------
 sat
 (objectives
- (TrainState_9_2_22 1)
+ (a7180 1)
 )
-OMT_LIA/20220307-SMPT/BART-PT-030/RF-12.smt2 : 88384 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r1000w0010/RF-12.smt2 : 606 ms.
 --------------------------------------------------
 sat
 (objectives
- (a2217 0)
+ (a3924 1)
 )
-OMT_LIA/20220307-SMPT/BART-PT-030/RF-05.smt2 : 69061 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r1000w0010/RF-05.smt2 : 668 ms.
 --------------------------------------------------
 sat
 (objectives
- (TrainState_1_2_31 0)
+ (a2875 1)
 )
-OMT_LIA/20220307-SMPT/BART-PT-030/RC-14.smt2 : 10349 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r1000w0010/RF-08.smt2 : 535 ms.
 --------------------------------------------------
 sat
 (objectives
- (TrainState_27_3_15 1)
+ (p934 0)
 )
-OMT_LIA/20220307-SMPT/BART-PT-030/RC-02.smt2 : 22626 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r1000w0010/RF-15.smt2 : 543 ms.
 --------------------------------------------------
 sat
 (objectives
- (a3844 0)
+ (a3828 1)
 )
-OMT_LIA/20220307-SMPT/BART-PT-030/RC-12.smt2 : 15055 ms.
---------------------------------------------------
-sat
-(objectives
- (a2093 1)
-)
-OMT_LIA/20220307-SMPT/BART-PT-030/RF-08.smt2 : 6518 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r1000w0010/RC-15.smt2 : 500 ms.

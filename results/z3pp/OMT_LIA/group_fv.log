@@ -1,24 +1,30 @@
 --------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j6022_1-sat.smt2 : 1200157 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j12034_4-sat.smt2 : 1200186 ms.
+sat
+(objectives
+ (a406 1)
+)
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-15.smt2 : 157 ms.
 --------------------------------------------------
 sat
 (objectives
- (x941 1)
+ (a1115 1)
 )
-OMT_LIA/pb2010/normalized-j3024_4-sat.smt2 : 1998 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j12016_4-sat.smt2 : 1200487 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j1209_4-sat.smt2 : 1200349 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-15.smt2 : 123 ms.
 --------------------------------------------------
 sat
 (objectives
- (x6114 0)
+ (a551 0)
 )
-OMT_LIA/pb2010/normalized-j6048_4-sat.smt2 : 7620 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-13.smt2 : 128 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a920 1)
+)
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RC-03.smt2 : 112 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a428 0)
+)
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0100/RF-04.smt2 : 100 ms.

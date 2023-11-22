@@ -1,36 +1,30 @@
 --------------------------------------------------
 sat
 (objectives
- (a3 0)
+ (p_0_1_0_1_3 0)
 )
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-03.smt2 : 41498 ms.
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-07.smt2 : 139 ms.
 --------------------------------------------------
 sat
 (objectives
- (a930 0)
+ (a947 0)
 )
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-09.smt2 : 22545 ms.
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-02.smt2 : 184 ms.
 --------------------------------------------------
 sat
 (objectives
- (a455 0)
+ (p_0_3_0_2_3 0)
 )
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RC-00.smt2 : 31246 ms.
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RC-08.smt2 : 165 ms.
 --------------------------------------------------
 sat
 (objectives
- (p_0_2_1_2_0 1022)
+ (p_0_2_1_1_0 1024)
 )
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RC-10.smt2 : 13342 ms.
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-00.smt2 : 167 ms.
 --------------------------------------------------
 sat
 (objectives
- (p_0_2_2_0_0 0)
+ (p_0_0_1_0_3 0)
 )
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-06.smt2 : 48322 ms.
---------------------------------------------------
-sat
-(objectives
- (p_0_2_0_0_1 0)
-)
-OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-01.smt2 : 13504 ms.
+OMT_LIA/20220307-SMPT/NeighborGrid-PT-d5n4m1t35/RF-11.smt2 : 181 ms.

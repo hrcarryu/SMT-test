@@ -1,21 +1,30 @@
 --------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1598.smt2 : 1200327 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1523.smt2 : 1200485 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1546.smt2 : 1200082 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1610.smt2 : 1200055 ms.
---------------------------------------------------
-timeout
-OMT_LIA/convert/convert-jpg2gif-query-1617.smt2 : 1200034 ms.
+sat
+(objectives
+ (l1313c oo)
+)
+OMT_LIA/arctic-matrix/constraint-1185949.smt2 : 195849 ms.
 --------------------------------------------------
 sat
 (objectives
- (z699_31_0_ 4)
+ (l1664c (* (- 1) oo))
 )
-OMT_LIA/convert/convert-jpg2gif-query-1564.smt2 : 55260 ms.
+OMT_LIA/arctic-matrix/constraint-928134.smt2 : 175702 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l1678c (* (- 1) oo))
+)
+OMT_LIA/arctic-matrix/constraint-415996.smt2 : 63846 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l3522c oo)
+)
+OMT_LIA/arctic-matrix/constraint-864173.smt2 : 34612 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l2939c (* (- 1) oo))
+)
+OMT_LIA/arctic-matrix/constraint-1648145.smt2 : 622468 ms.

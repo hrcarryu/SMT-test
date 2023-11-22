@@ -1,33 +1,30 @@
 --------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j1201_5-sat.smt2 : 1201019 ms.
+sat
+(objectives
+ (a4209 0)
+)
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-02.smt2 : 1274 ms.
 --------------------------------------------------
 sat
 (objectives
- (AT0_PROC3_X oo)
+ (a3118 0)
 )
-OMT_LIA/mathsat/FISCHER8-13-fair.smt2 : 3618 ms.
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-00.smt2 : 1001 ms.
 --------------------------------------------------
 sat
 (objectives
- (AT9_PROC1_X (* (- 1) oo))
+ (TrainState_17_2_4 0)
 )
-OMT_LIA/mathsat/FISCHER7-12-fair.smt2 : 832 ms.
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-11.smt2 : 949 ms.
 --------------------------------------------------
 sat
 (objectives
- (AT11_PROC8_X oo)
+ (TrainState_20_1_1 0)
 )
-OMT_LIA/mathsat/FISCHER9-14-fair.smt2 : 487 ms.
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-07.smt2 : 935 ms.
 --------------------------------------------------
 sat
 (objectives
- (AT4_PROC8_X (* (- 1) oo))
+ (a2860 0)
 )
-OMT_LIA/mathsat/FISCHER10-15-fair.smt2 : 7829 ms.
---------------------------------------------------
-sat
-(objectives
- (AT0_Z oo)
-)
-OMT_LIA/mathsat/FISCHER11-16-fair.smt2 : 2311 ms.
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-13.smt2 : 1314 ms.

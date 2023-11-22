@@ -1,24 +1,30 @@
 --------------------------------------------------
 sat
 (objectives
- (l4300c (* (- 1) oo))
+ (a203 0)
 )
-OMT_LIA/tropical-matrix/constraint-1072007.smt2 : 137483 ms.
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-14.smt2 : 121 ms.
 --------------------------------------------------
 sat
 (objectives
- (l358c oo)
+ (voting_86 1)
 )
-OMT_LIA/tropical-matrix/constraint-1270998.smt2 : 742086 ms.
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-10.smt2 : 124 ms.
 --------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-1495125.smt2 : 1200085 ms.
+sat
+(objectives
+ (a678 1)
+)
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-12.smt2 : 124 ms.
 --------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-4033959.smt2 : 1200153 ms.
+sat
+(objectives
+ (voting_462 0)
+)
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-05.smt2 : 189 ms.
 --------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-1915015.smt2 : 1200120 ms.
---------------------------------------------------
-timeout
-OMT_LIA/tropical-matrix/constraint-2306960.smt2 : 1200177 ms.
+sat
+(objectives
+ (a618 1)
+)
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RC-14.smt2 : 158 ms.

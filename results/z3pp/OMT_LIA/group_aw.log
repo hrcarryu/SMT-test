@@ -1,36 +1,30 @@
 --------------------------------------------------
 sat
 (objectives
- (a618 1)
+ (a1422 0)
 )
-OMT_LIA/20220307-SMPT/Referendum-PT-0500/RC-14.smt2 : 44934 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RC-00.smt2 : 1091 ms.
 --------------------------------------------------
 sat
 (objectives
- (voted_yes_496 1)
+ (a3198 0)
 )
-OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-08.smt2 : 20757 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-06.smt2 : 984 ms.
 --------------------------------------------------
 sat
 (objectives
- (voted_no_85 0)
+ (a5253 1)
 )
-OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-15.smt2 : 11902 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-01.smt2 : 928 ms.
 --------------------------------------------------
 sat
 (objectives
- (a497 0)
+ (a2277 0)
 )
-OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-13.smt2 : 12246 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RC-05.smt2 : 965 ms.
 --------------------------------------------------
 sat
 (objectives
- (voting_213 1)
+ (p223 1)
 )
-OMT_LIA/20220307-SMPT/Referendum-PT-0500/RC-03.smt2 : 23360 ms.
---------------------------------------------------
-sat
-(objectives
- (a88 1)
-)
-OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-07.smt2 : 26203 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RC-04.smt2 : 905 ms.

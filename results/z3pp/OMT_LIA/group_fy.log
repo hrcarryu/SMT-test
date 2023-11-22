@@ -1,27 +1,30 @@
 --------------------------------------------------
 sat
 (objectives
- (x9468 0)
+ (a4393 1)
 )
-OMT_LIA/pb2010/normalized-j9027_5-sat.smt2 : 78836 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j605_7-sat.smt2 : 1200191 ms.
---------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j309_9-sat.smt2 : 1200121 ms.
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-10.smt2 : 1259 ms.
 --------------------------------------------------
 sat
 (objectives
- (x10021 0)
+ (a2278 1)
 )
-OMT_LIA/pb2010/normalized-j6040_1-sat.smt2 : 9554 ms.
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-06.smt2 : 996 ms.
 --------------------------------------------------
 sat
 (objectives
- (x1864 0)
+ (a3774 0)
 )
-OMT_LIA/pb2010/normalized-j3031_7-sat.smt2 : 5067 ms.
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-01.smt2 : 1211 ms.
 --------------------------------------------------
-timeout
-OMT_LIA/pb2010/normalized-j3025_1-sat.smt2 : 1200097 ms.
+sat
+(objectives
+ (TrainState_18_1_28 1)
+)
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-04.smt2 : 937 ms.
+--------------------------------------------------
+sat
+(objectives
+ (TrainState_2_2_25 0)
+)
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-14.smt2 : 1171 ms.

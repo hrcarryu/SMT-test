@@ -1,36 +1,30 @@
 --------------------------------------------------
 sat
 (objectives
- (a114 1)
+ (TrainState_2_4_12 0)
 )
-OMT_LIA/20220307-SMPT/Referendum-PT-0200/RC-14.smt2 : 8387 ms.
+OMT_LIA/20220307-SMPT/BART-PT-005/RF-03.smt2 : 160 ms.
 --------------------------------------------------
 sat
 (objectives
- (voted_yes_92 1)
+ (TrainState_2_1_20 0)
 )
-OMT_LIA/20220307-SMPT/Referendum-PT-0200/RC-02.smt2 : 8065 ms.
+OMT_LIA/20220307-SMPT/BART-PT-005/RF-09.smt2 : 152 ms.
 --------------------------------------------------
 sat
 (objectives
- (voted_no_33 1)
+ (a511 1)
 )
-OMT_LIA/20220307-SMPT/Referendum-PT-0200/RC-12.smt2 : 10166 ms.
+OMT_LIA/20220307-SMPT/BART-PT-005/RC-00.smt2 : 236 ms.
 --------------------------------------------------
 sat
 (objectives
- (voting_71 1)
+ (a475 0)
 )
-OMT_LIA/20220307-SMPT/Referendum-PT-0200/RF-08.smt2 : 13660 ms.
+OMT_LIA/20220307-SMPT/BART-PT-005/RF-06.smt2 : 138 ms.
 --------------------------------------------------
 sat
 (objectives
- (voted_yes_16 0)
+ (TrainState_1_2_7 0)
 )
-OMT_LIA/20220307-SMPT/Referendum-PT-0200/RF-15.smt2 : 42970 ms.
---------------------------------------------------
-sat
-(objectives
- (a270 1)
-)
-OMT_LIA/20220307-SMPT/Referendum-PT-0200/RC-15.smt2 : 25371 ms.
+OMT_LIA/20220307-SMPT/BART-PT-005/RC-05.smt2 : 145 ms.

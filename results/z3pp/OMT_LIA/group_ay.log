@@ -1,36 +1,30 @@
 --------------------------------------------------
 sat
 (objectives
- (cAMP__20_47_ 97)
+ (a4849 1)
 )
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N100/RC-10.smt2 : 82682 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RC-14.smt2 : 1032 ms.
 --------------------------------------------------
 sat
 (objectives
- (cAMP__1_43_ 99)
+ (p670 0)
 )
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N100/RF-06.smt2 : 13323 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RC-02.smt2 : 973 ms.
 --------------------------------------------------
 sat
 (objectives
- (a1019 0)
+ (a807 0)
 )
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N100/RF-01.smt2 : 41535 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RC-06.smt2 : 941 ms.
 --------------------------------------------------
 sat
 (objectives
- (a1028 99)
+ (a4739 0)
 )
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N100/RC-05.smt2 : 12411 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RC-12.smt2 : 1141 ms.
 --------------------------------------------------
 sat
 (objectives
- (a2264 99)
+ (a2958 1)
 )
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N100/RC-04.smt2 : 13352 ms.
---------------------------------------------------
-sat
-(objectives
- (cAMP__43_38_ 0)
-)
-OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N100/RF-14.smt2 : 21462 ms.
+OMT_LIA/20220307-SMPT/RwMutex-PT-r0010w0500/RF-08.smt2 : 873 ms.
