@@ -1,0 +1,2 @@
+./scripts/parallel.sh 100 cvc5-omt 1200 OMT_NRA
+nohup ./scripts/log.sh results/cvc5-omt-1200.log &

@@ -1,0 +1,1 @@
+timeout $2 solvers/cvc5-omt/bin/cvc5 $1

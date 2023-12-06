@@ -18,7 +18,7 @@ while read -r file_path; do
         ./solvers/z3/run.sh $file_path $time_t
     fi
     if [ "$solver"x = "cvc5-omt"x ]; then
-        ./solvers/cvc5/run.sh $file_path $time_t
+        ./solvers/cvc5-omt/run.sh $file_path $time_t
     fi
     if [ "$solver"x = "z3pp-ls"x ]; then
         ./solvers/z3pp-ls/run.sh $file_path $time_t

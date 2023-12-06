@@ -1,1 +1,1 @@
-solvers/PairLS/bin/PairLS $1 $2
+solvers/PairLS/bin/PairLS $1 $2 0

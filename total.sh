@@ -1,5 +1,8 @@
 #!/bin/bash
 # ./total.sh z3pp-ls 1200
+# ./total.sh cvc5-omt 1200
+# ./total.sh PairLS 300
+# ./scripts/parallel.sh 100 PairLS 300 MaxSMT_LS
 
 solver=$1
 time_t=$2
@@ -17,9 +20,4 @@ fi
 if [ "$solver"x = "PairLS"x ]; then
     ./scripts/parallel.sh 100 PairLS $time_t MaxSMT_LS
     ./scripts/parallel.sh 100 z3 $time_t MaxSMT_z3
-fi
-
-if [ "$solver"x = "test"x ]; then
-    ./scripts/parallel.sh 100 z3pp-ls $time_t test
-    ./scripts/parallel.sh 100 z3 $time_t test
 fi
