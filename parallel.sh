@@ -3,13 +3,12 @@
 # ./parallel.sh 40 z3pp_ls 1200 OMT_LIA
 
 # 定义输入目录和输出目录
-# input_directory="/pub/data/Ailura/QF_SLIA"
-# output_directory="/home/hanrui/SMT-test/results"
-# path_directory="/home/hanrui/SMT-test/QF_SLIA_path"
-input_directory="/home/hanrui/OMT_LIA"
+input_directory="/home/hanrui/QF_SLIA"
 output_directory="/home/hanrui/SMT-test/results"
-path_directory="/home/hanrui/SMT-test/OMT_LIA_path"
+path_directory="/home/hanrui/SMT-test/QF_SLIA_unknown"
 
+
+# ./parallel.sh 40 s3n 1200 QF_SLIA
 
 # 输入参数
 num_groups="$1"
