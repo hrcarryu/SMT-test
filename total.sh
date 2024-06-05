@@ -1,14 +1,14 @@
 #!/bin/bash
 # ./total.sh z3pp-ls 1200
-# ./total.sh cvc5-omt 1200
+# ./total.sh cvc5-ocac 1200
 # ./total.sh PairLS 300
 # ./scripts/parallel.sh 100 PairLS 300 MaxSMT_LS
 
 solver=$1
 time_t=$2
 
-if [ "$solver"x = "cvc5-omt"x ]; then
-    ./scripts/parallel.sh 100 cvc5-omt $time_t OMT_NRA
+if [ "$solver"x = "cvc5-ocac"x ]; then
+    ./scripts/parallel.sh 100 cvc5-ocac $time_t OMT_NRA
     ./scripts/parallel.sh 100 z3 $time_t OMT_NRA
 fi
 

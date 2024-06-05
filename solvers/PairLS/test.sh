@@ -1,1 +1,1 @@
-./bin/PairLS $1 $2 0
+./bin/PairLS $1 $2 $3

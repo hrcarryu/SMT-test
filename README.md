@@ -9,12 +9,12 @@
 运行命令：
 ```
 ./total.sh $solver $time
-$solver: cvc5-omt|z3pp-ls|PairLS
+$solver: cvc5-ocac|z3pp-ls|PairLS
 $time(s): 1000/1200
 ```
 三个求解器的命令如下，结果保存在charts文件夹下。
 ```
-./total.sh cvc5-omt 1200
+./total.sh cvc5-ocac 1200
 ./total.sh z3pp-ls 1200
 ./total.sh PairLS 300
 ```
